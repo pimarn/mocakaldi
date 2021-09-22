@@ -1,0 +1,3 @@
+#!/bin/bash
+
+utils/prepare_lang.sh --phone-symbol-table exp/chain/e2e_tdnnf_1a/phones.txt data/local/dict "!SIL" data/local/lang_own_tmp/ data/lang_own

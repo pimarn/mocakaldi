@@ -1,0 +1,51 @@
+LOTUS + MoCA (test)
+==================
+GMM
+---
+%WER 6.16 [ 189 / 3068, 69 ins, 20 del, 100 sub ] exp/mono/decode/wer_17_1.0
+%WER 103.94 [ 528 / 508, 37 ins, 125 del, 366 sub ] exp/mono/decode_test-clean/wer_17_1.0
+%WER 88.19 [ 448 / 508, 5 ins, 355 del, 88 sub ] exp/mono/decode_test-fin/wer_14_0.5
+%WER 75.19 [ 873 / 1161, 7 ins, 700 del, 166 sub ] exp/mono/decode_test-go/wer_12_0.0
+%WER 4.47 [ 137 / 3068, 54 ins, 17 del, 66 sub ] exp/tri1/decode/wer_17_1.0
+%WER 104.33 [ 530 / 508, 48 ins, 185 del, 297 sub ] exp/tri1/decode_test-clean/wer_17_1.0
+%WER 41.54 [ 211 / 508, 7 ins, 143 del, 61 sub ] exp/tri1/decode_test-fin/wer_8_0.5
+%WER 23.00 [ 267 / 1161, 8 ins, 201 del, 58 sub ] exp/tri1/decode_test-go/wer_11_0.0
+%WER 112.20 [ 570 / 508, 77 ins, 55 del, 438 sub ] exp/tri2b/decode_test-clean/wer_17_1.0
+%WER 29.53 [ 150 / 508, 4 ins, 104 del, 42 sub ] exp/tri2b/decode_test-fin/wer_16_1.0
+%WER 17.14 [ 199 / 1161, 4 ins, 147 del, 48 sub ] exp/tri2b/decode_test-go/wer_13_0.5
+%WER 2.77 [ 85 / 3068, 28 ins, 12 del, 45 sub ] exp/tri3b/decode/wer_16_1.0
+%WER 3.59 [ 110 / 3068, 43 ins, 14 del, 53 sub ] exp/tri3b/decode.si/wer_17_1.0
+%WER 112.20 [ 570 / 508, 86 ins, 54 del, 430 sub ] exp/tri3b/decode_test-clean/wer_16_1.0
+%WER 108.66 [ 552 / 508, 68 ins, 82 del, 402 sub ] exp/tri3b/decode_test-clean.si/wer_17_1.0
+%WER 20.87 [ 106 / 508, 3 ins, 71 del, 32 sub ] exp/tri3b/decode_test-fin/wer_14_1.0
+%WER 21.06 [ 107 / 508, 3 ins, 72 del, 32 sub ] exp/tri3b/decode_test-fin.si/wer_10_0.0
+%WER 13.26 [ 154 / 1161, 4 ins, 109 del, 41 sub ] exp/tri3b/decode_test-go/wer_10_0.0
+%WER 12.75 [ 148 / 1161, 4 ins, 102 del, 42 sub ] exp/tri3b/decode_test-go.si/wer_7_0.0
+
+LOTUTS + MoCA (test+clean) + Augmentation
+=========================================
+GMM
+--- 
+%WER 6.13 [ 188 / 3068, 67 ins, 22 del, 99 sub ] exp/mono/decode/wer_17_1.0
+%WER 101.77 [ 517 / 508, 109 ins, 84 del, 324 sub ] exp/mono/decode_test-clean/wer_15_1.0
+%WER 60.43 [ 307 / 508, 51 ins, 11 del, 245 sub ] exp/mono/decode_test-fin/wer_17_1.0
+%WER 4.17 [ 128 / 3068, 52 ins, 15 del, 61 sub ] exp/tri1/decode/wer_17_1.0
+%WER 72.44 [ 368 / 508, 74 ins, 90 del, 204 sub ] exp/tri1/decode_test-clean/wer_17_0.0
+%WER 19.49 [ 99 / 508, 18 ins, 31 del, 50 sub ] exp/tri1/decode_test-fin/wer_15_1.0
+%WER 58.46 [ 297 / 508, 43 ins, 147 del, 107 sub ] exp/tri2b/decode_test-clean/wer_17_0.0
+%WER 20.47 [ 104 / 508, 16 ins, 31 del, 57 sub ] exp/tri2b/decode_test-fin/wer_12_1.0
+%WER 2.48 [ 76 / 3068, 18 ins, 18 del, 40 sub ] exp/tri3b/decode/wer_17_1.0
+%WER 2.87 [ 88 / 3068, 26 ins, 19 del, 43 sub ] exp/tri3b/decode.si/wer_15_1.0
+%WER 38.78 [ 197 / 508, 21 ins, 126 del, 50 sub ] exp/tri3b/decode_test-clean/wer_14_0.0
+%WER 42.91 [ 218 / 508, 35 ins, 110 del, 73 sub ] exp/tri3b/decode_test-clean.si/wer_14_0.0
+%WER 15.75 [ 80 / 508, 15 ins, 59 del, 6 sub ] exp/tri3b/decode_test-fin/wer_16_0.5
+%WER 14.37 [ 73 / 508, 12 ins, 56 del, 5 sub ] exp/tri3b/decode_test-fin.si/wer_16_1.0
+
+E2E TDNN
+-------- 
+%WER 0.46 [ 14 / 3068, 0 ins, 13 del, 1 sub ] exp/chain/e2e_tdnnf_1a/decode_bd_tgpr_test/wer_10_0.0
+%WER 12.01 [ 61 / 508, 0 ins, 56 del, 5 sub ] exp/chain/e2e_tdnnf_1a/decode_own_test-clean/wer_7_0.0
+%WER 11.61 [ 59 / 508, 0 ins, 53 del, 6 sub ] exp/chain/e2e_tdnnf_1a/decode_own_test-fin/wer_7_0.0
+%WER 0.46 [ 14 / 3068, 0 ins, 13 del, 1 sub ] exp/chain/e2e_tdnnf_1a/decode_tgpr_test/wer_10_0.0
+
+

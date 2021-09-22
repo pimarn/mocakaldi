@@ -1,0 +1,8 @@
+#!/bin/sh
+
+while read line
+do
+	a=`echo $line |awk '{print $1'}`
+	b=`echo $a | sed 's/-.*//'`
+	echo $a $b
+done < $1

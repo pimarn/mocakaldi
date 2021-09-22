@@ -1,0 +1,3015 @@
+n v ng^1
+n v ng^1 @@ ng^4
+n v ng^1 @@ m^4
+n v ng^1 ng^1
+n v ng^1 m^4
+n v ng^1 ii z^1
+n v ng^1 h o k^1
+s @@ ng^4
+s @@ ng^4 @@ ng^1 @@ ii z^1
+s @@ ng^4 @@ ng^1 @@ h aa z^2
+s @@ ng^4 @@ ng^4
+s @@ ng^4 @@ h aa z^2
+s @@ ng^4 @@ h o k^1
+s @@ ng^4 m^4
+s @@ ng^4 h aa z^2
+s @@ ng^4 h ng^1 h o k^1
+s @@ ng^4 h aa m^4 ng^1
+s @@ ng^4 h aa m^4 ng^4
+s @@ ng^4 h aa m^4 m^4
+s aa m^4
+s aa m^4 @@ ng^1
+s aa m^4 @@ ng^1 th a j^0
+s aa m^4 @@ ng^4
+s aa m^4 @@ m^4
+s aa m^4 h o k^1
+s ii z^1
+s ii @@ ng^1 @@ ng^1
+s ii @@ m^4
+s ii @@ m^4 @@ ng^1
+s ii h aa z^2
+h aa z^2
+h o k^1
+p xx t^1
+k aa w^2
+k o k^1
+k o ng^0
+k o ng^0 l @@ z^2
+k ch aa z^4
+k o t^1
+k o t^1 d a n^0
+k a z^1 n o k^1
+k o p^1
+k a z^1 b i t^3 z^0 b u z^1 r ii z^0
+k @@ n^0
+kr o ng^0
+kr o m^0 z u z^1 t u z^1 n i z^3 j o m^0 w i t^3 th a z^3 j aa z^0
+k a m^0
+k a m^0 m a z^3 k aa n^0
+k a m^0 k @@ n^0
+kr uua j^4
+kr @@ k^1
+kr @@ ng^0
+kr @@ ng^0 kh @@ z^0
+kr @@ ng^0 n aa m^3
+kr @@ ng^0 s o m^4 r o t^1
+kr @@ ng^0 s a ng^4 w iia n^0
+kr @@ p^1
+kr @@ p^1 ch e t^1 n aa z^2
+kr a z^1
+kr a z^1 c o ng^0
+kr a z^1 c aa j^0
+kr a z^1 c uu t^1
+kr a z^1 ch aa j^0
+kr a z^1 s uu z^1
+kr a z^1 d @@ ng^0
+kr a z^1 d aa n^0 d a m^0
+kr a z^1 d aa t^2
+kr a z^1 d uu k^1
+kr a z^1 th aa ng^4
+kr a z^1 th o p^3
+kr a z^1 s uua ng^0
+kr a z^1 s uua ng^0 m a z^3 h aa t^1 th a j^0
+kr a z^1 s uua ng^0 n^2
+kr a z^1 th a z^3
+kr a z^1 th a ng^2
+kr a z^1 th a m^0
+kr a z^1 b uua n^0 k aa n^0
+kr a z^1 b @@ k^1 p vv n^0
+kr a z^1 b vva ng aa n^0
+kr a z^1 b vva pl a k^1
+kr a z^1 p iia
+kr a z^1 p @ ng^4
+kr a z^1 r @@ k^1
+kr a z^1 s u n^4
+kr a z^1 ch aa z^3
+kr a z^1 th a j^0
+kr a z^1 th iia m^0
+kr a z^1 b vva ng^2
+kr a z^1 p a w^4
+kr a z^1 ph aa z^0
+kr a z^1 p ng^4
+kr a z^1 s xx z^4
+kr a z^1 s xx z^4 f a j^0 f aa z^3
+kr a z^1 z xx m^0
+kr a z^1 c oo m^0
+kr a z^1 d oo t^1
+kr a z^1 th o n^0
+k a z^1 r aa z^0
+kr aa f^3
+kr aa f^3 f i k^1
+kr aa f^3 f i k^3 th a j^0 ch oo z^0
+k a z^1 r aa z^0 f i k^1
+k a z^1 r u z^3
+kr u ng^0 s ii z^4
+kr u ng^0 th ee p^2
+kr u ng^0 th ee p^2 n^2
+kr u ng^0 th a j^0
+kr i p aa n^0
+kr i t^1 ph o ng^0
+k o n^0
+kl o p^1
+kl o m^0
+kl o m^0 kl @ m^2
+kl @@ n^0
+kl a t^1
+kl a p^1
+kl a p^1 kl aa j^0
+kl uua z^0
+kl a n^1 kr @@ ng^0
+kl a n^1 t uua z^0
+kl a n^2
+kl aa ng^0
+kl aa ng^0 kh vv n^0
+kl aa ng^0 w a n^0
+kl aa ng^0 c xx ng^2
+kl aa j^0
+kl aa j^0 p e n^0
+kl i ng^3
+kl ii p^1
+kl vv n^0
+kl u m^2 ng aa n^0
+kl u m^2
+k o n^0 k a j^0
+kl @ ng^2
+kl @ ng^1 kh aa j^4 kh @@ ng^4
+kl aa w^1
+kl aa w^1 kh vv z^0
+kl aa w^1 th v ng^4
+kl uua j^2
+kl @@ ng^3
+kl aa z^2
+kl aa m^2
+kl aa z^2 h aa n^4
+k uua n^0
+k a z^1 w a t^1 kw ng^1
+kw aa ng^4
+kw aa z^1
+kw aa ng^2
+kw aa ng^2 khw aa ng^4
+k a z^1 s i z^1 k @@ n^0
+k @@ z^0
+k @@ ng^0
+k @@ ng^0 w i t^3 th a z^3 j aa z^0 l a j^0 th ee k^3 n i k^1
+k @@ t^2
+k @@ p^1
+k @@ j a w^2
+k a z^1
+k a z^1 th i z^3
+k a z^1 th @@ n^3
+k a z^1 p i z^1
+k a z^1 phr i p^1
+k a z^1 l aa z^0
+k a z^1 ph ee z^0 r aa z^0
+k a z^1 phr @ z^3
+k a ng^4 kh aa z^0
+k a n^0 ch aa z^0
+k a t^1
+k a n^0
+k a n^0 s aa t^1
+k a p^1
+k a p^3 kh aa w^2
+k a ng^3
+k aa z^0
+k aa ng^0
+k aa ng^2 r m^1
+k aa ng^0 k o ng^0
+k aa ng^0 k ng^2 j ii n^0
+k aa ng^0 kh ee n^0
+k aa z^0 c j a z^3 n a z^3 b u z^1 r ii z^0
+k aa n^0 c a z^1 n a z^3 w a n^0
+k aa n^4 phl uu z^0
+k aa m^0
+k aa j^0
+k aa n^0
+k aa n^0 ng aa n^0
+k aa n^0 b aa n^2
+k aa n^0 s vv z^1 s aa n^4 h x ng^1 pr a z^1 th ee t^2 th a j^0
+k aa n^0 ch vva m^2 t @@ z^1
+k aa n^0 ph xx t^2
+k aa t^1
+k aa z^0 f xx z^0
+k a m^0 k a p^1
+k a m^0 c a t^1
+k a m^0 l a ng^0
+k a m^0 l a ng^0 s o ng^1
+k a m^0 n o t^1
+k a m^0 n qq t^1
+k a m^0 r qq p^1
+k a m^0 l m vv z^0
+k i t^1 c a z^1 k a m^0
+k i t^1 t i z^1
+k i t^1 ph o t^3
+k i n^0
+k i n^0 kh aa w^2
+k i n^0 z aa z^0 h aa n^4
+k i z^1 l ee t^2
+k i z^1 l oo z^0 khl @@ z^0 r ii z^2
+k i ng^1 k aa n^2
+k i ng^2 m aa j^3
+k i o k^3
+k i xx ng^3
+k ii z^0 r a z^3 t i z^1 k @@ n^0
+k ii z^0 l aa z^0
+k ii z^1
+k ii z^2 kh o n^0
+k ii z^1 m oo ng^0
+k v ng^1
+k u n^4
+k u m^0
+k u m^0 ph aa z^0
+k u j^4
+k u z^1 l aa z^0
+k u z^1 l ii z^0 k u t^1 c @@ z^0
+k u z^1 l aa p^1
+k u ng^2
+k u ng^2 s a p^1
+k u ng^2 h xx ng^2
+k u o k^3 k i o k^3
+k u o k^3 k a j^1
+k uu z^1
+k uu z^2
+k @@ z^2
+k @@ z^2 z t^1
+k @@ z^2 d aa j^2
+k @@ n^1
+k @@ n^1 n aa z^2
+k @@ n^1 l a ng^4
+k @@ z^1 f a j^0
+k a m^2
+k n^2
+k @@ n^2
+k @@ n^2 kr uua t^1
+k aa ng^2 pl aa z^0
+k aa n^2 j aa w^0
+k aa m^2
+k aa w^2
+k aa w^2 r aa w^3
+k aa w^2 n aa z^2
+k @@ p^2
+k aa t^3
+k uua j^2 t iia w^4
+kh a z^1 n a z^1
+kh a z^1 n a z^1 th ii z^2
+kh a z^1 n a z^1 n ii z^3
+kh o n^4
+kh a z^1 n o m^4
+kh a z^1 n o m^4 w aa n^4
+kh a z^1 n aa t^1
+kh a z^1 n aa n^0
+kh o m^0
+kh a z^1 m i n^3
+kh a z^1 j a z^1
+kh a z^1 j aa j^4
+kh a z^1 l a p^3
+kh a z^1 l i p^1
+kh uua t^1
+kh uua n^4 khw aa j^4
+kh uua p^2
+khw a n^4
+khw aa z^4
+khw aa n^0
+kh @@ z^4
+kh @@ ng^4
+kh @@ ng^4 khw a n^4
+kh @@ ng^4 w aa n^4
+kh @@ ng^4 l ee w^4
+kh @@ ng^4 kh x ng^4
+kh @@ n^4 k x n^1
+kh @@ p^1
+kh @@ p^1 kh u n^0
+kh @@ p^1 phr a z^3 kh u n^0
+kh @@ m^4
+kh @@ th oo t^2
+kh a z^3 m u k^3 z^3 m @@ m^0
+kh a t^1 j @@ k^2
+kh a t^1 t x z^1
+kh a p^1
+kh a n^2
+kh a n^2 t @@ n^0
+kh a uua l oo k^2
+kh a uua l oo k^2 n vva z^4
+kh a uua l oo z^0 h a z^1
+kh aa z^4
+kh aa t^1
+kh aa t^1 khl xx n^0
+kh aa j^4
+kh aa w^4
+kh ii t^1
+kh ii z^2 k iia t^1
+kh v n^2
+kh v n^2 m aa z^0
+kh v n^2 j uu z^1
+kh v n^2 p a j^0
+kh v w aa z^0
+kh vv z^2
+kh u t^1
+kh uu t^1
+kh a z^1 m oo j^0
+kh aa j^1
+kh aa j^1 ng aa n^0
+kh aa w^1
+kh aa w^1 s aa n^4
+kh @@ z^2
+kh @@ z^2 k a m^0 n o t^1
+kh @@ z^2 khw aa m^0
+kh @@ z^2 c a m^0 k a t^1
+kh @@ z^2 d ii z^0
+kh @@ z^2 b o k^1 phr @@ ng^2
+kh @@ z^2 ph i t^1 phl aa t^2
+kh @@ z^2 ph a z^1 h a t^1 th
+kh @@ z^2 m vv z^0
+kh @@ z^2 m uu n^0
+kh @@ z^2 s a z^1 r u p^1
+kh @@ z^2 s @@ p^1
+kh @@ z^2 s a z^1 n qq z^4
+kh aa ng^2
+kh aa ng^2 l aa ng^2
+kh aa z^2 ph a z^3 c a w^2
+kh aa m^2
+kh aa w^2
+kh aa w^2 k a z^1 ph ee z^0 r aa z^0
+kh aa w^2 ph a t^1
+kh aa w^2 m a n^0
+kh aa w^2 m a n^0 k a j^1
+kh aa w^2 l aa m^0 t a t^1
+kh aa w^2 c aa w^2
+kh aa w^2 pl aa w^1
+kh aa w^2 pl aa a w^1
+kh aa w^2 n iia w^4
+kh aa w^2 ph oo t^1
+kh aa w^2 kh a j^1 d aa w^0
+kh o ng^0
+kh a z^3 n a z^3
+kh a z^3 n a z^3 k a m^0 m a z^3 k aa n^0
+kh a z^3 n a z^3 k a m^0 m a z^3 k aa n^0 b @@ z^0 r i z^3 h aa n^4
+kh a z^3 n a z^3 r a t^3 th a z^1 m o n^0 tr ii z^0
+kh a z^3 t i z^1
+kh o n^0
+kh o n^0 p uua j^1
+kh o n^0 k xx z^1
+kh o n^0 m a j^2 s a z^1 b aa j^0
+kh a z^2 m a z^2 n aa z^0 kh o m^0
+khr o p^3
+khr o p^3 th uua n^2
+khr @@ p^2
+khr @@ p^2 khr uua z^0
+khr a p^3
+khr a ng^3
+khr a ng^3 khr aa w^0
+khr a ng^3 l a z^3
+khr a n^3 l xx w^3
+khr aa w^0
+khr i t^3
+khr i t^3 s a z^1 t a z^1 w a t^3
+khr ii m^0 ch vva m^2
+khr ii m^0 m qq z^0 r ii z^2
+khr v ng^2
+khl @@ ng^0
+khl @@ r a
+khl a ng^2
+khl aa t^2 khl vva n^2
+khl i n i k^1
+khl vv n^2
+khl vv n^2 ph aa z^0
+khl vv n^2 s xx ng^4
+khl vv n^1 s a j^2
+khl u k^3
+khl u m^0
+khl @ ng^1 t uua z^0
+khl aa j^3
+khl aa j^3 khl v ng^0
+kh uua p^2 kh u m^0
+kh uua n^0
+kh a z^3 w a n^0
+kh a z^3 w a n^0 f a j^0
+khw aa m^0
+khw aa m^0 kw aa ng^2
+khw aa m^0 kh i t^3
+khw aa m^0 kh i t^3 h e n^4
+khw aa m^0 c i ng^0
+khw aa m^0 c a m^0
+khw aa m^0 c u z^1
+khw aa m^0 th ii z^1
+khw aa m^0 j aa w^0
+khw aa m^0 r uu z^3
+khw aa m^0 r uu z^3 s v k^1
+khw aa m^0 s a m^4 ph a n^0
+khw aa m^0 s uu ng^4
+khw aa m^0 kh e m^2
+khw aa m^0 kh a w^2 c a j^0
+khw aa m^0 p e n^0 m aa z^0
+khw aa m^0 r e w^0
+khw aa m^0 r xx ng^0
+khw aa j^4
+kh a z^3 w i z^3 n i n^0
+kh uua ii n^0
+kh @@ z^0
+kh @@ k^1
+kh @ m^0 ph i w^3 t qq z^2
+kh @ m^0 ph a z^3 kh a z^3 d i s^3
+kh a z^3
+kh a z^3 n aa z^2
+kh a z^3 n xx n^0
+kh a t^1 s v t^3 xx ng^3
+kh a t^1 s v t^3 xx ng^3
+kh uua z^2
+kh a ng^3 kh aa z^2
+kh a n^3
+kh aa n^4 kh uu z^2
+kh aa p aa z^0 s i z^1 t qq z^0 s aa n^0 s i t^3 t qq z^2
+kh aa p uu z^0 ch i n oo z^2
+kh aa z^0 b oo z^0 n aa aa z^1
+kh a m^0 k a m^0 k uua m^2
+kh a m^0 n uua n^0
+kh a m^0 n uua n^0
+kh a m^0 n v ng^0
+kh a m^0 s a ng^1
+kh a m^0 ch vva m^2
+kh a m^0 n x z^3 n a m^0
+kh i ng^0
+kh i t^3
+kh i t^3 w^0 s aa z^0 n iia z^0
+kh i n^0
+kh i w^0
+kh i w^0 b i t^1
+kh i s^3 v n a z^3 z u z^1 d ng^3
+kh iia b @@ t^1
+kh vv n^0
+kh vv z^0
+kh u k^3
+kh u k^3 k ii z^2
+kh u n^0 n a z^3 ph aa p^2
+kh u n^0 n a z^3 s o m^4 b a t^1
+kh u m^0 s @@ p^1
+kh u j^0
+kh u n^3 kh qq j^0
+kh uu z^2
+kh uu z^2 m vv z^0
+kh uu z^2 kh x ng^1 kh a n^4
+kh @ j^2
+kh a z^2
+kh aa z^2
+kh aa j^2
+kh aa z^2 ch a j^3 c aa j^1
+kh a m^2
+kh a m^2 kh vv n^0
+kh o n^3
+kh o n^3 h aa z^4
+kh a @@ n^3
+kh aa z^3
+kh aa ng^3 kh vv n^0
+kh aa z^2
+ng o ng^0
+ng o t^3
+ng o p^3
+ng o p^3 pr a z^1 m aa n^0
+ng uua t^2 ng q n^0
+ng @@ z^0
+ng @@ k^2 ng a j^0
+ng uua z^0
+ng aa n^0
+ng aa m^0
+ng aa m^0 c ee z^0 t n^2 r o m^0
+ng ii p^1
+ng u n^4 ng o ng^0
+ng uu ph i t^3
+ng uua ng^1
+ng aa j^2
+ng aa j^2 k^1
+c @@ z^0
+c o ng^0
+c o t^1 m aa j^4
+c o n^0
+c o n^0 th v ng^4
+c o p^1
+c @@ z^0 l @@ z^0
+c @@ z^0
+c @@ ng^0
+c @@ t^1
+c @@ p^2
+c @@ z^0 ph aa p^2
+c @@ m^0
+c @@ m^0 @@ z^0 n i z^1 t qq z^2
+c a z^1
+c a z^1 t @ ng^2
+c a ng^0
+c a ng^0 w a t^1
+c a t^1
+c a t^1 k aa n^0
+c a t^1 s vv z^3
+c a t^1 th a m^0
+c a t^1 l a m^0 d a p^1
+c a n^0
+c a n^0 z^0 s xx n^4 w i z^3 n^0
+c a n^0 a n^0
+c a p^1
+c a k^1 a t^1 k aa n^0
+c uua z^2
+c a m^3
+c a m^3 f @@ t^3
+c a k^1 m^0
+c aa k^1
+c aa k^1 n a n^3
+c aa k^1 n ii z^3
+c aa n^0
+c aa n^0 s aa j^4 z aa z^0 k aa t^1
+c aa m^0
+c aa z^0 r v k^3
+c aa z^0 r v k^3 kh aa z^4 n @@ j^3
+c a m^0
+c a m^0 k a t^1
+c a m^0 n uua n^0
+c a m^0 ph uua k^2
+c a m^0 n aa j^1
+c a m^0 p e n^0
+c i z^1 r a z^3 s a k^1
+c ii z^0
+c ii n^0
+c v ng^0
+c u t^1
+c u t^1 s a m^4 kh a n^0
+c u t^1 m aa j^4
+c u t^1 ch vva m^2
+c u n^0
+c u l aa z^0
+c u l aa z^0 l o ng^0 k @@ n^0 m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0
+c aa j^1
+c aa j^1 ng q n^0
+ch a z^1 b a p^1
+ch a z^1 l aa m^0 l aa j^0
+ch a z^1 n a n^3
+ch a n^4
+ch aa j^4
+ch o ng^0
+ch a z^3 n a z^3 b o t^1
+ch a z^3 n i t^3
+ch a z^3 n i n^4
+ch uua n^0
+ch a z^3 w aa n^0
+ch @@ p^2
+ch @ w^0 k^3
+ch a z^3
+ch a z^3 l oo m^0
+ch a k^3
+ch a t^3 c ee n^0
+ch a j^0 j a z^3 k u n^0
+ch a j^0 w a t^3
+ch a j^0 j a z^3 s i n^4 p^3
+ch uua z^2
+ch uua z^2 khr aa w^0
+ch uua z^2 m oo ng^0
+ch a n^3
+ch a n^3 s uu ng^4
+ch aa z^0 n o m^0
+ch aa b uu z^0
+ch aa m^0
+ch aa j^0 kh aa z^0
+ch aa t^3
+ch aa w^0
+ch aa w^0 kr ii k^1
+ch aa w^0 n aa z^0
+ch aa z^0 kh iia w^4
+ch a m^0 r a z^3
+ch i p^3
+ch i n^3
+ch ii z^0 w a z^3 pr a z^1 w a t^1
+ch ii z^0 w i t^3
+ch ii t^3
+ch vv z^2
+ch u t^3
+ch u t^3 f v k^1
+ch u p^3
+ch u m^0 ch o n^0
+ch @ k^3 k oo z^0 l ee t^1
+ch @ e k^3 k oo z^0 l ee t^1
+ch @ t^1
+ch uua ng^2
+ch uua ng^2 n ii z^3
+ch uua j^2
+ch uua j^2 l vva z^4
+ch @ ng^2
+ch @ ng^2 w aa ng^2
+ch @@ n^2 ch aa z^0
+ch @ n^0 t o z^3
+ch aa z^3
+s @@ p^2 i ng^0 k oo z^0
+s @@ p^3 w xx z^0
+s @@ p^3 w xx z^0
+s @@ n^3 b qq ng^0
+s @@ t^3
+s a k^3
+s a p^3 s @@ n^3
+s aa k^1
+s aa w^0 s xx k^2
+s i k^1
+s i ng^0 kh aa z^0 n oo z^2
+s i ng^0 khr oo n a t^3
+s i n^2 n aa z^0 m @@ n^0
+s i z^3 th ee t^1
+s ii z^0
+s ii z^0 th @@ z^0
+s ii z^0 r ii z^0
+s ii z^0 z i w^0
+s ii z^0 z e n^0 s ii z^0
+s v ng^2
+s vv z^3
+s u k^3
+s u p qq z^0 m aa k e t^1
+s @@ n^2
+s @@ n^3
+s aa j^3
+s a m^3
+j ii z^2 p u n^1
+th aa n^4 kh @@ z^2 m uu n^0
+th aa z^4 n a z^3 p a z^1 t i z^1 b a t^1 k aa n^0
+d o n^0 tr ii z^0
+d @@ z^0 r @@ z^0
+d r a m^0
+d r aa k^2 @@ n^3
+d r ii m^0
+d uua ng^0
+d uua ng^0 z aa z^0 th i t^3
+d uua n^0
+d @@ k^1
+d @@ k^1 c i k^1
+d @@ k^1 d uua ng^0
+d @@ ng^0
+d @@ m^0
+d a ng^0
+d a ng^0 kl aa w^1
+d a ng^0 t @@ z^1 p a j^0 n ii z^3
+d a ng^0 n a n^3
+d a ng^0 n ii z^3
+d a n^0
+d a p^1
+d a p^1 b i n^0
+d a ng^2 kh uua n^4
+d aa p^1
+d aa w^0
+d aa w^0 phr a z^3 khr @ z^3
+d aa w^0 th iia m^0
+d a m^0
+d a m^0 n qq n^0 ng aa n^0
+d i z^1 c i t^1 @ n^3
+d i n^0
+d i n^0 p vv n^0
+d i p^1
+d i s^3
+d i s^3 ph e k^1
+d i t^3 ch aa t^3
+d i t^3 k x t^3
+d ii z^0
+d ii z^0 @@ z^0 s ii @@ z^0 ph a z^3 l aa z^0 n aa z^0 m xx k^2 n i t^1 @@ j^0
+d ii z^0 s ii z^0 s @@ z^0 w^3 m @@ z^0 t qq z^2
+d ii z^0 s aa n^1
+d ii z^0 b ii z^0
+d ii z^0 m @@ d uu z^0 l ee t^2
+d ii z^0 m @@ t^3
+d ii z^0 thr k^1
+d v k^1
+d v ng^0
+d vv m^1
+d vv z^2 j aa z^0
+d u z^1
+d uu z^0
+d uu t^1
+d uu t^1 s a p^3
+d uu z^0 uu t^1
+d uua j^2
+d uua j^2 h ee t^1 th ii z^2
+d aa n^2
+d aa j^3
+t o k^1
+t o k^1 kh aa ng^3
+t o k^1 l o ng^0
+t o k^1 l vva t^2
+t o n^0 z ee ng^0
+t a j^0 @@ z^0
+tr o ng^0
+tr o ng^0 kl aa ng^0
+tr o ng^0 n a j^4
+t a k^1 k a j^0
+tr uua t^1
+tr uua t^1 w a t^3
+tr uua t^1 s @@ p^1
+tr a z^1 k uu n^0
+tr aa z^0
+tr aa p^1
+tr v ng^0
+tr u t^1
+t a z^1 l @@ t^1 c o n^0
+t a z^1 l a p^3
+t a z^1 l aa t^1
+t @@ ng^0
+t @@ n^0
+t @@ n^0 n ii z^3
+t @@ n^0 th iia ng^2
+t @@ n^0 r iia n^0
+t @@ p^1
+t @@ p^1 s a z^1 n @@ ng^4
+t a z^1 k a w^2
+t a z^1 kh aa p^1
+t a z^1 ph aa n^0 n uu z^4
+t a z^1 w a n^0 t o k^1
+t a z^1 kr o ng^0
+t a z^1 kh a j^3
+t a ng^0
+t a t^1
+t a t^1 khw aa ng^4
+t a t^1 s i n^4
+t a t^1 s i n^4 c a j^0
+t a n^0 pr iia t^1 j aa z^0
+t a p^1
+t uua z^0
+t uua z^0 kl aa ng^0
+t uua z^0 khw aa m^0 t aa n^2 th aa n^0
+t uua z^0 t o n^0
+t uua z^0 tr uua t^1 c a p^1
+t uua z^0 t a ng^2 w ee z^0 l aa z^0
+t uua z^0 n a p^1
+t uua z^0 n a m^0
+t uua z^0 ph uu z^2
+t uua z^0 n @@ n^0
+t uua z^0 j aa ng^1
+t uua z^0 z a k^1 s @@ n^4
+t uua z^0 z @@ n^1
+t uua z^0 m iia z^0
+t uua z^0 l ee k^2
+t uua z^0 z ee ng^0
+t uua z^0 z e n^0 kh oo z^2 kh d @@
+t uua z^0 pr xx z^0
+t a ng^2
+t a ng^2 kh aa z^2
+t a ng^2 ch aa k^1
+t a ng^2 t xx z^1
+t a ng^2 c a j^0
+t a uua
+t aa z^0
+t aa k^1
+t aa z^0 ch a ng^2
+t aa m^0
+t aa j^0
+t aa z^0 r aa ng^0
+t aa n^0
+t a m^0
+t a m^0 r uua t^1
+t a m^0 r a p^1
+t a m^0 r aa z^0
+t a m^0 n x ng^1
+t i t^1
+t i t^1 t a ng^2
+t i t^1 t aa m^0
+t i t^1 t @@ z^1
+t i w^0
+t i w^0 s @@ p^1
+t i w^4 t oo z^0 r iia n^0
+t ii z^0
+t ii z^0 h aa z^2
+t v k^1
+t v k^3 r @@ j^3 p ii z^0
+t v ng^0 khr iia t^2
+t vv n^1
+t uu z^3
+t uu z^2 j e n^0
+t uu z^2 j e e n^0
+t @@ z^1
+t @@ z^1 m aa z^0
+t @@ z^1 n vva ng^2
+t @@ z^1 p a j^0
+t @@ z^1 p a j^0 n ii z^3
+t aa ng^1
+t aa ng^1 pr a z^1 th ee t^2
+t aa ng^1 k^1
+t a m^1
+t a m^1 kw aa z^1
+t o n^2
+t o n^2 kh aa w^2
+t o n^2 b xx p^1
+t o n^2 m aa j^3
+t m^3
+t m^3 j a m^0
+t m^3 j a m^0 k u ng^2 n aa m^3 kh o n^2
+t @ ng^2
+t @ ng^2 k aa n^0
+t aa n^2 th aa n^0
+th a z^1 n o n^4 phr a z^3 r aa m^0 h o k^1
+th a z^1 l aa z^0
+th @@ n^4
+th @ j^4
+th a t^1
+th uua z^2
+th uua z^2 ng @@ k^2
+th aa m^4
+th i n^1 z aa z^0 s a j^4
+th ii z^1
+th v ng^4
+th u ng^0
+th u ng^0 phl aa s^3 t i k^1
+th uu z^0
+th uu k^1
+th uu k^1 t @ ng^2
+th uu k^1 c a j^0
+th @ ng^1 th xx z^3
+th aa n^1 f ch aa j^4
+th aa j^1
+th aa j^1 th @@ t^2
+th aa j^1 ph aa p^2
+th aa j^1 r uu p^2
+th aa j^1 th ee z^0
+th uua j^2 t uua ng^0
+th aa z^2
+th o t^3 l @@ ng^0
+th o t^3 s @@ p^1
+th o n^0
+th o n^0 th aa n^0
+th o p^3 th uua n^0
+th a z^3 b uua ng^0 m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0
+s o ng^0
+s o ng^0 kr a z^1 b @@ k^1
+s a p^3 ph a z^3 j aa z^0 k @@ n^0
+s aa n^0 s i t^3 t qq z^2
+s aa n^4 s khr i p^3
+s aa n^4 f @@ z^0 f a ng^0 ch a n^0
+s aa p^2
+s ii z^0
+s uu z^0 h n^0
+thr i t^3 s a z^1 d ii z^0
+th uua ng^0
+th uua n^0
+th a z^3 h aa n^4 th a j^0
+th @@ ng^0
+th @@ ng^0 kh a m^0 pl w^0
+th @@ ng^0 d ii z^0
+th @@ ng^0 d xx ng^0
+th @@ t^2
+th @@ p^1
+th @@ j^0
+th a z^3 l ee z^0
+th a z^3 l ee z^0 c ii n^0 t aa j^2
+th a z^3 l t aa j^2
+th a k^3 s i n^0
+th a n^0
+th a n^0 th ii z^0
+th a p^3 th i m^0
+th a t^3 s a z^1 n a z^3 s v k^1 s aa z^4
+th uua z^2
+th uua z^2 p a j^0
+th uua z^2 k^1 p a j^0
+th a ng^3
+th a ng^3 n ii z^3
+th a ng^3 w a n^0
+th a ng^3 s @@ ng^4
+th a ng^3 m o t^1
+th a ng^3 ph x n^1
+th aa z^0
+th aa ng^0
+th aa ng^0 p a z^1 t i z^1 b a t^1
+th aa ng^0 d qq n^0 h aa j^4 c a j^0
+th a m^0
+th a m^0 k aa n^0
+th a m^0 ng aa n^0
+th a m^0 n @@ ng^0
+th a m^0 n aa j^0
+th a m^0 m u m^0
+th a m^0 j a ng^0 ng^4
+th a m^0 l aa j^0
+th a m^0 n aa z^2 th ii z^2
+th a m^0 h a j^2
+th i t^3 th aa ng^0
+th i ng^3
+th ii z^0
+th ii m^0
+th ii z^0 w ii z^0
+th ii z^2
+th ii z^2 ng^1
+th ii z^2 c a z^1
+th ii z^2 d i n^0
+th ii z^2 n a ng^2
+th ii z^2 n ii z^2
+th ii z^2 pr v k^1 s aa z^4
+th ii z^2 ph a k^1
+th ii z^2 ph v ng^2 ph i ng^0
+th ii z^2 r a k^3
+th ii z^2 s u t^1
+th ii z^2 l xx w^3
+th ii z^2 n a j^4
+th v p^1
+th v m^0 k^1
+th u k^3
+th u k^3 kh o n^0
+th u k^3 w a n^0
+th u k^3 w a n^0 s u k^1
+th u k^3 w ee z^0 l aa z^0
+th u p^3
+th u m^2
+th uu z^0
+th uu f aa t^3
+th uu s l ii p^1
+th uu z^0 d
+th @ ng^2 th iia w^2
+th @@ z^2 k xx w^2
+th aa z^2
+th aa z^2 th aa ng^0
+th a n^2
+th @@ ng^3 z vv t^2
+th @@ ng^3 f @@ z^2
+th @@ ng^3 s iia z^4
+th aa z^3
+th a z^3 n aa z^0 kh aa n^0
+th @@ z^0 r a z^3 n ii z^0 pr a z^1 t uu z^0
+th a m^0 m a z^3 ch aa t^2
+th a m^0 m a z^3 d aa z^0
+th aa t^2
+th i z^3 d aa z^0
+th u z^3 r a z^3 k i t^1
+th u z^3 r a z^3
+n @@ z^4 s @@ z^4
+n o k^3
+n o n^4 th a z^3 b u z^1 r ii z^0
+n o m^0
+n a z^3 r aa z^0 th i z^3 w aa t^2
+n uua t^1
+n @@ k^2
+n @@ k^2 c aa k^1
+n @@ k^2 c aa k^1 n a n^3
+n @@ k^2 c aa k^1 n ii z^3
+n @@ k^2 ch aa n^0
+n @@ k^2 w ee z^0 l aa z^0
+n @@ n^0
+n @@ n^0 d aa j^2
+n a z^3
+n a k^3
+n a k^3 pr aa t^1
+n a k^3 w i z^3 ch aa z^0 k aa n^0
+n a k^3 s v k^1 s aa z^4
+n a k^3 r iia n^0
+n a k^3 s a z^1 d xx ng^0 n a m^0
+n a t^3
+n a p^3
+n a p^3 th vv z^4
+n a p^3 w a n^0
+n a ng^2
+n a n^3
+n a a n^2
+n aa z^0
+n aa ng^0 n uua n^0 kl o p^1
+n aa z^0 th ii z^0
+n aa n^0
+n aa z^0 n aa z^0
+n aa z^0 pr a ng^0
+n aa m^0
+n aa j^0
+n aa z^0 l i z^1 k aa z^0
+n a m^0
+n a m^0 s a z^1 n qq z^4
+n a m^0 z a w^0
+n i k^3 k qq w^0
+n i z^3 t a z^1 j aa z^0
+n i z^3 t i z^1
+n i z^3 j o m^0
+n i z^3 l aa z^0 ph aa w aa z^0 th aa z^0 l uu z^0 j ee n^0
+n i z^3 w^3 t o z^3
+n ii z^2
+n ii z^3
+n ii z^3
+n v ng^0
+n u ng^2
+n a z^3 j oo z^0 b aa j^0
+n aa z^2
+n aa z^2 d uu z^0
+n @@ ng^3
+n @@ j^3
+n @@ j^3 l o ng^0
+n aa m^3
+n aa m^3 kh o n^2
+n aa m^3 c i m^3
+n aa m^3 t aa n^0
+n aa m^3 th aa z^2
+n aa m^3 pl aa z^0
+n aa m^3 n a k^1
+n aa m^3 ng q n^0
+n aa m^3 pl aa w^1
+n aa m^3 kh x ng^4
+n aa m^3 s a j^4
+b o k^1 phr @@ ng^2
+b o t^1
+b o t^1 khw aa m^0
+b o t^1 b aa t^1
+b o t^1 r iia n^0
+b o n^0
+b a n^0 c u z^1
+b a n^0 n a w^0 r a k^3
+b a n^0 th a t^3
+b @@ z^0 r i z^3 k aa n^0
+b @@ z^0 r i z^3 h aa n^4
+b @@ z^0 r i z^3 w ee n^0
+b @@ z^0 r i z^3 ph oo k^2
+b @@ z ^0 r uu t^3
+bl aa j^0 b i t^1
+bl ii t^2
+bl uu z^0
+bl @ k^3
+bl k^3
+bl e k^3 m^0 s o t^1
+bl k^3 z^2 d q z^3 kr x m^0
+b uua k^1
+b @@ k^1
+b @@ m^0
+b @@ s^3
+b @@ z^0 r xx k^2
+b a z^3 m ii z^1
+b a ng^0 kh a p^3
+b a n^0 ch ii z^0
+b a n^0 j a t^1 s a p^1
+b a t^1
+b a n^0 th v k^3
+b a n^0 th v k^3 k a z^1 ph aa p^2
+b a n^0 d a j^0
+b uua z^0
+b a n^2 z ee w^4
+b aa ng^0
+b aa ng^0 khr a ng^3
+b aa ng^0 k^1
+b aa t^1
+b aa n^0
+b aa n^1 pr a z^1 t uu z^0
+b aa p^1
+b i ng^0 s uu z^0
+b i z^1 ch @@ p^1
+b i z^1 d aa z^0
+b i n^0
+b q n^2
+b i w^0 t ii z^2
+b ii z^0
+b ii z^0 th ii z^0 z ee t^1
+b ii p^1
+b ii t^3
+b v ng^3 t v ng^0
+b v m^3
+b vva ch @@ p^1
+b u k^1 kh o n^0
+b u k^1 kh a z^3 l aa z^0 k @@ n^0
+b u k^1 kh a z^3 l aa z^0 k @@ n^0
+b u k^1 kh a z^3 l i k^3 k a z^1 ph aa p^2
+b u t^1
+b u f f
+b u z^1 ng a w^0 m o ng^0 kh o n^0
+b uu z^0 ch aa z^0
+b o ng^1 b @@ k^1
+b @@ j^1
+b @@ j^1 khr a ng^3
+b @@ j^1 k^1
+b aa j^1
+b aa ng^2
+b aa n^2
+b aa n^2 m vva ng^0
+b aa n^2 r vva n^0
+p o k^1 khr @@ ng^0
+p o k^1 k a z^1 t i z^1
+p a z^1 d i z^1 th i n^0
+p a z^1 t i z^1 b a t^1
+p a z^1 t i z^1 b a t^1 k aa n^0
+p a z^1 t i z^1 s ee t^1
+p th u m^0 th aa z^0 n ii z^0
+pr o k^1
+p @@ z^0 r a z^3 m aa z^0 n uu z^0
+pr a z^1 k @@ p^1
+pr a z^1 k @@ p^1 d uua j^2
+pr a z^1 k a n^0
+pr a z^1 k a n^0 t uua z^0
+pr a z^1 k aa n^0
+pr a z^1 k aa t^1
+pr a z^1 kh o p^3
+pr a z^1 c a m^0
+pr a z^1 c a m^0 w a n^0
+pr a z^1 c u z^1
+pr a z^1 ch aa z^0 ch o n^0
+pr a z^1 ch aa z^0 s a m^4 ph a n^0
+pr a z^1 ch u m^0
+pr a z^1 d a p^1
+pr a z^1 t uu z^0
+pr a z^1 th a p^3
+pr a z^1 th uua ng^3
+pr a z^1 th aa n^0
+pr a z^1 m o ng^0
+pr a z^1 m uua n^0
+pr a z^1 m uua n^0 ph o n^4
+pr a z^1 m aa n^0
+pr a z^1 m uu n^0
+pr a z^1 j u t^3
+pr a z^1 w a t^1
+pr a z^1 s o ng^4
+pr a z^1 s o p^1
+pr a z^1 s o p^1 k aa n^0
+pr a z^1 s aa t^1
+pr a z^1 s aa n^4 ng aa n^0
+pr a z^1 s aa n^4
+pr a z^1 j a t^1
+pr a z^1 th ee t^2
+pr a z^1 th ee t^2 th ii z^2 ph a t^3 th a z^3 n aa z^0 l xx w^3
+pr a z^1 th ee t^2 th a j^0
+pr a z^1 ph ee t^2
+pr a z^1 m qq n^0
+pr a z^1 m qq n^0 ph o n^4
+pr a z^1 j oo k^1 khw aa m^0 d iia w^0
+pr a z^1 j oo t^1
+pr a p^1
+pr a p^1 pr u ng^0
+pr aa z^0 k o t^1
+pr aa z^0 k o t^1
+p a z^1 r i z^3 m aa n^0
+p a z^1 r i z^3 m aa z^0 tr
+pr u ng^0
+pr u ng^0 j aa z^0
+pr u ng^0 z aa z^0 h aa n^4
+pl o t^1
+pl @@ t^1 ph a j^0
+pl @@ m^0
+pl a o k^3
+pl aa z^0
+pl aa z^0 ch @@ n^1
+pl aa j^0
+pl aa z^0 m v k^1
+pl aa l a j^4
+pl u k^1
+pl u k^1 r a w^3
+pl uu k^1
+pl @ j^1
+pl n^2
+p uua t^1
+p uua t^1 th @@ ng^3
+p @@ t^2
+p @ n^0
+p a z^1
+p a k^1 d a m^0
+p a ng^0
+p a ng^0 j aa z^1
+p a ng^0 j e n^0
+p a t^1 c u z^1 b a n^0
+p a n^0 h aa z^4
+p a n^1
+p a n^2
+p aa z^0
+p aa k^1
+p aa k^1 k aa z^0
+p aa t^2 ii z^2
+p aa n^0 kl aa ng^0
+p aa k^1
+p aa t^3 ii z^2
+p aa w^0 m^0
+p i t^1
+p i t^1 th @@ m^0
+p i ng^3
+p ii z^0
+p ii ng o p^3 pr a z^1 m aa n^0
+p v k^1 ph x n^1
+p vv n^0
+p u j^4
+p uu z^0
+p uu m^0 m a w^2
+p aa w^1
+p @ ng^2 k a n^0
+p @@ n^2
+p @ m^2
+p p kh @@ z^0 n^2
+ph ng o k^1
+ph a z^1 n uua k^1
+ph o m^4
+ph o n^4
+ph o n^4 ng aa n^0
+ph o n^4 ph a z^1 l i t^1
+ph o n^4 l a p^3
+phl @@ phl aa ph o n^4
+ph a z^1 l i t^1
+ph a z^1 l i t^1 t a z^1 ph o n^4
+ph a z^1 l i t^1 t a z^1 ph a n^0
+ph a z^1 l v k^3
+ph o n^4 s iia z^4
+ph o n^4 l a z^3 m aa j^3
+ph a z^1 s @@ z^0
+ph a z^1 s o m^4
+ph a k^1
+ph a k^1 k aa t^1
+ph a k^3 kh a z^3 n aa z^2
+ph a k^3 b u ng^3
+ph a t^1
+ph a t^3 s ii z^0 z i w^0
+ph i t^1
+ph i t^1 p o k^1 k a z^1 t i z^1
+ph i t^1 phl aa t^2
+ph i w^4
+ph vv n^4
+ph uu k^1
+ph uu z^2
+ph uu z^2 kr a z^1 th a m^0
+ph uu z^2 k a m^0 k a p^1
+ph uu z^2 c a t^1 k aa n^0
+ph uu z^2 ch aa j^0
+ph uu z^2 ch uua j^2
+ph uu z^2 ch uua j^2 s aa t^1 tr aa z^0 c aa n^0
+ph uu z^2 n @@ j^3
+ph uu z^2 p uua j^1
+ph uu z^2 m ii z^0 ch vv z^2
+ph uu z^2 w i z^3 c a j^0
+ph uu z^2 s a z^1 n a p^1 s a z^1 n u n^4
+ph uu z^2 s uu ng^4 z aa z^0 j u z^3
+ph uu z^2 j i ng^4
+ph uu z^2 k iia w^1 kh @ ng^2
+ph uu z^2 l e n^2
+ph uu z^2 ch a j^3
+ph uu z^2 j a j^1
+ph aa z^1
+ph aa n^1
+ph aa z^2
+ph aa z^2 n u ng^2
+ph aa z^2 ph aa t^1 l a j^2
+ph aa z^2 ph i m^0
+ph aa z^2 k iia w^3
+ph aa z^2 kh iia n^2 ph u ng^0
+ph aa z^2 ch e t^1 t uua z^0
+f o n^4
+f a z^3 r a ng^1
+f a ng^1
+f aa z^4
+f aa k^1
+f aa t^1
+f v k^1
+f v k^1 s @@ n^4
+f u n^1
+f aa j^1
+ph @@ z^0 s @@ z^0
+ph o k^1
+ph a z^3 j aa z^0 th a j^0
+ph a z^3 n a k^3 ng aa n^0
+ph o p^3
+ph o p^3 w aa z^2
+ph a z^3 j aa z^0 j aa m^0
+ph @@ n^0
+phr c aa k^1 f aa z^3
+phr uua n^0
+phr a z^3 th aa t^2
+phr a z^3 b @@ z^0 r o m^0 m a z^3 th aa t^2
+phr a z^3 b aa t^1 s o m^4 d e t^1 phr a z^3 c aa w^2 j uu z^1 h uua z^4
+phr a z^3 r aa t^2 ch a z^3 th aa n^0
+phr a z^3 r aa t^2 ch a z^3 pr a z^1 s o ng^4
+phr a z^3 r aa t^2 ch a z^3 z aa z^0 n aa z^0 c a k^1
+phr a z^3 z o ng^0
+phr a z^3 k iia t^1 t i z^1 j o t^3
+phr a z^3 k iia w^3
+phr a z^3 j s uu z^0
+phr i k^3
+phr i k^3 n aa m^3 pl aa z^0
+phr i k^3 th a j^0
+phr ii z^0 w i z^3 l t^1
+phr ii z^4 m iia m^1
+phr v ng^0
+phr u z^1
+phr u ng^2
+phr u ng^2 n ii z^3
+phr @@ m^3
+phr @@ m^3 phr iia ng^0
+phr @@ m^3 k^1
+phr v t^3 t i z^1 k a m^0
+phr v t^3 s a z^1 ph
+phr v t^3 s a z^1 ph aa z^0 kh o m^0
+ph a z^3 r v z^3 h a t^1
+ph o n^0
+ph a z^3 l a ng^0
+ph a z^3 l a ng^0 ng aa n^0
+phl aa z^4 s a z^1 m aa z^0
+phl i k^3
+phl u ng^2
+ph o n^0 m vva ng^0
+phl @ t^1
+ph uua k^2
+ph @@ z^0
+ph @@ k^1
+ph @@ t^3
+ph @@ z^0 s o m^4 kh uua n^0
+ph @@ z^0 l xx w^3
+ph a z^3 l oo z^2
+ph a k^3
+ph a t^3 th a z^3 n aa z^0
+ph a t^3
+ph a n^0
+ph a n^0
+ph a p^3
+ph aa k^2
+ph aa z^0 n i t^3
+ph aa t^1
+ph aa z^0 n aa z^0 kh @ t^1 t a w^2
+ph aa z^0 j u z^3
+ph aa z^0 r aa k^2 r aa f^3
+ph aa z^0 r aa z^0 k @@ n^0
+ph aa z^0 r aa z^0 b oo z^0 l aa z^0
+ph aa z^0 h a z^1
+ph i z^3 k a t^1
+ph i z^3 k aa n^0
+ph i z^3 c aa z^0 r a z^3 n aa z^0
+ph i z^3 th ii z^0
+ph i z^3 b uu n^0 s i n^4
+ph i m^0
+ph i m^0
+ph i m^0 d ii t^1
+ph i t^3 s a z^1 w i t^3 th a z^3 j aa z^0
+ph i z^3 s ee t^1
+ph ii z^0
+ph ii z^0 s ii z^0 z e m^0
+ph ii z^2
+ph v p^1 ph a p^3
+ph v ng^2 ph aa z^0
+ph vv t^2
+ph vv t^2 s a z^1 m u n^0 ph @@ n^0
+ph vv t^2 s uua n^4
+ph vv n^3
+ph vv n^3 th aa n^4
+ph vv n^3 d i n^0
+ph vv n^3 th ii z^2
+ph vv n^3 m vva ng^0
+ph u t^3 th a z^3 s a k^1 k a z^1 r aa t^1
+ph u t^3
+ph u ng^2
+ph uu t^2
+ph uu z^1
+ph n^1
+ph @@ ng^3
+fr ii z^0
+fr u t^1 t ii z^2
+fr @@ ng^3
+f l i p^3 f @ p^1
+f l uu z^0 z @@ z^0 r o t^3 s n
+f @@ ng^0
+f @@ ng^0 n o m^0
+f @@ t^3
+f @@ t^3 f @@ a t^1
+f a ng^0
+f a n^0
+f a n^0 kh aa w^4
+f aa k^2
+f aa k^2 f aa z^3
+f aa m^0
+f aa z^0 m a j^0 khr n o m^0
+f i t^1 t a z^1 n ee t^1
+f i z^3 f t ii z^2
+f i z^3 l t qq z^2
+f i z^3 l m^0
+f vv n^3 f uu z^0
+f aa z^3
+ph a n^0 r a z^3 j aa z^0
+ph a j^0
+ph aa k^2
+ph aa k^2 kl aa ng^0
+ph aa k^2 t a t^1 khw aa ng^4
+ph aa k^2 ph a z^1 s o m^4 s a n^4 j aa n^0
+ph aa k^2 r a t^3 th a z^1 b aa n^0
+ph aa k^2 w i z^3 ch aa z^0
+ph aa k^2 n vva z^4
+ph a w^0 ch a z^3 n a z^3
+ph aa p^2
+ph aa p^2 t a t^1 khw aa ng^4
+ph aa p^2 z a k^1 s @@ n^4
+ph aa j^0 n @@ k^2
+ph aa j^0 l a ng^4
+ph aa j^0 t aa j^2
+ph aa j^0 n a j^0
+ph aa z^0 r a z^3 k i t^1
+ph aa z^0 s aa z^4
+ph aa z^0 s aa z^4 s aa t^1
+ph aa z^0 s aa z^4 z a ng^0 kr i t^1
+ph aa z^0 s aa z^4 z xx t^3 s e m^0 bl ii z^2
+ph aa z^0 s aa z^4 th a j^0
+ph uu z^0
+ph uu z^0 m i z^3 pr a z^1 th ee t^2
+ph uu z^0 m i z^3 ph aa k^2
+ph uu z^0 s aa z^4 s o ng^0
+m o n^0
+m a z^3 n u t^3
+m @@ z^0 m @@ z^0
+m @@ z^0 r a z^3 n a z^3
+m a z^3 h aa z^4 c a k^1 ii z^0 s i z^1 r i n^0 th @@ n^0
+m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0
+m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0 k a z^1 s ee t^1 s aa t^1
+m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0 ch iia ng^0 m a j^1
+m a z^3 h aa z^4 z aa z^0 n aa z^0 c a k^1
+m a z^3 h i t^1
+m @@ k^1 kh aa z^2
+m @@ ng^0
+m @@ n^0
+m @ n^0 t qq z^2
+m @@ p^2 m aa j^4
+m @@ t^3 p^3 s a z^1 k a m^0 l a ng^0
+m @@ z^0 t qq z^2
+m a z^3 m uua ng^1
+m a z^3 r vv n^0
+m a k^3
+m a k^3 r oo z^0 n ii z^0
+m a ng^4 s a z^1 w i z^3 r a t^3
+m a n^0
+m a n^0 f a z^3 r a ng^1
+m a n^2 kh o ng^0
+m uua z^2
+m a qq j^0
+m aa z^0
+m aa k^2
+m aa k^2 kw aa z^1
+m aa k^2 kh v n^2
+m aa k^2 m aa j^0
+m aa k^2
+m aa t^2 tr aa z^0
+m aa t^2 tr a z^1 w ee z^0 l aa z^0
+m aa z^0 b u n^0 khr @@ ng^0
+m aa z^0 m a w^1
+m aa z^0 r a z^3 d aa z^0
+m aa z^0 l aa z^0 th a z^3 z @@ n^0
+m aa t^2
+m i z^3
+m i z^3 k oo z^0 s @@
+m i t^3 th @@ m^0
+m i z^3 t a z^1 r a z^3 ph aa p^2
+m i z^3 t i z^1
+m i z^3 j aa z^0 b i z^1
+m i n^0 l i z^3 l i t^3
+m i n^0 l i z^3 m ee t^3
+m ii z^0
+m ii z^0 n aa z^0
+m ii z^0 z oo z^0 k aa t^1
+m vv t^2
+m vv z^0
+m vva th vv z^4
+m vv z^3
+m u ng^0
+m u m^0
+m u ng^2
+m uu f w ii z^1
+m uu n a z^3
+m aa z^3
+m qq j^0
+j
+j o k^3
+j o k^3 khl aa t^3
+j o k^3 l qq k^2
+j @@ m^0
+j @@ m^0 r a p^3
+j a k^1
+j a ng^0
+j a ng^0 m ii z^0
+j a ng^0 ng^4
+j aa z^0
+j aa k^2
+j aa kh aa z^2 m a z^3 l xx ng^0
+j aa ng^0 m a z^1 t uu m^0
+j aa d @@ ng^0
+j aa n^0 l e k^3
+j aa z^0 b a n^0 c u z^1 s e t^1
+j aa w^0
+j aa w^0 n aa n^0
+j aa z^4 s a z^1 m u n^0 ph @@ n^0
+j aa z^0 s a ng^4 khr @ z^3
+j aa z^0 n e p^1
+j aa z^0 ph xx n^4 p a t^1 c u z^1 b a n^0
+j aa z^0 ph xx n^4 b oo z^0 r aa n^0
+j aa z^0 j @@
+j a m^0
+j i ng^0
+j i n^0
+j i ng^2
+j i ng^2 kh v n^2
+j ii n^0
+j ii z^2
+j ii z^2 s i p^1
+j v t^3
+j v t^3 th vv z^4
+j vv t^2
+j vv n^0 j a n^0
+j vv m^0
+j vv n^2
+j u ng^0
+j u z^3 r oo p^1
+j u ng^2 j aa k^2
+j u ng^3
+j uu z^0
+j uu z^0 z ch @@ p^3
+j @@ z^2
+j @@ m^2
+j @ j^2
+j aa ng^2
+j aa n^2
+j @@ n^3
+j aa j^3
+r o t^1
+r o t^1 n aa m^3
+r o t^3
+r o t^3 s xx k^2 t qq z^2
+r o p^3
+r o p^3 k uua n^0
+r o m^0
+r uua ng^0
+r uua ng^0 kh aa w^2
+r uua t^2 r e w^0
+r uua m^0
+r uua m^0 th v ng^4
+r uua m^0 th a ng^3
+r o t^3 @@ z^0
+r o t^3
+r o t^3 ch aa t^2
+r o t^3 pr a z^1 th aa n^0 j aa z^0
+r a z^3 h a t^1
+r a z^3 h a t^1 s a z^1 w i z^3 ch aa z^0
+r @@ z^0
+r @@ ng^0 r a p^3
+r @@ ng^0 s aa t^1 tr aa z^0 c aa n^0
+r @@ ng^0 th aa w^3
+r @@ t^2
+r @@ p^2
+r @@ j^0
+r @@ j^0 th aa ng^0
+r @@ j^0 ph a p^3
+r @@ j^0 s a z^1 l a k^1
+r @@ j^0 j e p^1
+r a z^3
+r a z^3 ng a p^3
+r a z^3 d a p^1
+r a z^3 b o p^1
+r a z^3 b o p^1 kh a p^1 khl vva n^2
+r a z^3 b o p^1 z @@ th a @@ m^4 b i t^1
+r a z^3 b aa j^0
+r a z^3 j a z^3
+r a z^3 j a z^3 th aa ng^0
+r a z^3 w ii z^0 w a n^0
+r a z^3 w aa ng^1
+r a z^3 b qq t^1
+r a k^3
+r a k^3 s aa z^4
+r a ng^0 s ii z^4
+r a ng^0 s ii z^4 z e k^3
+r a t^3
+r a t^3 th a z^1 b aa n^0
+r a t^3 th a z^1 m o n^0 tr ii z^0
+r a t^3 th a z^1 m o n^0 tr ii z^0 w aa z^2 k aa n^0
+r a t^3 w i z^3 s aa z^4 h a z^1 k i t^1
+r a p^3
+r a p^3 pr a z^1 th aa n^0
+r a p^3 s o ng^1
+r uua z^0
+r aa k^2
+r aa k^2 n o m^0 s a z^1 w a n^4
+r aa k^2 c ee t^1 t a z^1 m uu n^0 phl qq ng^0
+r aa k^2 kh t^1
+r aa z^0 kh aa z^0
+r aa ng^0 w a n^2
+r aa t^2 ch a z^3 k aa n^0
+r aa t^2 ch a z^3 b a n^0 d i t^1 t a z^1 j a z^3 s a z^1 th aa n^4
+r aa t^1 n aa z^2
+r aa j^0
+r aa j^0 k aa n^0
+r aa j^0 ng aa n^0
+r aa j^0 ch vv z^2
+r aa j^0 l a z^3 z iia t^1
+r aa j^0 d aa j^2
+r aa z^0 s ii z^4
+r i m^0
+r i m^0 f ii p aa k^1
+r i z^3 w @@
+r ii p^2
+r ii z^0 w i w^0
+r v
+r v j a ng^0
+r u z^1 c i z^1 s ii z^4
+r u n^0 r xx ng^0
+r u ng^2 qq z^0 r u n^0
+r u ng^3
+r uu z^0
+r uu z^0 b i z^1 d iia m^0
+r uu p^2
+r uu p^2 r aa ng^2
+r uu p^2 b xx p^1
+r uu z^0 c @ z^1
+r uu z^3
+r uu z^3 c a k^1
+r uu z^3 s v k^1
+r uua m^2
+r aa ng^2 k aa j^0
+r @@ ng^3
+r @@ ng^3 phl ee ng^0
+r @@ ng^3 h aa j^2
+r @@ n^3
+r @@ j^3
+r aa n^3
+r aa n^3 kh aa z^3
+r aa n^3 z aa z^0 h aa n^4
+r aa n^3 n x z^3 n a m^0
+r aa j^3
+r v z^3 ch u z^1 ph a n^0
+r v z^3 d uu z^0
+r v z^3 d uu z^0 n aa w^4
+r v z^3 d uu z^0 l xx ng^3
+l o ng^0
+l o ng^0 th a z^3 b iia n^0
+l o ng^0 m aa z^0
+l o ng^0 th oo t^2
+l o t^3
+l o t^3 th @@ n^0
+l o t^3 l o ng^0
+l o p^3
+l o m^0
+l uua k^1
+l uua t^2 th @@ ng^0 d xx ng^0
+l @@ ng^0
+l @@ ng^0 c i t^1 c uu t^1
+l @@ c i k^1
+l @@ c i k^1
+l @@ j^0
+l a z^3
+l a z^3 l aa j^0
+l a z^3 m aa t^1
+l a z^3 m qq z^4
+l a z^3 l qq j^0
+l a k^3 s a z^1 n a z^1
+l a t^3 l @ z^3
+l a n^2
+l aa z^0
+l aa ng aa n^0
+l aa t^2 th ee z^0
+l aa n^0
+l aa t^2
+l aa z^0 t a j^2
+l i z^3 f
+l i z^3 m i t^3
+l i z^1 n iia
+l i z^3 d a j^2
+l i n^3 th a z^3 l ee z^0
+l ii z^0 n u k^3
+l vv m^0
+l u k^3
+l u k^3 l aa m^0
+l u ng^0
+l u m^2
+l u n^2
+l uu k^2
+l uu k^2 kl @@ n^0
+l uu k^2 kh aa z^3
+l uu k^2 ch i n^2 pl aa z^0
+l uu k^2 p vv n^0
+l uu k^2 ph a z^1 s o m^4
+l uu k^2 ph uu z^3 d ii z^0
+l uu k^2 f a k^1
+l uu k^2 t a w^4
+l uu p^2
+l @ k^3 z qq n^0
+l @ k^3 z a w^0
+@ k^3
+l e @@ p^1 s t qq z^2
+l o m^2
+l uua ng^2
+l aa z^2
+l aa ng^2
+l aa m^2
+l aa z^2 s u t^1
+l o m^3
+l aa ng^3
+l aa n^3
+w o ng^0
+w o ng^0 kh a z^1 n aa n^4 l @@ ng^4 t i z^1 c uu t^1
+w o ng^0 c @@ n^0
+w o ng^0 c @@ n^0 kh a z^1 j aa j^4 k a m^0 l a ng^0
+w o ng^0 c @@ n^0 kh a z^1 j aa j^4 s a n^4 j aa n^0
+w o ng^0 c @@ n^0 ph a z^1 s o m^4 s a n^4 j aa n^0
+w o ng^0 c @@ n^0 r uua m^0
+w o ng^0 c @@ n^0 r ii z^0 l ee z^0
+w o ng^0 c @@ z^0 r @@ z^0 z i z^1 l e k^3 thr @@ z^0 n i k^1
+w o ng^0 c @@ n^0 d aa q z^3 kr x m^0
+w o ng^0 l @@ z^2
+w o ng^0 l @@ z^3 phl ee t a n^0
+w o ng^0 ng aa m^0 kh a m^0
+w a z^3 n a z^3 s aa t^1
+w @@ n^0 n u ch^3
+w @@ n^3
+w @@ w^0 k^1
+w a t^3 ch a z^3 ph vv t^2
+w a j^0 th t^3 th a z^3 n a z^3 ph o ng^0
+w a t^3 th a z^3 n a z^3 th a m^0
+w a t^3
+w a t^1 kh u n^4 phr o m^0 m a j^4
+w a t^3 th u z^1
+w a t^3 th u z^1 d i p^1
+w a t^3 th u z^1 pr a z^1 s o ng^4
+w a n^0
+w a n^0 th ii z^2
+w a n^0 n ii z^3
+w a n^0 p ii z^4 m a j^1
+w a n^0 r u ng^2 kh v n^2
+w a n^0 s u k^1
+w a n^0 j u t^1
+w a n^0 k qq t^1
+w a n^0 s a w^4
+w a n^0 n a j^4
+w a j^0
+w a j^0 r u n^2
+w uua z^0
+w a t^3 s a z^1 d u z^1
+w aa ng^0
+w aa ng^0 ph xx n^4
+w aa t^2
+w aa n^0
+w aa n^0 s vv n^0
+w aa p^1
+w i z^3 kr o m^0
+w i z^3 c a j^0
+w i z^3 ch aa z^0
+w i z^3 ch aa z^0 k aa n^0
+w i z^3 d ii z^3 z oo z^2
+w i t^3 th a z^3 j aa z^0 s aa t^1
+w i t^3 th a z^3 j aa z^0 s aa t^1 th e k^3 n oo z^0 l oo z^0 j ii z^0 l x z^3 k aa n^0 ph a z^3 l a ng^0 ng aa n^0
+w i t^3 th a z^3 j u z^3
+w i t^3 th a z^3 j u z^3 t aa m^0 t uua z^0
+w i t^3 th a z^3 j u th oo z^0 r a z^3 th a t^3
+w i z^3 th ii z^0
+w i z^3 th ii z^0 k aa n^0
+w i z^3 th ii z^0 th a m^0
+w i z^3 th ii z^0 ii z^0
+w i z^3 th ii z^0 ch a j^3
+w i z^3 n aa z^0 th ii z^0
+w i z^3 n i t^3 ch a j^4
+w i n^0 d oo z^0
+w i n^0 d oo z^2
+w i p^3
+w i z^3 p khr ii m^0
+w i z^3 ph aa z^0
+w i z^3 l l i t^3
+w i t^3 s a z^1 w a z^3 k a m^0 m a z^3 s aa t^1
+w i t^3 s a z^1 w a z^3
+w i z^3 khr @ z^3
+w i z^3 khr @ z^3 r a z^3 b o p^1
+w i ng^2
+w i x ng^1
+w ii z^0 s ii z^3 z oo z^2
+w ii z^0 d i z^3 z oo z^2
+w ii z^0 d ii z^0 @@ z^0
+w ii z^0 z xx l^0 z ee t^1 z
+w u t^3 th i z^3 ph o ng^0
+w u t^3 th i z^3 w a z^3 ch aa t^2 k u n^0
+w u n^2
+w a z^3 r t m^0 s i k^3 d i t^3 th
+w @ ng^1 w a j^0
+w aa z^2
+w aa ng^2
+s @@ k^1
+s a k^1 aa f a j^0 f aa z^3
+s a k^1 k a z^1 r aa t^1
+s a t^1 tr uu z^0
+s a p^1
+s a p^1 s a m^4 ph a n^0
+s aa z^0 l aa z^0
+s aa t^1 s a z^1 n aa z^4
+s i n^4 l a z^3 p i n^0
+s i z^1 l aa z^0 c aa z^0 r v k^3
+s v k^1 s aa z^4
+s u k^1
+s u ph d t^2
+s uu n^4
+s uu n^4 kl aa ng^0
+s uu n^4 w i z^3 c a j^0
+s uu n^4 s uu t^1
+s uu n^4 n^2
+s uu n^4 th e k^3 n oo z^0 l oo z^0 j ii z^0 z i z^1 l e k^3 thr @@ z^0 n i k^1 l a z^3 kh @ m^0 ph i w^3 t qq z^2 h x ng^1 ch aa t^2
+s a z^1 k aa j^0
+s a z^1 kh i p^3
+s a z^1 ng aa z^1
+s a t^1 tr ii z^0
+s a z^1 t @@ z^0 b qq z^0 r ii z^2
+s a z^1 t aa ng^0
+s a z^1 t aa z^0 b a k^1
+s a z^1 t aa w @@
+s a z^1 th aa n^4 th ii z^2
+s a z^1 th aa z^4 n a z^3
+s a z^1 th aa z^4 n ii z^0
+s a z^1 th aa z^4 b a n^0 th e k^3 n oo z^0 l oo z^0 j ii z^0 phr a z^3 c @@ m^0 kl aa w^2 l aa t^1 kr a z^1 b a ng^0
+s a z^1 th i z^1 t i z^1
+s o n^4
+s o n^4 phr a z^3 r aa t^2 ch a z^3 h r v z^3 th a j^0
+s a z^1 n a p^1 s a z^1 n u n^4
+s a z^1 n aa m^4 f a j^0 f aa z^3
+s a z^1 n i t^1
+s a z^1 b aa j^0
+s a z^1 pr i ng^0
+s p aa z^0 k e t^3 t ii z^2
+s a z^1 ph aa p^2
+s a z^1 ph aa p^2 w xx t^2 l @@ m^3
+s a z^1 ph aa z^0 w a z^3
+s a z^1 m a z^3 k aa n^0
+s o m^4 ch a j^0
+s o m^4 b uu n^0
+s o m^4 ph o p^3
+s o m^4 m a z^3 t i z^1
+s a z^1 m a t^1 th a z^1 n a z^3
+s a z^1 m @@ ng^4
+s a z^1 m a k^1
+s a z^1 m a j^4
+s a z^1 m aa z^0 kh o m^0
+s a z^1 m aa z^0 ch i k^3
+s a z^1 m u t^1
+s a z^1 m u t^1 pr aa z^0 k aa n^0
+s a z^1 m u n^0 ph @@ n^0
+s a z^1 m a z^3 k iia t^1
+s a z^1 m a m^1 s a z^1 m qq z^4
+s a z^1 j @@ ng^0
+s a z^1 j aa m^4
+s a p^1 ph a z^3 kh u n^0
+s a p^1 ph a z^3 s ii z^4
+s a z^1 r a z^1
+s a z^1 r u p^1
+s aa ng^2
+s aa ng^2 kh v n^2
+s a z^1 l a t^1 b aa
+s a z^1 l a p^3
+s a z^1 l a p^3 s a p^3 s @@ n^3
+s a z^1 l aa f^3
+s a z^1 l v ng^0
+s uua m^2
+s uua j^4
+s a z^1 w ii z^0 th @@ z^0
+s a z^1 w aa ng^1
+s @@ z^0
+s @@ ng^4
+s @@ ng^0 th u m^1
+s @@ t^1 khl @@ ng^3
+s @@ n^4
+s @@ p^1
+s @@ p^1 th aa m^4
+s @@ p^1 j @ j^2
+s a z^1 k o t^1
+s a z^1 k o t^1 c i t^1
+s a z^1 d uua k^1
+s a z^1 s aa ng^4
+s a z^1 z aa t^1
+s a k^1
+s a k^1 k aa z^0 r a z^3
+s a ng^4 kh o m^0 s aa n^4 s a z^1 n a z^3 th ee t^2
+s a ng^4 k ee t^1
+s a ng^4 k ee t^2
+s a ng^4 kh ee p^1
+s a ng^4 khr @ z^3
+s a n^4 j aa n^0
+s a n^4 j aa n^0 t vva n^0
+s a n^4 j aa n^0 b ee z^0 s b xx n^0
+s a n^4 j a z^3 l a k^3
+s a t^1 s uua n^1
+s a t^1 ph xx t^2 s aa t^1
+s a t^1
+s a t^1 n aa m^3
+s a t^1 p ii k^1
+s a t^1 l iia ng^3
+s a p^1
+s a p^1 t a z^1 kh a j^3
+s a p^1 s o n^4
+s a p^1 d aa z^0
+s a m^4 pr a z^1 s i t^1
+s a m^4 ph a n^0
+s a ng^1
+s a ng^1 ng aa n^0
+s a ng^1 s vv z^3
+s a n^2
+s aa z^4 kh aa z^4
+s aa z^4 th aa z^0 r a z^3 n a z^3 s u k^1 m uu n^0 th aa n^4
+s aa n^4
+s aa p^1 s aa ng^4
+s aa m^4
+s aa z^4 m j aa n^2
+s aa z^4 m aa t^2
+s aa z^4 m ii z^0
+s aa j^4
+s aa j^4 t aa z^0
+s aa j^4 s @@ j^2
+s aa j^4 z aa z^0 k aa t^1
+s aa n^4
+s aa n^4 t uua z^0 n a m^0 j i ng^2 j uua t^2
+s aa z^4 r a z^3 n i z^3 th ee t^2
+s aa n^4 kh ee z^0 m ii z^0
+s aa n^4 c vva b oo z^0 r @@ n^0
+s a m^4 kh a n^0
+s a m^4 n a k^3 ng aa n^0
+s a m^4 n a k^3 ng aa n^0 pl a t^1 kr a z^1 s uua ng^0 w i t^3 th a z^3 j aa z^0 s aa t^1 th e k^3 n oo z^0 l oo z^0 j ii z^0 l x z^3 k aa n^0 ph a z^3 l a ng^0 ng aa n^0
+s a m^4 n a k^3 ng aa n^0 pl a t^1 kr a z^1 s uua ng^0 n^2
+s a m^4 m a z^1 n oo z^0 pr a z^1 ch aa z^0 k @@ n^0
+s a m^4 r uua t^1
+s a m^4 r a p^1
+s i z^1
+s i ng^4 h aa z^4
+s i t^1 th i z^3 l qq t^2 ph i z^3 s aa n^4
+s i n^4 kh aa z^3
+s i p^1
+s i p^1 z e t^1
+s i ng^1
+s i ng^1 k @@ z^1 s aa ng^2
+s i ng^1 kh @@ ng^4
+s i ng^1 w xx t^2 l @@ m^3
+s i n^2
+s i n^2 pl vva ng^0
+s ii z^4
+s ii z^1
+s ii z^1 l iia m^1
+s vv p^1 kh o n^3
+s vv z^1 s aa n^4
+s u k^1
+s u z^1 k ii z^2
+s u k^1 k^1
+s u k^1 kh a z^1 ph aa p^2
+s u k^1 kh u m^0
+s u z^1 ch aa t^2
+s u n^0 j aa z^0 k aa t^1
+s u t^1
+s u t^1 th aa j^3
+s u z^1 n a k^3
+s u z^1 ph aa p^2
+s u z^1 r aa z^0
+s u z^1 r ii z^0
+s u m^1
+s uu ng^4
+s uu ng^4 s u t^1
+s uu n^4 s iia z^4
+s uu t^1
+s uu z^1
+s a z^1 t e k^3
+s a z^1 p kh tr a m^0
+s khw
+s w^0
+s o ng^1
+s o ng^1 s qq m^4
+s uua n^1
+s uua n^1 khw aa m^0 c a m^0
+s uua n^1 pr a z^1 k @@ p^1
+s uua n^1 ph a z^1 s o m^4
+s uua n^1 l o t^1
+s uua n^1 n v ng^1
+s uua n^1 j a j^1
+s aa j^1
+s e m^2
+s e m^2 t a m^0
+h o k^1
+j a w^2
+n @@ n^0 k @@ z^0
+n a k^1
+n a ng^4
+n a ng^4 s vv z^4
+n aa w^4
+n ii z^4
+n ii z^2
+n v ng^1
+n u m^1 n u m^1
+n uu z^4
+n uu z^4 kh a z^1 j a z^1
+n uu z^0 c i t^1
+n uu z^4 n aa z^0
+n uu ph u k^1 l e k^3
+n uu z^4 s uua n^4
+n uu z^4 r i ng^1
+n uua j^1 khw aa m^0 c a m^0
+n uua j^1 ng aa n^0
+n uua j^1 r a ng^0 s ii z^4 r a k^3 s aa z^4
+n @ j^1
+n aa z^2
+n aa z^2 c @@ z^0
+n aa z^2 c uua z^2
+n aa z^2 t aa ng^1
+n aa z^2 th ii z^2
+n aa z^2 b aa n^2
+n aa z^3 p a t^1 m^0
+n aa aa z^3
+m o t^1
+m @@ z^4
+m aa z^4
+m aa j^4 th v ng^4
+m aa j^4 l ee k^2
+m ii z^2 kr @@ p^1
+m v k^1
+m vv n^1
+m u n^4
+m uu z^4
+m uu kr a z^1 th iia m^0
+m uu z^4 s a p^1
+m uu z^1 kh a z^3 n a z^3
+m uu z^1 b aa n^2
+j o t^1
+j aa p^2 kh aa j^0
+j i p^1
+j u t^1
+r vv z^4
+l o ng^4 l vv m^0
+l o p^1 l ii k^1
+l uua ng^4
+l @@ t^1
+l @@ t^1 f a j^0
+l @@ t^1 f a j^0 f aa z^3
+l @@ m^4
+l a k^1
+l a k^1 k aa n^0
+l a k^1 th aa n^4
+l a k^1 k ee n^0
+l a ng^4
+l a ng^4 c aa k^1 n a n^3
+l a ng^4 b aa n^2
+l a p^1
+l uua z^0 h uu z^1
+l aa j^4
+l aa j^0 k^1
+w a ng^4
+w aa n^4
+w aa j^0
+w ii z^0
+h @@ z^4
+h @@ kl aa ng^0
+h @@ p^2
+h @@ j^0
+h @@ j^0 khr oo ng^0
+h @@ z^4 s a z^1 m u t^1 kl aa ng^0
+h a z^3 j ii z^0 w aa z^0 m i ng^0
+h a k^1 ph a ng^0
+h a n^4
+h uua z^4
+h uua z^4 kh @@ z^2
+h uua z^4 b a n^0 th v k^3
+h uua z^4 h @@ m^4
+h uua z^4 z aa n^1
+h uua z^4 th iia n^0
+h a n^2
+h aa z^4
+h aa k^1
+h aa ng^0
+h aa j^4
+h aa j^4 c a j^0
+h aa n^4
+h aa z^4 l iia ng^3
+h i n^4
+h i n^4 s a z^1 khr ee k^1
+h i w^4
+h ii p^1
+h vv t^2
+h u ng^0
+h uu z^4
+h @ h u m^2
+h aa ng^1
+h @ ng^2
+h @ ng^2 khr uua z^0
+h @ ng^2 n @@ n^0
+h @ ng^2 n aa m^3
+h @ ng^2 ph a k^1
+h @ ng^2 s a z^1 m u t^1
+h @ ng^2 s a z^1 m u t^1 j uu z^0 z ee z^0
+h aa z^2
+z a z^1
+z o ng^0
+z o ng^0 pr a z^1 k @@ p^1
+z o ng^0 s aa z^4
+z o t^1
+z a z^1 t i z^1 w o ng^0
+z a z^1 th i z^3 b aa j^0
+z a z^1 n v ng^1
+z a z^1 n u z^3 kr o m^0
+z a z^1 n u z^3 k @@ z^0 r o m^0 m a z^3 w i z^3 th aa n^0
+z a z^1 n u z^3 k a m^0 m a z^3 k aa n^0
+z a z^1 n u z^3 khr @ z^3
+z o p^1
+z o p^1 r o m^0
+z o m^0
+z a z^1 m aa t^1 t a z^1 j a z^3 k u n^0
+j aa k^1
+j uu z^1
+j aa z^1
+j aa ng^1
+j aa ng^1 kh u m^3 kh aa z^2
+j aa ng^1 t a m^1
+j aa ng^1 n @@ j^3
+j aa ng^1 j i ng^2
+j aa ng^1 s uu ng^4
+j aa ng^1 th xx z^3 c i ng^0
+j aa ng^1 d a j^0
+j aa ng^1 r a j^0
+j aa ng^1 r a j^0 k @@ z^2 t aa m^0
+z a z^1 r @ j^2
+z a z^1 r aa m^2 l vva ng^4
+z uua t^1
+z a z^1 w a j^0 j a z^3 w a z^3
+z a z^1 w a j^0 j a z^3 w a z^3 kh a p^1 th aa j^1
+z a z^1 w a j^0 j a z^3 w a z^3 ph ee t^2
+z @@ k^1
+z @@ k^1 m aa z^0
+z @@ k^1 uua ng^0
+z @@ k^1 z aa z^0 k aa t^1
+z @@ k^1 b xx p^1
+z @@ k^1 p a j^0
+z @@ n^0
+z @@ t^3 k aa
+z @@ t^3 tr ee l iia z^0
+z @@ z^0 d @@
+z @@ z^0 r ee n^0 c i z^3 n aa z^2
+z a z^1
+z a z^1 t @ m^0
+z a z^1 s oo khr qq n^0
+z a z^1 r a j^0
+z a z^1 r a b aa ng^2
+z a z^1 r a w @@ n^3
+z a k^1 s @@ n^4
+z a k^1 s @@ n^4 s aa t^1
+z a k^1 s ee p^1
+z a ng^0 kr i t^1
+z a ng^0 kh aa n^0
+z a t^1 tr aa z^0
+z a t^1 tr aa z^0 s uua n^1
+z a t^1 t a z^1 n oo z^0 m a t^3
+z a n^0
+z a n^0 d a p^1
+z a n^0 d @@ w @@ z^0 t qq z^0 w qq w^0 t^1
+z a p^1 p a z^1 d t^1
+z a p^3
+z a p^1 ph a z^3 l o t^1
+z a m^0 ph aa t^2
+z a n^0 k @@ z^0 r i z^3 th v m^0
+z aa z^0
+z aa z^0 k aa n^0
+z aa z^0 k aa t^1
+z aa z^0 kh aa n^0
+z aa t^1
+z aa t^1 c a z^1
+z aa z^0 c aa n^0
+z aa z^0 th i t^3
+z aa p^1
+z aa p^1 n aa m^3
+z aa m^0
+z aa j^0
+z aa z^0 j u z^3
+z aa z^0 r aa p^2 k aa w^2
+z aa
+z aa z^0 l a z^3 w aa t^1
+z aa z^0 w u t^3
+z aa z^0 s a j^4
+z aa z^0 h aa n^4
+z aa z^0 h aa n^4 t a z^1 w a n^0 t o k^1
+z aa z^0 h aa n^4 t a z^1 w a n^0 z @@ k^1
+z aa z^0 h aa n^4 b uu t^1
+z aa z^0 h aa n^4 s iia z^4
+z aa z^0 h aa n^4 th a j^0
+z aa aa n^0
+z aa z^0 c iia n^0
+z aa z^0 b qq z^0 d ii n^0 phr uu z^0 w i ng^0 kr aa n^0 t^1
+z i t^1
+z i n^0 ph u t^1
+z i n^0 ph u t^3
+z i n^0 s p^3 ch a n^2
+z i n^0 t qq z^0 f r oo z^0 m i z^1 t qq z^2
+z i m^0 m t^1
+z i z^1 l e k^3 @@ n^0
+z i z^1 l e k^3 thr @@ z^0 n i k^1
+z i z^1 l e e k^3 th @@ n^0 n i k^1
+z ii z^0
+z ii k^1
+z ii k^1 khr a ng^3
+z ii k^1 d uua j^2
+z ii k^1 th a ng^3
+z ii z^0 n i z e k^3
+z ii z^0 m o n^0
+z ii z^0 m ee
+z v t^1 z a t^1
+z vv n^1
+z vv n^1 k^1
+z u n^0 h a z^1 ph uu m^0
+z u z^1 d o m^0
+z u z^1 d @ uu z^3
+z u t^1 s aa z^4 h a z^1 k a m^0
+z u p^1 p a z^1 k @@ n^0
+z u p^1 p a z^1 m aa n^4
+z u p^1 p a z^1 ph oo k^2
+z u m^2
+z a z^1 n ee k^1 k a z^1 pr a z^1 s o ng^4
+z a z^1 m ee z^0 s @@ n^0
+z a z^1 m ee z^0 r i z^3 k aa z^0 n oo z^2
+z aa n^1
+z aa n^1 pr vva ng^2
+z aa w^1
+z uua n^2
+z @@ m^2
+z @@ j^2
+z aa ng^2 z i ng^0
+h a n^0 n ii z^2 m uu n^0
+h aa z^0 c i z^1 b a ng^0
+h aa t^1 d i t^3
+h aa t^1 w xx z^0
+h i z^3 c i z^1 r i z^1
+h i t^1
+h i w^0
+h i t^3 s a z^1 th ii z^0 r iia z^0
+h v t^3 h a t^1
+ph l a n^2
+x z^1 t @ ng^2
+k ee n^0
+k o m^0
+k a z^1 m
+k a j^0
+kr ee ng^0
+kr ee ng^0 kl uua z^0
+kr o t^1
+kr @ z^3
+kr iia ng^0
+kr iia ng^0 ch a j^0
+kr e ng^0
+kr e ng^0 t uua z^0
+kl iia kl @ m^2
+kl iia ng^3
+kl vva z^4
+kl e t^1
+k a z^1 w iia n^0
+k ee t^2
+k a z^1 s ee t^1
+k a z^1 s ee t^1 tr a z^1 k a m^0
+k a z^1 s ee t^1 s aa t^1
+k a z^1 k a z^1
+k a w^0 l ii z^4
+k @ z^1
+k a w^0 l aa z^0
+k qq t^1
+k qq t^1 kh v n^2
+k qq n^0
+k iia w^1
+k iia w^1 k a p^1
+k iia w^1 kh @ ng^2
+k iia w^3
+k vva p^1
+k a z^3 r ee z^0
+k e p^1
+k e ng^1
+k e ng^1 k aa t^1
+k a w^1
+k a ng^3
+k a w^2
+k a w^2 z ii z^2
+k aa
+k
+kh ee t^1
+kh m^0
+kh a w^4
+kh iia n^4
+kh iia n^4 pr oo z^0 kr x m^0
+kh iia w^4
+kh vva n^1
+kh e m^4
+kh a w^2
+kh a w^2 ch aa j^4
+kh a w^2 d uua j^2 k a n^0
+kh a w^2 m aa z^0
+kh a w^2 r uua m^2
+kh a w^2 z @@ k^1
+kh a w^2 f a w^2
+kh a w^2 c a j^0
+kh a w^2 c a j^0 ph i t^1
+kh a w^2 p a j^0
+kh ee z^0
+kh qq j^0
+khr ee z^0 d i t^1
+khr ee n^0
+khr ee p^1
+khr vva z^0
+khr vva z^0 kh aa j^1
+khr vva z^0 kh aa j^1 kh @ m^0 ph i w^3 t qq z^2
+khr vva ng^2
+khr vva ng^2 kl v ng^0
+khr vva ng^2 k a t^1
+khr vva ng^2 kh @ m^0 ph i w^3 t qq z^2
+khr vva ng^2 kh i t^3 l ee k^2
+khr vva ng^2 s a k^3 ph aa z^2
+khr vva ng^2 t o n^2 b xx p^1
+khr vva ng^2 b i n^0
+khr vva ng^2 pr u ng^0
+khr vva ng^2 ph i m^0
+khr vva ng^2 m vv z^0
+khr vva ng^2 j aa z^0
+khr vva ng^2 r a p^3 w i t^3 th a z^3 j u z^3
+khr vva ng^2 w a t^3
+khr vva ng^2 s p a t^1 t a z^1 t qq i ng^0
+khr vva ng^2 s o ng^1
+khr vva ng^2 s o ng^1 w i t^3 th a z^3 j u z^3
+khr vva ng^2 h ii z^0 l iia m^0 n ii z^0 z @@ n^0 l ee z^0 s @@
+khr vva ng^2 l e n^2 w i z^3 d ii z^3 z oo z^2
+khr vva ng^2 s iia ng^4
+khr vva ng^2 b xx p^1
+khr vva ng^2 ch a j^3
+khr vva ng^2 m a j^0 khr oo z^0 kh @ m^0 ph i w^3 t qq z^2
+khr e ng^2
+khl iia
+khl vva p^1
+khl vva n^2 th ii z^2
+khl vva n^2 w a j^4
+khl e t^1
+khl e t^1 l a p^3
+kh iia w^0
+kh iia w^1
+kh ee z^0 b q n^2
+kh ee z^0 z ee p^3 s ii z^0
+kh e m^0
+kh a k^1
+kh a w^2 t qq z^2
+ng a w^0
+ng q n^0
+ng qq n^0 th @@ ng^0
+ng iia p^2
+ng iia p^2 k^1
+ng vva ng^2 ng @@ j^0
+c ee n^0
+c ee p^3 f @@
+c a z^1 r qq n^0
+c @ z^1
+c iia w^0
+c e t^1
+c e n^0 z e t^1
+c e p^1 p uua j^1
+c e p^1 kh a j^2
+c a w^2
+c a w^2 kh @@ ng^4
+c a w^2 ch uu z^3
+c a w^2 n aa z^2 th ii z^2
+c ee
+ch a z^1
+ch a z^1 ph @ z^3
+ch a z^1 l iia z^1
+ch ee t^1
+ch @@ z^0 r ii z^2
+ch qq ng^0
+ch qq t^3
+ch vva z^2 th vv z^4
+ch vva m^2
+ch vva m^2 t @@ z^1
+ch vva z^3 phl qq ng^0 j uu z^0 r ee z^0 n iia m^0
+ch e k^1
+ch e n^2
+ch e n^2 k a n^0
+ch a w^2
+ch aa w^3
+s ng^0 s iia m^0 z ii
+s xx n^0 t i z^1 m ee t^3
+s n^0 t qq z^2
+s ee w^0 uu n^0 aa
+s ee w^0
+s @@ z^0 kh i n^0
+s w xx n^2
+s e t^1
+s e n^0 thr a n^2 w qq w^0
+s e n^0 s @@
+d b i t^1
+d xx n^0
+d q z^1
+d qq n^0
+d qq n^0 th aa ng^0
+d qq m^0
+d qq m^0 k^1
+d iia w^0
+d iia w^0 k a n^0
+d iia w^0 k a p^1
+d vva n^0
+d vva j^0
+d e k^1
+d e t^1
+t ch a z^1 d a m^0 r o ng^0 s i n^4
+t ee t^1 tr aa z^0 s khl ii n^0
+tr iia m^0
+tr iia m^0 t uua z^0
+t a w^0 th aa n^1
+t a w^0 z ph i th xx k^2 s ii z^0
+t a w^0 k xx t^3
+t qq m^0
+t iia w^0 tr a z^1 k uu n^0
+t vva n^0
+t e m^0
+t qq z^4
+th q z^3
+th ee k^3
+th ee k^3 n i k^1
+th e k^3 n oo z^0 l oo z^0 j ii z^0
+th ee p^2
+th ee p^2 k aa z^0 b iia n^0
+th m^4 p u a z^1 d ng^3
+th @@ m^0
+th a w^0
+th qq n^2
+th iia p^2
+th iia p^2 th a w^2
+th iia ng^2
+th iia w^2
+th a w^2
+th a w^2 k a p^1
+th a w^2 n a n^3
+th a w^2 r a j^0
+th a w^2 r a j^1
+th a w^2 k^1
+th qq z^0
+n ee z^0
+n ee z^0 z a z^1
+n iia z^1
+n vva ng^2
+n vva ng^2 c aa k^1
+n vva z^3
+n vva z^3 pl aa z^0
+n vva z^3 s aa n^4
+n vva z^3 m uu z^4
+n vva z^3 h aa z^4
+n vva z^3 j vva z^2
+n vva z^3 k a j^1
+n e t^1
+b o ng^0 k @@ n^3
+br ee k^1
+br ee k^1
+b l @@ z^0
+b qq z^0
+b qq z^0 k @@
+b a w^0
+b a w^0 w aa n^4
+b a w^0 k^1
+b qq t^1
+b iia z^2
+b vva z^1
+b vva ng^2 t o n^2
+b e t^1 s e t^1
+pr ee m^0 pr aa z^0 n ii a t^1
+pr ee q z^3 p vv @@ n^3
+pr @ z^3
+pr iia p^1 th iia p^2
+pr iia w^3
+pl iia n^1
+pl iia n^1 p e n^0
+pl iia n^1 pl xx ng^0
+pl vva ng^0
+pl e ng^1
+pl aa w^1
+pl aa w^1 k^1
+p qq z^0 s n^0
+p qq z^0 s e n^0
+p a z^1 p a z^1
+p qq t^1
+p iia z^0 ch oo z^0 z i z^1 l e kh tr i k^3
+p vv @@ n^2 pr ee q z^3
+p e n^0
+p e n^0 t o n^2
+p e n^0 t o n^2 m aa z^0
+p e n^0 ph i t^3
+p e n^0 s u k^1
+p e n^0 l a k^1
+p e n^0 p a j^0
+p e p s ii z^2
+p a w^2 m aa j^4
+ph a w^4
+ph vva z^1
+ph e t^1
+ph e t^1 r @@ n^3
+ph o t^3
+ph e t^3
+ph th u z^3 b aa j^0
+phr @ z^3
+phr @ z^3 ch a z^1 n a n^3
+phl ee ng^0
+phl qq ng^0
+phl iia kr a z^1 d oo t^1
+ph @@ z^0 r i z^3 kh aa ph l ee z^0 j qq z^2
+ph @ z^3 l iia ng^3
+ph qq m^2
+ph qq m^2 t qq m^0
+ph iia ng^0
+ph iia ng^0 ph @@ z^0
+ph iia ng^0 t xx z^1
+ph vva z^2
+ph vva n^2
+ph qq z^0
+f ee t^2
+f ee z^0 r o m^0
+f ee t^1
+f vva ng^2
+f qq j^0
+f @@ z^2
+ph s a t^3 ch a z^3 w a t^3 th u z^1
+ph s a t^3 ch a z^3 w i t^3 th a z^3 j aa z^0
+m ee z^0 kh
+m ee t^3
+m a z^3 n uu z^4
+m ee e t^1
+m ee e t^1 ph vv t^2
+m ee
+m ee z^0 s aa z^4 j o n^0
+m qq z^2 l i n^0
+m vva z^2
+m vva z^2 kh vv n^0
+m vva z^2 w aa n^0
+m vva z^2 r a j^0
+m vva z^2 r a j^1
+m ee z^0 c @@
+j o n^0
+j q z^3
+j @ z^3
+j iia m^2
+j e n^0
+j e n^0 n ii z^3
+j e n^0 k^1
+j qq j^3
+r ee z^0 d aa
+r ee t^3 t i ng^3
+r a w^0
+r qq m^2
+r iia k^2
+r iia k^2 w aa z^2
+r iia ng^0
+r iia n^0
+r iia n^0 ph i z^3 s ee t^1
+r vva z^0
+r vva n^0
+r vva n^0 khr uua z^0
+r vva n^0 khr uua z^0 f a j^0
+r vva n^0 n @@ n^0
+r vva ng^2
+r vva ng^2 j @@ z^2
+r vva j^2
+r vva j^2 k^1
+r e kh a z^3 t i z^1 f oo z^0
+r e w^0
+l ee k^2 th ii z^2
+l ee z^0 kh a j^0 ch @@
+l qq j^0
+l ee z^0 z a z^3 l vva n^0
+l qq k^2
+l qq f^3
+l iia n^2 b xx p^1
+l iia ng^3
+l vva k^2
+l vva t^2
+l vva n^2
+l ee z^0 s @@
+l a z^3 k oo z^0
+l e k^3
+l e k^3 n @@ j^3
+l e k^3 k^1 n @@ j^3 k^1
+l e ng^0
+l e n^2
+l e m^2
+w ee z^0
+w ee t^2
+w ee t^2 m o n^0
+w ee t^2 m o n^0
+w ee z^0 l aa z^0
+w @@
+w @@ z^0 ch a n^1 m^4
+w qq kh ch @ p^1
+w qq t^1 pr oo z^0 s t^3 s @@
+w iia t^2 n aa m^0
+w ee z^0 w @@
+w ee e p^1 s
+s ee t^1 th a z^1 s aa t^1
+s ee t^1
+s a z^1 n qq z^4
+s a z^1 m oo z^0 h a z^1
+s a z^1 m qq z^4
+s qq m^4 s uua j^4
+s e t^1
+s e t^1 r iia p^2 r @@ j^3
+s e e t^1
+s e z^4 w a z^3 j a z^3 r aa t^2
+s a w^4
+s a w^4
+s iia z^4
+s iia ng^4
+s iia ng^0 ph uu t^2
+s iia z^4 ch ii z^0 w i t^3
+s iia z^4 d aa j^0
+s iia z^4 w ee z^0 l aa z^0
+s vva z^4
+s vva th a z^3 l ee z^0
+s vva m^1
+s vva z^2
+s vva z^2 kr a z^1 b @@ k^1
+s vva z^2 khr u j^4
+s vva z^2 ph aa z^2
+s vva z^2 j vv t^2
+s e n^2
+s e n^2 kr aa f^3
+s e n^2 tr o ng^0
+s e n^2 ph aa z^1 s uu n^4 kl aa ng^0
+s e n^2 l uua t^1 t uua z^0 n a m^0
+s e n^2 l e k^3
+s e n^2 j a j^1
+ng a w^4
+ng a w^2
+ng a w^2 w aa n^1 n aa m^3
+h ee t^1
+h ee t^1 ph o n^4
+m @ z^1
+m @ z^1 s o m^4
+m vva ng^0
+m vva n^4
+m vva n^4 k a n^0
+m vva n^4 w aa z^2
+m e n^4
+j iia p^1 j a m^2
+j vva z^1
+r qq z^4
+r iia n^4
+l ee w^4
+l vva z^4
+l vva ng^4
+l vva th i ng^3
+l e k^3
+l a w^1
+l a w^1 n ii z^3
+h iia z ii z^0
+h vva t^1 h xx ng^2
+h e t^1
+h e n^4
+h e n^4 kh uua n^0
+h e n^4 w aa z^2
+z ee z^0
+z ee k^1 ch o n^0
+z ee k^1 k a z^1 ph o n^0
+z ee k^1 k a z^1 s aa n^4
+z ee k^1 k a z^1 s aa n^4 z aa ng^2 z i ng^0
+z ee ng^0
+z ee t^2
+z ee z^0 s
+z ee t^1
+z ee z^0 d i z^1 ch a n^2
+z ee z^0 th ii z^0 z o m^0
+z ee n^0
+z ee p^3
+z ee z^0 m a z^3 z aa z^0 th ii z^0
+z ee t^1
+z ee t^1 p t^3 s oo z^2
+z @@ z @@ z^0
+z a z^1 z a z^1
+z a w^0
+z a w^0 ch a z^3 n a z^3
+z a w^0 z ee ng^0
+z vva z^2 ph a n^0 w i z^3 r i z^3 j a z^3 k u n^0
+z ee z^0 k e n^0
+z ee z^0 z ee t^1 z aa
+z e k^3
+z e t^1
+z e t^1 w e k^3
+z e m^0
+z e m^0 kh ee z^0
+z aa
+z aa ph u t^3
+z aa z^3 l aa t^2
+h i n^0 th
+k xx ng^0
+k xx n^0
+k xx n^0 thr ii z^0
+kr o n^0
+kr o n^0
+k uua x ng^1
+k xx z^1
+k xx z^1 c a t^1
+k xx z^2
+k xx w^2
+k xx w^2 t aa z^0
+k xx z^2 kh a j^4
+k x p^1
+kh xx n^4
+kh x ng^4
+kh xx n^0 s i n^0
+kh a z^1 kr e n^0
+kh a j^2
+khl @@ z^0 r ii z^2
+khl xx z^0 s iia m^0
+kh xx z^2 n a j^4
+ng xx z^2
+c e k^1
+c e k^1 k e t^1
+c xx ng^2
+c o k^3 k e t^1
+ch o n^0 n xx l^0
+ch
+ch a j^2
+s xx k^2
+d xx ng^0
+d xx t^1
+t xx k^1 t aa ng^1
+t xx ng^0 kr w aa z^0
+t xx ng^0 m oo z^0
+t xx ng^0 th a j^0
+t x z^1
+t xx z^1
+t xx z^1 l a z^3
+t o m^3
+th xx p^1
+th xx p^1 m xx z^1 l e k^3
+th o m^0
+th xx w^0
+th xx n^0
+s xx k^2 t qq z^2
+th x k^3 s ii z^2
+th x p^1
+th xx x ng^1
+n xx n^0
+n xx w^0
+n xx w^0 d i ng^1
+n xx w^0 t a ng^2
+n xx w^0 th aa ng^0
+n xx w^0 n @@ n^0
+n xx w^0 r aa p^2
+n xx w^0 k xx n^0
+n xx w^0 phl aa r a
+n x z^3 n a m^0
+n x z^3 n a m^0 m a j^4
+n xx z^2
+b x k^1 ph e k^1
+b xx n^0
+b xx p^1
+b xx p^1 n ii z^3
+b e th m xx n^0
+b x ng^1
+p xx z^0
+p xx t^1
+p xx p^1
+pr xx z^0
+pr xx z^0 pr uua n^0
+pr xx z^0 s a z^1 ph aa p^2
+pr xx z^0 pl iia n^1
+pl xx z^0
+pl xx k^1 k^1
+pl xx ng^0
+pl xx w aa z^2
+p a z^1
+p n^2
+ph xx n^4
+ph xx n^4 th ii z^2
+ph xx n^4 ph aa p^2
+phl xx z^4
+ph xx n^2
+ph xx n^1 d i n^0
+ph xx n^1 w o ng^0 c @@ n^0
+ph xx n^1 w o ng^0 c @@ n^0 ph i m^0
+ph xx ng^0
+ph xx t^2
+phr xx z^2
+phr xx z^2 kr a z^1 c aa j^0
+phr xx z^2 l aa j^4
+ph xx l^0 n^4
+ph xx z^3
+f ee t^1
+f xx n^0
+f xx l^0 t^2
+f x m^3
+m xx k^1 n ii z^0 s iia m^0
+m xx k^1
+m xx ng^0 p @@ ng^2
+m o p^3
+m a z^3 l xx ng^0
+m xx w^0
+m xx z^2 l e k^3
+m xx z^3
+m xx z^3 w aa z^2
+m xx z^3 t xx z^1
+j xx k^2
+j xx k^2 s a z^1 l aa j^4
+j e k^1
+j xx ng^2
+r xx k^2
+r xx ng^0 d a n^0 f a j^0 f aa z^3
+r xx z^2 th aa t^2
+l xx z^0
+l xx k^2
+l e k^3 t^1 s a j^4
+l xx n^0
+l xx n^0 m aa k^1
+l x z^3
+l e p^1
+l xx w^3
+l xx xx w^2
+w xx n^2
+s xx ng^4
+s a z^1 d xx ng^0
+s a z^1 d xx ng^0 ph o n^4
+s a z^1 d xx ng^0 z @@ k^1
+s a z^1 t t^1
+s xx n^4
+s a z^1 b o ng^0
+s a z^1 w xx ng^4 h aa z^4
+h xx k^2
+m m^1
+l xx k^1
+l xx m^4
+l x z^1
+l x ng^1
+l x ng^1 n aa m^3
+h xx w^0 kw aa j^1
+h xx ng^1
+h xx ng^2
+z xx z^0 kh ch a n^2
+z xx t^1
+z xx t^1 d r o t^3
+z xx n^0
+z x p^3 fr i z^3 k aa z^0
+z xx m^0
+z xx m^0 aa k^1
+z xx z^0
+z xx l^0
+z xx l^0 c i z^1 b aa z^2
+z xx e kh ch a n^2
+h xx z^0 r ii z^2 ph @@ z^0 t t qq z^2
+k oo ng^0
+k oo j^0
+k oo j^0 s u z^1 kh oo z^4
+kr oo t^1
+k oo z^0 w aa z^0 c ii z^0
+k oo ng^1
+kh a z^1 l o k^1
+kh oo z^0
+kh oo z^0 n o m^0
+khr oo ng^0 k aa n^0
+khr oo ng^0 k aa n^0 w i z^3 c a j^0
+khr oo ng^0 s aa ng^2
+khl xx n^0
+kh xx ng^3
+kh s a z^1 n aa z^0
+c oo m^0 t ii z^0
+c oo o k^3
+ch a z^1 n o t^1
+ch oo khl aa ng^0
+ch oo t a z^1
+s oo n^0
+s oo f a w^4
+s oo z^0 d iia m^0
+s oo z^2 tr uua n^0
+d oo z^0 k aa p @@ ng^0
+d oo t^1
+d oo n^0
+d oo j^0
+d oo j^0 m aa k^2
+d oo j^0 s a ng^4 kh ee p^1
+d oo j^0 s uua n^1 r uua m^0
+d oo j^0 ch a z^1 ph @ z^3
+t oo z^0
+t oo z^2 t @@ p^1
+t o z^3
+t o z^3 k i n^0 kh aa w^2
+t o z^3 ng aa n^0
+s
+th oo z^0 r a z^3 kh a z^2 m a z^2 n aa z^0 kh o m^0
+th oo z^0 r a z^3 th a t^3
+th oo z^0 r a z^3 ph i m^0
+th oo z^0 r a z^3 s a p^1
+b oo z^0 r aa n^0
+b oo z^0 l i ng^1
+b oo t^1
+pr oo t^1
+pr oo c ee k^3
+pr oo c ee k^3 ch a n^0
+pr oo z^0 s t^3
+pr oo z^0 kr x m^0
+pr oo z^0 m oo z^0 ch a n^0
+pr oo z^0 m oo z^0 ch a n^2
+pr o z^3
+ph o n^4 z^1
+ph oo z^0 th i t^3 d a m^0
+ph oo z^0 th i t^3 d xx ng^0
+ph oo z^0 r o ng^0
+phl a j^2 phl a j^2
+phl t^3
+ph oo z^0 thr t^3 s iia m^0
+f t @@ n^0
+f t^1
+f oo z^0
+f l oo z^0 ch aa t^3
+f oo z^0 t oo z^0 s aa n^0 s i t^3 t qq z^2
+f oo z^0 t oo z^0 s @@ z^0 f iia
+m oo ng^0
+j oo z^0 th i n^0
+r oo k^2
+r oo k^2 t a j^0
+r oo ng^0
+r oo ng^0 n a ng^4
+r oo ng^0 z aa z^0 h aa n^4
+r oo ng^0 r xx m^4
+r oo t^2 t ii z^0
+r oo z^0 n a n^0
+r oo z^0 b a t^1 t a w^2
+r oo z^0 m xx n^0 t i k^1
+l oo k^2
+l oo z^0 l i z^3
+l oo z^0 h a z^1
+l oo z^0 k xx n^0
+m o t^1
+l o t^1
+z oo z^0
+z oo z^0 k aa t^1
+z oo w^4
+z oo z^0 w @@
+z oo z^0 t a z^1 j a z^1
+h oo m^0 ph o t^3
+h n^0
+h ee l^0 tr fr ii z^0 ch iia n^2
+kl a j^2
+kl a j^2 kh iia ng^0
+khr a j^0
+c a j^0
+ch a j^2
+ch a j^2 m a j^4
+ch a j^3
+ch a j^3 ng aa n^0
+d a j^0
+d a j^0 k^1
+t aa j^2
+t a j^2 th u n^4
+n a j^0
+n a j^0 k @@ z^0 r a z^3 n ii z^0 th ii z^2
+b a j^0
+b a j^0 t @@ ng^0
+b a j^0 m a j^3 h xx ng^2
+s a j^1
+j a j^1
+m a j^1
+m a j^1 k^1
+h a j^2
+h a j^2 kh u n^0
+h a j^2 b @@ z^0 r i z^3 k aa n^0
+h a j^2 th oo t^2
+kl a j^0
+k a j^1
+k
+kh a z^1 r aa z^0 n aa z^2 c uua z^2
+kh a j^1
+kh a j^1 d aa w^0
+kh a j^1 t u n^2
+kh a j^1 t o m^3
+kh a j^1 j aa ng^0 m a z^1 t uu m^0
+kh a j^1 l uua k^1
+kh a j^1 kh e m^0
+kh a j^1 c iia w^0
+kh a j^1 z^1 t u n^2
+ng^4
+s a j^0
+s
+d a j^0
+f w @@
+d q z^3 kr x m^0
+d aa phl ee e k^3 s @@
+d aa j^2
+d aa j^2 ch aa k^1
+d aa j^2 ph o n^4
+d aa j^2 m a qq j^0
+d aa j^2 r a p^3
+d aa j^2 k xx z^1
+d aa j^2 m a j^4
+t a j^0
+t a j^0 t i n^0
+t^2
+th a j^0
+th a j^0 ph aa z^0 n i t^3
+th a j^0 s aa n^4
+n^0 t oo z^0 r a z^3 c ee n^0
+p a j^0
+ph xx z^1
+ph th @@ ng^0
+ph a j^0 r @ z^3
+f a j^0
+f a j^0 n @@ n^3
+f a j^0 f aa z^3
+m a z^3 khr @@ n^0
+m a j^0 khr oo z^0 kh @@ n^0 th oo z^0 r a z^3 l qq
+m a j^0 khr oo z^0 kh @@ n^0 th oo z^0 r a z^3 l qq z^2
+m a j^0 khr oo z^0 kh @ m^0 ph i w^3 t qq z^2
+m a j^0 khr oo z^0 s @@ p^3
+m a j^0 khr oo z^0 w ee p^3
+m a j^0 khr oo z^0 ph oo z^0 r a z^3 s t^3 s @@
+m a j^2
+m a j^2 w aa ng^1
+m a j^2 s u k^1
+m a j^2 ch a j^2
+m a j^2 d aa j^2
+m aa j^3
+m aa j^3 k aa ng^0 kh ee n^0
+m aa j^3 d ph xx z^1
+r a j^0
+r a t i ng^3
+l
+l p^3
+l a j^2
+w a j^0
+w a j^0 f u z^1
+w a j^0 f a j^0
+w a j^3
+s a j^2
+s e kr @@ ng^0
+s a j^2 d vva n^2 f @@ j^0
+n a j^4
+m a j^4
+m a j^3
+r a j^1
+l a j^4
+h aa j^2
+z
+z s ii z^0
+z t qq m^0
+z th ii z^0
+z r @@ n^0 m xx n^0
+z a z^1 d iia z^0
+z th o m^0
+z th e m^0
+z @@ p^3
+z m e k^3
+z a z^3 z oo z^2 d ii n^0
+h d oo z^0 r a z^3 c ee n^0
+s aa j^2 w aa z^2
+b qq z^0

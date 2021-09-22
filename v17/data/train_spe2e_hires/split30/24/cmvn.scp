@@ -1,0 +1,10 @@
+pv3-UCF008 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:500643
+pv3-UCF009 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:501325
+pv3-UCF011 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:502007
+pv3-UCF014 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:502689
+pv3-UCF017 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:503371
+pv3-UCF020 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:504053
+pv3-UCF024 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:504735
+pv3-UCM027 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:505417
+pv3-UCM030 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:506099
+pv3-UCM032 /opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark:506781

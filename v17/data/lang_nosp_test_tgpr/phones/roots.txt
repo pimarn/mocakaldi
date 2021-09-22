@@ -1,0 +1,71 @@
+shared split SIL SIL_B SIL_E SIL_I SIL_S
+shared split e_B e_E e_I e_S
+shared split n_B n_E n_I n_S
+shared split m_B m_E m_I m_S
+shared split k^_B k^_E k^_I k^_S k^1_B k^1_E k^1_I k^1_S k^2_B k^2_E k^2_I k^2_S k^3_B k^3_E k^3_I k^3_S
+shared split vv_B vv_E vv_I vv_S
+shared split l_B l_E l_I l_S
+shared split ph_B ph_E ph_I ph_S
+shared split th_B th_E th_I th_S
+shared split ng_B ng_E ng_I ng_S
+shared split z_B z_E z_I z_S
+shared split xx_B xx_E xx_I xx_S
+shared split h_B h_E h_I h_S
+shared split @_B @_E @_I @_S
+shared split iia_B iia_E iia_I iia_S
+shared split f^_B f^_E f^_I f^_S f^3_B f^3_E f^3_I f^3_S
+shared split q_B q_E q_I q_S
+shared split oo_B oo_E oo_I oo_S
+shared split i_B i_E i_I i_S
+shared split j_B j_E j_I j_S
+shared split pl_B pl_E pl_I pl_S
+shared split uu_B uu_E uu_I uu_S
+shared split khl_B khl_E khl_I khl_S
+shared split s_B s_E s_I s_S
+shared split t_B t_E t_I t_S
+shared split p_B p_E p_I p_S
+shared split ee_B ee_E ee_I ee_S
+shared split x_B x_E x_I x_S
+shared split w^_B w^_E w^_I w^_S w^0_B w^0_E w^0_I w^0_S w^1_B w^1_E w^1_I w^1_S w^2_B w^2_E w^2_I w^2_S w^3_B w^3_E w^3_I w^3_S w^4_B w^4_E w^4_I w^4_S
+shared split ch^_B ch^_E ch^_I ch^_S ch^3_B ch^3_E ch^3_I ch^3_S
+shared split tr_B tr_E tr_I tr_S
+shared split pr_B pr_E pr_I pr_S
+shared split phr_B phr_E phr_I phr_S
+shared split v_B v_E v_I v_S
+shared split thr_B thr_E thr_I thr_S
+shared split qq_B qq_E qq_I qq_S
+shared split @@_B @@_E @@_I @@_S
+shared split p^_B p^_E p^_I p^_S p^1_B p^1_E p^1_I p^1_S p^2_B p^2_E p^2_I p^2_S p^3_B p^3_E p^3_I p^3_S
+shared split t^_B t^_E t^_I t^_S t^1_B t^1_E t^1_I t^1_S t^2_B t^2_E t^2_I t^2_S t^3_B t^3_E t^3_I t^3_S t^4_B t^4_E t^4_I t^4_S
+shared split o_B o_E o_I o_S
+shared split vva_B vva_E vva_I vva_S
+shared split w_B w_E w_I w_S
+shared split s^_B s^_E s^_I s^_S s^3_B s^3_E s^3_I s^3_S
+shared split ii_B ii_E ii_I ii_S
+shared split ng^_B ng^_E ng^_I ng^_S ng^0_B ng^0_E ng^0_I ng^0_S ng^1_B ng^1_E ng^1_I ng^1_S ng^2_B ng^2_E ng^2_I ng^2_S ng^3_B ng^3_E ng^3_I ng^3_S ng^4_B ng^4_E ng^4_I ng^4_S
+shared split kh_B kh_E kh_I kh_S
+shared split u_B u_E u_I u_S
+shared split c_B c_E c_I c_S
+shared split j^_B j^_E j^_I j^_S j^0_B j^0_E j^0_I j^0_S j^1_B j^1_E j^1_I j^1_S j^2_B j^2_E j^2_I j^2_S j^3_B j^3_E j^3_I j^3_S j^4_B j^4_E j^4_I j^4_S
+shared split kl_B kl_E kl_I kl_S
+shared split uua_B uua_E uua_I uua_S
+shared split fr_B fr_E fr_I fr_S
+shared split bl_B bl_E bl_I bl_S
+shared split z^_B z^_E z^_I z^_S z^0_B z^0_E z^0_I z^0_S z^1_B z^1_E z^1_I z^1_S z^2_B z^2_E z^2_I z^2_S z^3_B z^3_E z^3_I z^3_S z^4_B z^4_E z^4_I z^4_S
+shared split phl_B phl_E phl_I phl_S
+shared split d_B d_E d_I d_S
+shared split aa_B aa_E aa_I aa_S
+shared split khw_B khw_E khw_I khw_S
+shared split f_B f_E f_I f_S
+shared split n^_B n^_E n^_I n^_S n^0_B n^0_E n^0_I n^0_S n^1_B n^1_E n^1_I n^1_S n^2_B n^2_E n^2_I n^2_S n^3_B n^3_E n^3_I n^3_S n^4_B n^4_E n^4_I n^4_S
+shared split kr_B kr_E kr_I kr_S
+shared split khr_B khr_E khr_I khr_S
+shared split m^_B m^_E m^_I m^_S m^0_B m^0_E m^0_I m^0_S m^1_B m^1_E m^1_I m^1_S m^2_B m^2_E m^2_I m^2_S m^3_B m^3_E m^3_I m^3_S m^4_B m^4_E m^4_I m^4_S
+shared split r_B r_E r_I r_S
+shared split br_B br_E br_I br_S
+shared split a_B a_E a_I a_S
+shared split b_B b_E b_I b_S
+shared split k_B k_E k_I k_S
+shared split ch_B ch_E ch_I ch_S
+shared split l^_B l^_E l^_I l^_S l^0_B l^0_E l^0_I l^0_S
+shared split kw_B kw_E kw_I kw_S

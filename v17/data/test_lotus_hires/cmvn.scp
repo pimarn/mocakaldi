@@ -1,0 +1,9 @@
+CCM046 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:7
+COF004 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:685
+COF024 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:1363
+UCM025 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:2041
+UCM044 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:2719
+UCM046 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:3397
+UOF002 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:4075
+UOF009 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:4753
+UOM043 /opt/kaldi/egs/king/v17/data/test_lotus_hires/data/cmvn_test_lotus_hires.ark:5431

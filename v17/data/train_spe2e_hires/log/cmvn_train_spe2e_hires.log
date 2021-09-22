@@ -1,0 +1,2 @@
+compute-cmvn-stats --spk2utt=ark:data/train_spe2e_hires/spk2utt scp:data/train_spe2e_hires/feats.scp ark,scp:/opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.ark,/opt/kaldi/egs/king/v17/data/train_spe2e_hires/data/cmvn_train_spe2e_hires.scp 
+LOG (compute-cmvn-stats[5.5.929~1-9bca2]:main():compute-cmvn-stats.cc:171) Done accumulating CMVN stats for 12620 utterances; 0 had errors.

@@ -1,0 +1,9 @@
+CCM046 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:7
+COF004 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:301
+COF024 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:595
+UCM025 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:889
+UCM044 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:1183
+UCM046 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:1477
+UOF002 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:1771
+UOF009 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:2065
+UOM043 /opt/kaldi/egs/king/v17/mfcc/cmvn_test_lotus.ark:2359

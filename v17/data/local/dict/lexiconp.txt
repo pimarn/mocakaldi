@@ -1,0 +1,5574 @@
+!SIL 1.0	SIL
+.	1.0	c u t^1
+0.65	1.0	s uu n^4 c u t^1 h o k^1 h aa z^2
+1	1.0	n v ng^1
+1,000	1.0	n v ng^1 ph a n^0
+1.2	1.0	n v ng^1 c u t^1 s @@ ng^4
+1.3	1.0	n v ng^1 c u t^1 s aa m^4
+10	1.0	s i p^1
+10400	1.0	n v ng^1 s uu n^4 s ii z^1 s uu n^4 s uu n^4
+11	1.0	s i p^1 z e t^1
+1180	1.0	n v ng^1 ph a n^0 n v ng^1 r @@ j^3 p xx t^1 s i p^1
+13	1.0	s i p^1 s aa m^4
+14	1.0	s i p^1 s ii z^1
+16	1.0	s i p^1 h o k^1
+2	1.0	s @@ ng^4
+2.1.4	1.0	s @@ ng^4 c u t^1 n v ng^1 c u t^1 s ii z^1
+2.1.5	1.0	s @@ ng^4 c u t^1 n v ng^1 c u t^1 h aa z^2
+2.2	1.0	s @@ ng^4 c u t^1 s @@ ng^4
+2.5	1.0	s @@ ng^4 c u t^1 h aa z^2
+2.6	1.0	s @@ ng^4 c u t^1 h o k^1
+20	1.0	j ii z^2 s i p^1
+23	1.0	j ii z^2 s i p^1 s aa m^4
+25	1.0	j ii z^2 s i p^1 h aa z^2
+2516	1.0	s @@ ng^4 ph a n^0 h aa z^2 r @@ j^3 s i p^1 h o k^1
+2517	1.0	s @@ ng^4 ph a n^0 h aa z^2 r @@ j^3 s i p^1 c e t^1
+2531	1.0	s @@ ng^4 ph a n^0 h aa z^2 r @@ j^3 s aa m^4 s i p^1 z e t^1
+2532	1.0	s @@ ng^4 ph a n^0 h aa z^2 r @@ j^3 s aa m^4 s i p^1 s @@ ng^4
+2533	1.0	s @@ ng^4 ph a n^0 h aa z^2 r @@ j^3 s aa m^4 s i p^1 s aa m^4
+3	1.0	s aa m^4
+3.1	1.0	s aa m^4 c u t^1 n v ng^1
+3.1ไทย	1.0	s aa m^4 c u t^1 n v ng^1 th a j^0
+3.2	1.0	s aa m^4 c u t^1 s @@ ng^4
+3.3	1.0	s aa m^4 c u t^1 s aa m^4
+36	1.0	s aa m^4 s i p^1 h o k^1
+4	1.0	s ii z^1
+4.1.1	1.0	s ii z^1 c u t^1 n v ng^1 c u t^1 n v ng^1
+4.3	1.0	s ii z^1 c u t^1 s aa m^4
+4.3.1	1.0	s ii z^1 c u t^1 s aa m^4 c u t^1 n v ng^1
+45	1.0	s ii z^1 s i p^1 h aa z^2
+5	1.0	h aa z^2
+50	1.0	h aa z^2 s i p^1
+6	1.0	h o k^1
+6-1	1.0	h o k^1 th v ng^4 n v ng^1
+7	1.0	c e t^1
+70	1.0	c e t^1 s i p^1
+8	1.0	p xx t^1
+8096	1.0	p xx t^1 ph a n^0 k aa w^2 s i p^1 h o k^1
+9	1.0	k aa w^2
+90	1.0	k aa w^2 s i p^1
+900	1.0	k aa w^2 r @@ j^3
+ก.	1.0	k @@ z^0
+กก	1.0	k o k^1
+กข.๙	1.0	k @@ z^0 kh @@ z^4 k aa w^2
+กง	1.0	k o ng^0
+กงล้อ	1.0	k o ng^0 l @@ z^2
+กฉา	1.0	k ch aa z^4
+กชกร	1.0	k a z^1 ch a z^3 k @@ n^0
+กฎ	1.0	k o t^1
+กฎหมาย	1.0	k o t^1 m aa j^4
+กฎหมายอาญา	1.0	k o t^1 m aa j^4 z aa z^0 j aa z^0
+กฎเกณฑ์	1.0	k o t^1 k ee n^0
+กด	1.0	k o t^1
+กดขี่	1.0	k o t^1 kh ii z^1
+กดดัน	1.0	k o t^1 d a n^0
+กตัญญู	1.0	k a z^1 t a n^0 j uu z^0
+กติกา	1.0	k a z^1 t i z^1 k aa z^0
+กทม.	1.0	k @@ z^0 th @@ z^0 m @@ z^0
+กนก	1.0	k a z^1 n o k^1
+กบ	1.0	k o p^1
+กบฏ	1.0	k a z^1 b o t^1
+กบิทร์บุรี	1.0	k a z^1 b i t^3 z^0 b u z^1 r ii z^0
+กบินทร์	1.0	k a z^1 b i n^4
+กมล	1.0	k a z^1 m o n^0
+กร	1.0	k @@ n^0
+กรกฎาคม	1.0	k a z^1 r a k^3 k a z^1 d aa z^0 kh o m^0
+กรง	1.0	kr o ng^0
+กรณี	1.0	k @@ z^0 r a z^3 n ii z^0
+กรม	1.0	kr o m^0
+กรมอุตุนิยมวิทยา	1.0	kr o m^0 z u z^1 t u z^1 n i z^3 j o m^0 w i t^3 th a z^3 j aa z^0
+กรรม	1.0	k a m^0
+กรรมกร	1.0	k a m^0 m a z^3 k @@ n^0
+กรรมการ	1.0	k a m^0 m a z^3 k aa n^0
+กรรมพันธุ์	1.0	k a m^0 m a z^3 ph a n^0
+กรรมวิธี	1.0	k a m^0 m a z^3 w i z^3 th ii z^0
+กรรมสิทธิ์	1.0	k a m^0 m a z^3 s i t^1
+กรรมาธิการ	1.0	k a m^0 m aa z^0 th i z^3 k aa n^0
+กรรไกร	1.0	k a m^0 k @@ n^0
+กรวย	1.0	kr uua j^4
+กรอ.	1.0	k @@ z^0 r @@ z^0 z @@ z^0
+กรอก	1.0	kr @@ k^1
+กรอกหน้า	1.0	kr @@ k^1 n aa z^2
+กรอง	1.0	kr @@ ng^0
+กรองคอ	1.0	kr @@ ng^0 kh @@ z^0
+กรองน้ำ	1.0	kr @@ ng^0 n aa m^3
+กรองสมรด	1.0	kr @@ ng^0 s o m^4 r o t^1
+กรองสังเวียน	1.0	kr @@ ng^0 s a ng^4 w iia n^0
+กรอบ	1.0	kr @@ p^1
+กรอบเช็ดหน้า	1.0	kr @@ p^1 ch e t^1 n aa z^2
+กระจก	1.0	kr a z^1 c o k^1
+กระจกเงา	1.0	kr a z^1 c o k^1 ng a w^0
+กระจง	1.0	kr a z^1 c o ng^0
+กระจอก	1.0	kr a z^1 c @@ k^1
+กระจัดกระจาย	1.0	kr a z^1 c a t^1 kr a z^1 c aa j^0
+กระจาบ	1.0	kr a z^1 c aa p^1
+กระจาย	1.0	kr a z^1 c aa j^0
+กระจูด	1.0	kr a z^1 c uu t^1
+กระจ่าง	1.0	kr a z^1 c aa ng^1
+กระชาย	1.0	kr a z^1 ch aa j^0
+กระซู่	1.0	kr a z^1 s uu z^1
+กระดอง	1.0	kr a z^1 d @@ ng^0
+กระดอน	1.0	kr a z^1 d @@ n^0
+กระดาน	1.0	kr a z^1 d aa n^0
+กระดานดำ	1.0	kr a z^1 d aa n^0 d a m^0
+กระดาษ	1.0	kr a z^1 d aa t^2
+กระดุม	1.0	kr a z^1 d u m^0
+กระดูก	1.0	kr a z^1 d uu k^1
+กระติก	1.0	kr a z^1 t i k^1
+กระตือรือร้น	1.0	kr a z^1 t vv z^0 r vv z^0 r o n^3
+กระตุก	1.0	kr a z^1 t u k^1
+กระตุ้น	1.0	kr a z^1 t u n^2
+กระถาง	1.0	kr a z^1 th aa ng^4
+กระทบ	1.0	kr a z^1 th o p^3
+กระทบกระทั่ง	1.0	kr a z^1 th o p^3 kr a z^1 th a ng^2
+กระทบกระเทือน	1.0	kr a z^1 th o p^3 kr a z^1 th vva n^0
+กระทรวง	1.0	kr a z^1 s uua ng^0
+กระทรวงมหาดไทย	1.0	kr a z^1 s uua ng^0 m a z^3 h aa t^1 th a j^0
+กระทรวงฯ	1.0	kr a z^1 s uua ng^0 n^2
+กระทะ	1.0	kr a z^1 th a z^3
+กระทั่ง	1.0	kr a z^1 th a ng^2
+กระทำ	1.0	kr a z^1 th a m^0
+กระทู้	1.0	kr a z^1 th uu z^3
+กระท่อม	1.0	kr a z^1 th @@ m^2
+กระนั้น	1.0	kr a z^1 n a n^3
+กระบวน	1.0	kr a z^1 b uua n^0
+กระบวนการ	1.0	kr a z^1 b uua n^0 k aa n^0
+กระบอกปืน	1.0	kr a z^1 b @@ k^1 p vv n^0
+กระบืองาน	1.0	kr a z^1 b vva ng aa n^0
+กระบือปลัก	1.0	kr a z^1 b vva pl a k^1
+กระบุง	1.0	kr a z^1 b u ng^0
+กระปี้กระเปร่า	1.0	kr a z^1 p ii z^3 kr a z^1 pr aa z^1
+กระปี๋	1.0	kr a z^1 p iia
+กระปุก	1.0	kr a z^1 p u k^1
+กระป๋อง	1.0	kr a z^1 p @ ng^4
+กระพือ	1.0	kr a z^1 ph vv z^0
+กระมัง	1.0	kr a z^1 m a ng^0
+กระรอก	1.0	kr a z^1 r @@ k^1
+กระสือ	1.0	kr a z^1 s vv z^4
+กระสุน	1.0	kr a z^1 s u n^4
+กระหาย	1.0	kr a z^1 h aa j^4
+กระเช้า	1.0	kr a z^1 ch aa z^3
+กระเดียด	1.0	kr a z^1 d iia t^1
+กระเด็น	1.0	kr a z^1 d e n^0
+กระเด้ง	1.0	kr a z^1 d ng^3
+กระเทย	1.0	kr a z^1 th a j^0
+กระเทียม	1.0	kr a z^1 th iia m^0
+กระเทือน	1.0	kr a z^1 th vva n^0
+กระเบื้อง	1.0	kr a z^1 b vva ng^2
+กระเป๋า	1.0	kr a z^1 p a w^4
+กระเพา	1.0	kr a z^1 ph aa z^0
+กระแต	1.0	kr a z^1 t
+กระแทก	1.0	kr a z^1 th xx k^2
+กระแป๋ง	1.0	kr a z^1 p ng^4
+กระแส	1.0	kr a z^1 s xx z^4
+กระแสไฟฟ้า	1.0	kr a z^1 s xx z^4 f a j^0 f aa z^3
+กระแอม	1.0	kr a z^1 z xx m^0
+กระโจม	1.0	kr a z^1 c oo m^0
+กระโดด	1.0	kr a z^1 d oo t^1
+กระโถน	1.0	kr a z^1 th o n^0
+กระโน้น	1.0	kr a z^1 n oo n^3
+กระไร	1.0	kr a z^1 r a j^0
+กรา	1.0	k a z^1 r aa z^0
+กราบ	1.0	kr aa p^1
+กราฟ	1.0	kr aa f^3
+กราฟฟิก	1.0	kr aa f^3 f i k^1
+กราฟฟิกไทยโชว์	1.0	kr aa f^3 f i k^3 th a j^0 ch oo z^0
+กราฟิก	1.0	k a z^1 r aa z^0 f i k^1
+กริยา	1.0	kr i z^1 j aa z^0
+กรีซ	1.0	kr ii s^3
+กรีน	1.0	kr ii n^0
+กรุ	1.0	k a z^1 r u z^3
+กรุง	1.0	kr u ng^0
+กรุงเทพมหานคร	1.0	kr u ng^0 th ee p^2 m a z^3 h aa z^4 n a z^3 kh @@ n^0
+กรุงเทพฯ	1.0	kr u ng^0 th ee p^2 n^2
+กรุณา	1.0	k a z^1 r u z^3 n aa z^0
+กรุณาธิคุณ	1.0	k a z^1 r u z^3 n aa z^0 th i z^3 kh u n^0
+กรุบกริบ	1.0	kr u p^3 kr i p^1
+กรุ่น	1.0	k a z^1 r u n^2
+กฤปาน	1.0	kr i p aa n^0
+กฤษณพงศ์	1.0	kr i t^1 ph o ng^0
+กล	1.0	k o n^0
+กลบ	1.0	kl o p^1
+กลม	1.0	kl o m^0
+กลมกลืน	1.0	kl o m^0 kl vv n^0
+กลมกล่อม	1.0	kl o m^0 kl @ m^2
+กลยุทธ์	1.0	k o n^0 l a z^3 j u t^3
+กลวิธาน	1.0	k o n^0 l a z^3 w i z^3 th aa n^0
+กลวิธี	1.0	k o n^0 l a z^3 w i z^3 th ii z^0
+กลอน	1.0	kl @@ n^0
+กลัด	1.0	kl a t^1
+กลับ	1.0	kl a p^1
+กลับกลาย	1.0	kl a p^1 kl aa j^0
+กลับบ้าน	1.0	kl a p^1 b aa n^2
+กลับหลังหัน	1.0	kl a p^1 l a ng^4 h a n^4
+กลับไปกลับมา	1.0	kl a p^1 p a j^0 kl a p^1 m aa z^0
+กลัว	1.0	kl uua z^0
+กลั่นกรอง	1.0	kl a n^1 kr @@ ng^0
+กลั่นตัว	1.0	kl a n^1 t uua z^0
+กลั้น	1.0	kl a n^2
+กลาง	1.0	kl aa ng^0
+กลางคืน	1.0	kl aa ng^0 kh vv n^0
+กลางวัน	1.0	kl aa ng^0 w a n^0
+กลางแจ้ง	1.0	kl aa ng^0 c xx ng^2
+กลางแดด	1.0	kl aa ng^0 d xx t^1
+กลาย	1.0	kl aa j^0
+กลายเป็น	1.0	kl aa j^0 p e n^0
+กลาโหม	1.0	k a z^1 l aa z^0 h oo m^4
+กลิ่น	1.0	kl i n^1
+กลิ้ง	1.0	kl i ng^3
+กลีบ	1.0	kl ii p^1
+กลืน	1.0	kl vv n^0
+กลุ่ม	1.0	kl u m^1
+กลุ่มงาน	1.0	kl u m^2 ng aa n^0
+กลุ้ม	1.0	kl u m^2
+กลุ้มใจ	1.0	kl u m^3 c a j^0
+กลไก	1.0	k o n^0 k a j^0
+กล่อง	1.0	kl @ ng^2
+กล่องเสียง	1.0	kl @ ng^1 s iia ng^4
+กล่าว	1.0	kl aa w^1
+กล่าวขวัญ	1.0	kl aa w^1 khw a n^4
+กล่าวคือ	1.0	kl aa w^1 kh vv z^0
+กล่าวถึง	1.0	kl aa w^1 th v ng^4
+กล่าวว่า	1.0	kl aa w^1 w aa z^2
+กล่าวหา	1.0	kl aa w^1 h aa z^4
+กล่าวอ้าง	1.0	kl aa w^1 z aa ng^2
+กล้วย	1.0	kl uua j^2
+กล้อง	1.0	kl @@ ng^3
+กล้า	1.0	kl aa z^2
+กล้ามเนื้อ	1.0	kl aa m^2 n vva z^3
+กล้าหาญ	1.0	kl aa z^2 h aa n^4
+กวน	1.0	k uua n^0
+กวัดแกว่ง	1.0	k a z^1 w a t^1 kw ng^1
+กวาง	1.0	kw aa ng^4
+กวาดล้าง	1.0	kw aa t^1 l aa ng^3
+กวี	1.0	k a z^1 w ii z^0
+กวีนิพนธ์	1.0	k a z^1 w ii z^0 n i z^3 ph o n^0
+กว่า	1.0	kw aa z^1
+กว้าง	1.0	kw aa ng^2
+กว้างขวาง	1.0	kw aa ng^2 khw aa ng^4
+กว้าน	1.0	kw aa n^2
+กษัตริย์	1.0	k a z^1 s a t^1
+กษัยการ	1.0	k a z^1 s a j^4 j a z^3 k aa n^0
+กสิกร	1.0	k a z^1 s i z^1 k @@ n^0
+กสิกรรม	1.0	k a z^1 s i z^1 k a m^0
+กอ	1.0	k @@ z^0
+กอง	1.0	k @@ ng^0
+กองทหาร	1.0	k @@ ng^0 th a z^3 h aa n^4
+กองทัพ	1.0	k @@ ng^0 th a p^3
+กองทุน	1.0	k @@ ng^0 th u n^0
+กองพัน	1.0	k @@ ng^0 ph a n^0
+กองวิทยาลัยเทคนิค	1.0	k @@ ng^0 w i t^3 th a z^3 j aa z^0 l a j^0 th ee k^3 n i k^1
+กอด	1.0	k @@ t^2
+กอบ	1.0	k @@ p^1
+กอบกู้	1.0	k @@ p^1 k uu z^2
+กอบโกย	1.0	k @@ p^1 k oo j^0
+กอร์บาชอฟ	1.0	k @@ z^0 b aa z^0 ch @@ p^3
+กอหญ้า	1.0	k @@ j a w^2
+กะ	1.0	k a z^1
+กะทันหัน	1.0	k a z^1 th a n^0 h a n^4
+กะทิ	1.0	k a z^1 th i z^3
+กะทูน	1.0	k a z^1 th uu n^0
+กะท้อน	1.0	k a z^1 th @@ n^3
+กะปิ	1.0	k a z^1 p i z^1
+กะพริบ	1.0	k a z^1 phr i p^1
+กะละมัง	1.0	k a z^1 l a z^3 m a ng^0
+กะละแม	1.0	k a z^1 l a z^3 m^0
+กะลา	1.0	k a z^1 l aa z^0
+กะเพราะ	1.0	k a z^1 phr @ z^3
+กะโหลก	1.0	k a z^1 l xx k^1
+กักกุม	1.0	k a k^1 k u m^0
+กังฆา	1.0	k a ng^4 kh aa z^0
+กังวล	1.0	k a ng^0 w o n^0
+กังวาน	1.0	k a ng^0 w aa n^0
+กังวาล	1.0	k a ng^0 w aa n^0
+กังหัน	1.0	k a ng^4 h a n^4
+กัณหา	1.0	k a n^0 h aa z^4
+กัด	1.0	k a t^1
+กัน	1.0	k a n^0
+กันยายน	1.0	k a n^0 j aa z^0 j o n^0
+กันสาด	1.0	k a n^0 s aa t^1
+กันเอง	1.0	k a n^0 z ee ng^0
+กันและกัน	1.0	k a n^0 l x z^3 k a n^0
+กับ	1.0	k a p^1
+กับข้าว	1.0	k a p^3 kh aa w^2
+กัป	1.0	k a p^1
+กัมพูชา	1.0	k a m^0 ph uu z^0 ch aa z^0
+กัลปาวสาน	1.0	k a n^4 l a z^3 p aa w^1 s aa n^4
+กั้ง	1.0	k a ng^3
+กั้น	1.0	k a n^2
+กา	1.0	k aa z^0
+กาก	1.0	k aa k^1
+กาง	1.0	k aa ng^0
+กางร่ม	1.0	k aa ng^2 r m^1
+กางเกง	1.0	k aa ng^0 k o ng^0
+กางเขน	1.0	k aa ng^0 kh ee n^0
+กางแขน	1.0	k aa ng^0 kh xx n^4
+กาจญนบุรี	1.0	k aa z^0 c j a z^3 n a z^3 b u z^1 r ii z^0
+กาญจนบุรี	1.0	k aa n^0 c a z^1 n a z^3 b u z^1 r ii z^0
+กาญจนะวรรณ	1.0	k aa n^0 c a z^1 n a z^3 w a n^0
+กาด	1.0	k aa t^1
+กานพลู	1.0	k aa n^4 phl uu z^0
+กาบ	1.0	k aa p^1
+กาม	1.0	k aa m^0
+กาย	1.0	k aa j^0
+กายภาพ	1.0	k aa j^0 j a z^3 ph aa p^2
+การ	1.0	k aa n^0
+การค้า	1.0	k aa n^0 kh aa z^3
+การงาน	1.0	k aa n^0 ng aa n^0
+การณ์	1.0	k aa n^0
+การดำเนิน	1.0	k aa n^0 d a m^0 n qq n^0
+การตลาด	1.0	k aa n^0 t a z^1 l aa t^1
+การทหาร	1.0	k aa n^0 th a z^3 h aa n^4
+การบ้าน	1.0	k aa n^0 b aa n^2
+การบ้าน 1.0	k aa n^0 b aa n^2 
+การผลิต	1.0	k aa n^0 ph a z^1 l i t^1
+การละคร	1.0	k aa n^0 l a z^3 kh @@ n^0
+การวิจัย	1.0	k aa n^0 w i z^3 c a j^0
+การศึกษา	1.0	k aa n^0 s v k^1 s aa z^4
+การสัมมนา	1.0	k aa n^0 s a m^4 m a z^3 n aa z^0
+การสื่อสารแห่งประเทศไทย	1.0	k aa n^0 s vv z^1 s aa n^4 h x ng^1 pr a z^1 th ee t^2 th a j^0
+การันต์	1.0	k aa z^0 r a n^0
+การุณยวนิช	1.0	k aa z^0 r u n^0 j a z^3 w a z^3 n i t^3
+การเกษตร	1.0	k aa n^0 k a z^1 s ee t^1
+การเงิน	1.0	k aa n^0 ng q n^0
+การเมือง	1.0	k aa n^0 m vva ng^0
+การแพทย์	1.0	k aa n^0 ph xx t^2
+การได้ยิน	1.0	k aa n^0 d aa j^2 j i n^0
+กาล	1.0	k aa n^0
+กาลิโก	1.0	k aa z^0 l i z^3 k oo z^0
+กาลเทศะ	1.0	k aa z^0 l a z^3 th ee z^0 s a z^1
+กาลเวลา	1.0	k aa z^0 l a z^3 w ee z^0 l aa z^0
+กาว	1.0	k aa w^4
+กาแฟ	1.0	k aa z^0 f xx z^0
+กำ	1.0	k a m^0
+กำกับ	1.0	k a m^0 k a p^1
+กำจัด	1.0	k a m^0 c a t^1
+กำนัน	1.0	k a m^0 n a n^0
+กำบัง	1.0	k a m^0 b a ng^0
+กำพร้า	1.0	k a m^0 phr aa z^3
+กำลัง	1.0	k a m^0 l a ng^0
+กำลังจะ	1.0	k a m^0 l a ng^0 c a z^1
+กำลังส่ง	1.0	k a m^0 l a ng^0 s o ng^1
+กำลังเอก	1.0	k a m^0 l a ng^0 z ee k^1
+กำลังใจ	1.0	k a m^0 l a ng^0 c a j^0
+กำสรวล	1.0	k a m^0 s uua n^4
+กำหนด	1.0	k a m^0 n o t^1
+กำหนดการ	1.0	k a m^0 n o t^1 k aa n^0
+กำเดา	1.0	k a m^0 d a w^0
+กำเนิด	1.0	k a m^0 n qq t^1
+กำเริบ	1.0	k a m^0 r qq p^1
+กำไร	1.0	k a m^0 r a j^0
+กำไลมือ	1.0	k a m^0 l m vv z^0
+กิจ	1.0	k i t^1
+กิจกรรม	1.0	k i t^1 c a z^1 k a m^0
+กิจการ	1.0	k i t^1 c a z^1 k aa n^0
+กิจจะลักษณะ	1.0	k i t^1 c a z^3 l a k^3 s a z^1 n a z^1
+กิจวัตร	1.0	k i t^1 c a z^1 w a t^3
+กิตติ	1.0	k i t^1 t i z^1
+กิตติขจร	1.0	k i t^1 t i z^1 kh a z^1 c @@ n^0
+กิติพจน์	1.0	k i t^1 ph o t^3
+กิน	1.0	k i n^0
+กินข้าว	1.0	k i n^0 kh aa w^2
+กินดี	1.0	k i n^0 d ii z^0
+กินอยู่	1.0	k i n^0 j uu z^1
+กินอาหาร	1.0	k i n^0 z aa z^0 h aa n^4
+กิริยา	1.0	k i z^1 r i z^3 j aa z^0
+กิเลศ	1.0	k i z^1 l ee t^2
+กิเลส	1.0	k i z^1 l ee t^1
+กิ่ง	1.0	k i ng^1
+กิ่งก้าน	1.0	k i ng^1 k aa n^2
+กิ่งไม้	1.0	k i ng^2 m aa j^3
+กิ้งกือ	1.0	k i ng^3 k vva z^4
+กิ้งก่า	1.0	k i ng^3 k a w^1
+กิ๊ก	1.0	k i o k^3
+กิ๊ง	1.0	k i xx ng^3
+กีดกัน	1.0	k ii t^1 k a n^0
+กีดขวาง	1.0	k ii t^1 khw aa ng^4
+กีรติกร	1.0	k ii z^0 r a z^3 t i z^1 k @@ n^0
+กีวี่	1.0	k ii z^0 w ii z^1
+กีฬา	1.0	k ii z^0 l aa z^0
+กี่	1.0	k ii z^1
+กี๋	1.0	k ii
+กึกก้อง	1.0	k v k^1 k @@ ng^3
+กึ่ง	1.0	k v ng^1
+กุน	1.0	k u n^4
+กุม	1.0	k u m^0
+กุมภาพันธ์	1.0	k u m^0 ph aa z^0 ph a n^0
+กุย	1.0	k u j^4
+กุลา	1.0	k u z^1 l aa z^0
+กุลีกุจอ	1.0	k u z^1 l ii z^0 k u t^1 c @@ z^0
+กุศล	1.0	k u z^1 s o n^4
+กุหลาบ	1.0	k u z^1 l aa p^1
+กุ้ง	1.0	k u ng^2
+กุ้งแห้ง	1.0	k u ng^2 h xx ng^2
+กุ๊กกิ๊ก	1.0	k u o k^3 k i o k^3
+กุ๊กกู๋	1.0	k u o k^3 k uu
+กุ๊กไก่	1.0	k u o k^3 k a j^1
+กุ๊ย	1.0	k u j^4
+กู	1.0	k uu z^0
+กู่	1.0	k uu z^1
+กู้	1.0	k uu z^2
+ก็	1.0	k @@ z^2
+ก็ดี	1.0	k @@ z^2 d ii z^0
+ก็ตาม	1.0	k @@ z^2 t aa m^0
+ก็ตามแต่	1.0	k @@ z^2 t aa m^0 t xx z^1
+ก็อกแก็ก	1.0	k @@ z^2 @@ k^1 k e k^3
+ก็ได้	1.0	k @@ z^2 d aa j^2
+ก่น	1.0	k o n^1
+ก่อ	1.0	k @@ z^1
+ก่อตั้ง	1.0	k @@ z^1 t a ng^2
+ก่อน	1.0	k @@ n^1
+ก่อนนอน	1.0	k @@ n^1 n @@ n^0
+ก่อนหน้า	1.0	k @@ n^1 n aa z^2
+ก่อนหน้านี้	1.0	k @@ n^1 n aa z^2 n ii z^3
+ก่อนหลัง	1.0	k @@ n^1 l a ng^4
+ก่อสร้าง	1.0	k @@ z^1 s aa ng^2
+ก่อเกิด	1.0	k @@ z^1 k qq t^1
+ก่อไฟ	1.0	k @@ z^1 f a j^0
+ก่ำ	1.0	k a m^2
+ก้น	1.0	k n^2
+ก้ม	1.0	k m^3
+ก้อง	1.0	k @@ ng^3
+ก้อน	1.0	k @@ n^2
+ก้อนกรวด	1.0	k @@ n^2 kr uua t^1
+ก้อนหิน	1.0	k @@ n^3 h i n^4
+ก้อย	1.0	k @@ j^2
+ก้าง	1.0	k aa ng^3
+ก้างปลา	1.0	k aa ng^2 pl aa z^0
+ก้าน	1.0	k aa n^2
+ก้านยาว	1.0	k aa n^2 j aa w^0
+ก้าม	1.0	k aa m^2
+ก้าว	1.0	k aa w^2
+ก้าวขา	1.0	k aa w^2 kh aa z^4
+ก้าวร้าว	1.0	k aa w^2 r aa w^3
+ก้าวหน้า	1.0	k aa w^2 n aa z^2
+ก๊กมินตั๋ง	1.0	k o k^3 m i n^0 t a ng^4
+ก๊อบ	1.0	k @@ p^2
+ก๊อบแก๊บ	1.0	k @@ p^1 k x p^1
+ก๊าซ	1.0	k aa t^3
+ก๋อง	1.0	k @ ng^4
+ก๋องแก๋ง	1.0	k @ ng^4 k ng^4
+ข.	1.0	kh @@ z^4
+ขจรประศาสน์	1.0	kh a z^1 c @@ n^0 pr a z^1 s aa t^1
+ขจัด	1.0	kh a z^1 c a t^1
+ขณะ	1.0	kh a z^1 n a z^1
+ขณะที่	1.0	kh a z^1 n a z^1 th ii z^2
+ขณะนั้น	1.0	kh a z^1 n a z^1 n a n^3
+ขณะนี้	1.0	kh a z^1 n a z^1 n ii z^3
+ขณะเดียวกัน	1.0	kh a z^1 n a z^1 d iia w^0 k a n^0
+ขน	1.0	kh o n^4
+ขนบ	1.0	kh a z^1 n o p^1
+ขนมปัง	1.0	kh a z^1 n o m^4 p a ng^0
+ขนส่ง	1.0	kh o n^4 s o ng^1
+ขนาด	1.0	kh a z^1 n aa t^1
+ขนาน	1.0	kh a z^1 n aa n^0
+ขบคิด	1.0	kh o p^1 kh i t^3
+ขบวน	1.0	kh a z^1 b uua n^0
+ขบวนการ	1.0	kh a z^1 b uua n^0 k aa n^0
+ขม	1.0	kh o m^0
+ขมิ้น	1.0	kh a z^1 m i n^3
+ขยะ	1.0	kh a z^1 j a z^1
+ขยัน	1.0	kh a z^1 j a n^4
+ขยับ	1.0	kh a z^1 j a p^1
+ขยับขยาย	1.0	kh a z^1 j a p^1 kh a z^1 j aa j^4
+ขยาย	1.0	kh a z^1 j aa j^4
+ขลับ	1.0	kh a z^1 l a p^3
+ขลิบ	1.0	kh a z^1 l i p^1
+ขวด	1.0	kh uua t^1
+ขวนขวาย	1.0	kh uua n^4 khw aa j^4
+ขวบ	1.0	kh uua p^2
+ขวัญ	1.0	khw a n^4
+ขวา	1.0	khw aa z^4
+ขอ	1.0	kh @@ z^4
+ของ	1.0	kh @@ ng^4
+ของชำ	1.0	kh @@ ng^4 ch a m^0
+ของเล่น	1.0	kh @@ ng^4 l e n^2
+ของเสีย	1.0	kh @@ ng^4 s iia z^4
+ของเหลว	1.0	kh @@ ng^4 l ee w^4
+ของแข็ง	1.0	kh @@ ng^4 kh x ng^4
+ของใช้	1.0	kh @@ ng^4 ch a j^3
+ขอนแก่น	1.0	kh @@ n^4 k x n^1
+ขอบ	1.0	kh @@ p^1
+ขอบข่าย	1.0	kh @@ p^1 kh aa j^1
+ขอบคุณ	1.0	kh @@ p^1 kh u n^0
+ขอบพระคุณ	1.0	kh @@ p^1 phr a z^3 kh u n^0
+ขอบเขต	1.0	kh @@ p^1 kh ee t^1
+ขอม	1.0	kh @@ m^4
+ขอร้อง	1.0	kh @@ z^4 r @@ ng^3
+ขะมุกขะมอม	1.0	kh a z^3 m u k^3 z^3 m @@ m^0
+ขัง	1.0	kh a ng^4
+ขัด	1.0	kh a t^1
+ขัดขวาง	1.0	kh a t^1 khw aa ng^4
+ขัดขืน	1.0	kh a t^1 kh vv n^4
+ขัดข้อง	1.0	kh a t^1 kh @ ng^2
+ขัดยอก	1.0	kh a t^1 j @@ k^2
+ขัดสมาธิ	1.0	kh a t^1 s a z^1 m aa z^0 th i z^3
+ขัดแตะ	1.0	kh a t^1 t x z^1
+ขัดแย้ง	1.0	kh a t^1 j xx ng^3
+ขัน	1.0	kh a n^4
+ขันธ์	1.0	kh a n^4
+ขับ	1.0	kh a p^1
+ขับถ่าย	1.0	kh a p^1 th aa j^1
+ขั้น	1.0	kh a n^2
+ขั้นตอน	1.0	kh a n^2 t @@ n^0
+ขั้นบันได	1.0	kh a n^2 b a n^0 d a j^0
+ขั้วโลก	1.0	kh a uua l oo k^2
+ขั้วโลกเหนือ	1.0	kh a uua l oo k^2 n vva z^4
+ขั้วโลหะ	1.0	kh a uua l oo z^0 h a z^1
+ขา	1.0	kh aa z^4
+ขาด	1.0	kh aa t^1
+ขาดแคลน	1.0	kh aa t^1 khl xx n^0
+ขานรับ	1.0	kh aa n^4 r a p^3
+ขาย	1.0	kh aa j^4
+ขายตัว	1.0	kh aa j^4 t uua z^0
+ขายปลีก	1.0	kh aa j^4 pl ii k^1
+ขาว	1.0	kh aa w^4
+ขาเข้า	1.0	kh aa z^4 kh a w^2
+ขีด	1.0	kh ii t^1
+ขีดสุด	1.0	kh ii t^1 s u t^1
+ขีปนาวุธ	1.0	kh ii z^4 p a z^1 n aa z^0 w u t^3
+ขี่	1.0	kh ii z^1
+ขี้เกียจ	1.0	kh ii z^2 k iia t^1
+ขึ้น	1.0	kh v n^2
+ขึ้นมา	1.0	kh v n^2 m aa z^0
+ขึ้นอยู่	1.0	kh v n^2 j uu z^1
+ขึ้นไป	1.0	kh v n^2 p a j^0
+ขืน	1.0	kh vv n^4
+ขื่อ	1.0	kh vv z^2
+ขุด	1.0	kh u t^1
+ขุน	1.0	kh u n^4
+ขุนนาง	1.0	kh u n^4 n aa ng^0
+ขูด	1.0	kh uu t^1
+ขโมย	1.0	kh a z^1 m oo j^0
+ข่มขู่	1.0	kh o m^1 kh uu z^1
+ข่มเหง	1.0	kh o m^1 h ee ng^4
+ข่าย	1.0	kh aa j^1
+ข่ายงาน	1.0	kh aa j^1 ng aa n^0
+ข่าว	1.0	kh aa w^1
+ข่าวกรอง	1.0	kh aa w^1 kr @@ ng^0
+ข่าวคราว	1.0	kh aa w^1 khr aa w^0
+ข่าวลือ	1.0	kh aa w^1 l vv z^0
+ข่าวสาร	1.0	kh aa w^1 s aa n^4
+ข้อ	1.0	kh @@ z^2
+ข้อกำหนด	1.0	kh @@ z^2 k a m^0 n o t^1
+ข้อขัดแย้ง	1.0	kh @@ z^2 kh a t^1 j xx ng^3
+ข้อความ	1.0	kh @@ z^2 khw aa m^0
+ข้อคิด	1.0	kh @@ z^2 kh i t^3
+ข้อง	1.0	kh @ ng^2
+ข้องคับ	1.0	kh @ ng^2 kh a p^3
+ข้องใจ	1.0	kh @ ng^2 c a j^0
+ข้อจำกัด	1.0	kh @@ z^2 c a m^0 k a t^1
+ข้อดี	1.0	kh @@ z^2 d ii z^0
+ข้อบกพร่อง	1.0	kh @@ z^2 b o k^1 phr @@ ng^2
+ข้อบังคับ	1.0	kh @@ z^2 b a ng^0 kh a p^3
+ข้อผิดพลาด	1.0	kh @@ z^2 ph i t^1 phl aa t^2
+ข้อพระหัตถ์	1.0	kh @@ z^2 ph a z^1 h a t^1 th
+ข้อมือ	1.0	kh @@ z^2 m vv z^0
+ข้อมูล	1.0	kh @@ z^2 m uu n^0
+ข้อสงสัย	1.0	kh @@ z^2 s o ng^4 s a j^4
+ข้อสรุป	1.0	kh @@ z^2 s a z^1 r u p^1
+ข้อสอบ	1.0	kh @@ z^2 s @@ p^1
+ข้อสังเกต	1.0	kh @@ z^2 s a ng^4 k ee t^1
+ข้อหา	1.0	kh @@ z^2 h aa z^4
+ข้อห้าม	1.0	kh @@ z^2 h aa m^2
+ข้ออ้าง	1.0	kh @@ z^2 z aa ng^2
+ข้อเขียน	1.0	kh @@ z^2 kh iia n^4
+ข้อเท็จจริง	1.0	kh @@ z^2 th e t^3 c i ng^0
+ข้อเรียกร้อง	1.0	kh @@ z^2 r iia k^2 r @@ ng^3
+ข้อเสนอ	1.0	kh @@ z^2 s a z^1 n qq z^4
+ข้อเสีย	1.0	kh @@ z^2 s iia z^4
+ข้อแก้ตัว	1.0	kh @@ z^2 k xx z^2 t uua z^0
+ข้อโต้แย้ง	1.0	kh @@ z^2 t oo z^2 j xx ng^3
+ข้าง	1.0	kh aa ng^2
+ข้างต้น	1.0	kh aa ng^2 t o n^2
+ข้างนอก	1.0	kh aa ng^2 n @@ k^2
+ข้างมาก	1.0	kh aa ng^2 m aa k^2
+ข้างล่าง	1.0	kh aa ng^2 l aa ng^2
+ข้างหน้า	1.0	kh aa ng^2 n aa z^2
+ข้างใน	1.0	kh aa ng^2 n a j^0
+ข้าพเจ้า	1.0	kh aa z^2 ph a z^3 c a w^2
+ข้าม	1.0	kh aa m^2
+ข้าราชการ	1.0	kh aa z^2 r aa t^2 ch a z^3 k aa n^0
+ข้าว	1.0	kh aa w^2
+ข้าวเจ้า	1.0	kh aa w^2 c aa w^2
+ข้าวเปลือก	1.0	kh aa w^2 pl vva k^1
+ข้าวเหนียว	1.0	kh aa w^2 n iia w^4
+คง	1.0	kh o ng^0
+คงจะ	1.0	kh o ng^0 c a z^1
+คงทน	1.0	kh o ng^0 th o n^0
+คงที่	1.0	kh o ng^0 th ii z^2
+คงสมพงษ์	1.0	kh o ng^0 s o m^4 ph o ng^0
+คณบดี	1.0	kh a z^3 n a z^3 b @@ z^0 d ii z^0
+คณะ	1.0	kh a z^3 n a z^3
+คณะกรรมการ	1.0	kh a z^3 n a z^3 k a m^0 m a z^3 k aa n^0
+คณะกรรมการบริหาร	1.0	kh a z^3 n a z^3 k a m^0 m a z^3 k aa n^0 b @@ z^0 r i z^3 h aa n^4
+คณะรัฐมนตรี	1.0	kh a z^3 n a z^3 r a t^3 th a z^1 m o n^0 tr ii z^0
+คณาจารย์	1.0	kh a z^3 n aa z^0 c aa n^0
+คดี	1.0	kh a z^3 d ii z^0
+คติ	1.0	kh a z^3 t i z^1
+คน	1.0	kh o n^0
+คนงาน	1.0	kh o n^0 ng aa n^0
+คนป่วย	1.0	kh o n^0 p uua j^1
+คนรัก	1.0	kh o n^0 r a k^3
+คนร้าย	1.0	kh o n^0 r aa j^3
+คนหนึ่ง	1.0	kh o n^0 n v ng^1
+คนเรา	1.0	kh o n^0 r a w^0
+คนใด	1.0	kh o n^0 d a j^0
+คนใดคนหนึ่ง	1.0	kh o n^0 d a j^0 kh o n^0 n v ng^1
+คนไข้	1.0	kh o n^0 kh a j^2
+คบ	1.0	kh o p^3
+คบค้า	1.0	kh o p^3 kh aa z^3
+คบหา	1.0	kh o p^3 h aa t^4
+คม	1.0	kh o m^0
+คมนาคม	1.0	kh a z^2 m a z^2 n aa z^0 kh o m^0
+ครบ	1.0	khr o p^3
+ครบถ้วน	1.0	khr o p^3 th uua n^2
+ครม.	1.0	kh @@ z^0 r @@ z^0 m @@ z^0
+ครรภ์	1.0	kh a n^0
+ครอง	1.0	khr @@ ng^0
+ครองชีพ	1.0	khr @@ ng^0 ch ii p^2
+ครอบ	1.0	khr @@ p^2
+ครอบครอง	1.0	khr @@ p^2 khr @@ ng^0
+ครอบครัว	1.0	khr @@ p^2 khr uua z^0
+ครอบคลุม	1.0	khr @@ p^2 khl u m^0
+ครอบงำ	1.0	khr @@ p^2 ng a m^0
+ครับ	1.0	khr a p^3
+ครัวเรือน	1.0	khr uua z^0 r vva n^0
+ครั้ง	1.0	khr a ng^3
+ครั้งคราว	1.0	khr a ng^3 khr aa w^0
+ครั้งนั้น	1.0	khr a ng^3 n a n^3
+ครั้งนี้	1.0	khr a ng^3 n ii z^3
+ครั้งละ	1.0	khr a ng^3 l a z^3
+ครั้น	1.0	khr a n^3
+ครั้นแล้ว	1.0	khr a n^3 l xx w^3
+คราประยูร	1.0	khr aa z^0 pr a z^1 j uu n^0
+คราว	1.0	khr aa w^0
+คราวนี้	1.0	khr aa w^0 n ii z^3
+คริสตจักร	1.0	khr i t^3 c a k^1
+คริสต์	1.0	khr i t^3
+คริสต์ศตวรรษ	1.0	khr i t^3 s a z^1 t a z^1 w a t^3
+คริสต์ศักราช	1.0	khr i t^3 s a k^1 k a z^1 r aa t^1
+ครีมเชื่อม	1.0	khr ii m^0 ch vva m^2
+ครึ่ง	1.0	khr v ng^2
+ครุสชอฟ	1.0	khr u s^3 ch @@ f^3
+ครู	1.0	khr uu z^0
+ครูบาอาจารย์	1.0	khr uu z^0 b aa z^0 z aa z^0 c aa n^0
+คร่าว	1.0	khr aa w^2
+คลอง	1.0	khl @@ ng^0
+คลอด	1.0	khl @@ t^2
+คลอไรด์	1.0	khl @@ r a
+คลัง	1.0	khl a ng^0
+คลั่ง	1.0	khl a ng^2
+คลาดเคลื่อน	1.0	khl aa t^2 khl vva n^2
+คลาย	1.0	khl aa j^0
+คลาสสิค	1.0	khl aa t^3 s i k^1
+คลินิก	1.0	khl i n i k^1
+คลี่คลาย	1.0	khl ii z^2 khl aa j^0
+คลื่น	1.0	khl vv n^2
+คลื่นพาห์	1.0	khl vv n^2 ph aa z^0
+คลื่นแสง	1.0	khl vv n^2 s xx ng^4
+คลื่นไส้	1.0	khl vv n^1 s a j^2
+คลุกคลี	1.0	khl u k^3 khl ii z^0
+คลุม	1.0	khl u m^0
+คลุมเครือ	1.0	khl u m^0 khr vva z^0
+คล่อง	1.0	khl @ ng^2
+คล่องตัว	1.0	khl @ ng^1 t uua z^0
+คล่องแคล่ว	1.0	khl @ ng^1 khl uua
+คล้อยตาม	1.0	khl @@ j^3 t aa m^0
+คล้าย	1.0	khl aa j^3
+คล้ายคลึง	1.0	khl aa j^3 khl v ng^0
+คล้ำ	1.0	khl a m^3
+ควง	1.0	kh uua ng^0
+ควบกล้ำ	1.0	kh uua p^2 kl a m^2
+ควบคุม	1.0	kh uua p^2 kh u m^0
+ควบคู่	1.0	kh uua p^2 kh uu z^2
+ควร	1.0	kh uua n^0
+ควันไฟ	1.0	kh a z^3 w a n^0 f a j^0
+ความ	1.0	khw aa m^0
+ความกว้าง	1.0	khw aa m^0 kw aa ng^2
+ความคิด	1.0	khw aa m^0 kh i t^3
+ความจริง	1.0	khw aa m^0 c i ng^0
+ความจำ	1.0	khw aa m^0 c a m^0
+ความจุ	1.0	khw aa m^0 c u z^1
+ความดัน	1.0	khw aa m^0 d a n^0
+ความถี่	1.0	khw aa m^0 th ii z^1
+ความผิด	1.0	khw aa m^0 ph i t^1
+ความรู้	1.0	khw aa m^0 r uu z^3
+ความสูง	1.0	khw aa m^0 s uu ng^4
+ความหมาย	1.0	khw aa m^0 m aa j^4
+ความเข้ม	1.0	khw aa m^0 kh e m^2
+ความเข้าใจ	1.0	khw aa m^0 kh a w^2 c a j^0
+ความเป็นมา	1.0	khw aa m^0 p e n^0 m aa z^0
+ความเร็ว	1.0	khw aa m^0 r e w^0
+ความเห็น	1.0	khw aa m^0 h e n^4
+ควาย	1.0	khw aa j^4
+ควินิน	1.0	kh a z^3 w i z^3 n i n^0
+คอ	1.0	kh @@ z^0
+คอก	1.0	kh @@ k^1
+คอมพิวเตอร์	1.0	kh @ m^0 ph i w^3 t qq z^2
+คอมมิวนิสต์	1.0	kh @ m^0 m i w^0 n i t^3
+คอมแพคดิสก์	1.0	kh @ m^0 ph a z^3 kh a z^3 d i s^3
+คอย	1.0	kh @@ j^0
+คอร์รัปชั่น	1.0	kh @@ z^0 r a p^3 ch a n^2
+คะ	1.0	kh a z^3
+คะเน	1.0	kh a z^3 n ee z^0
+คะแนน	1.0	kh a z^3 n xx n^0
+คะแนนเสียง	1.0	kh a z^3 n xx n^0 s iia ng^4
+คัด	1.0	kh a t^3
+คัดค้าน	1.0	kh a t^3 kh aa n^3
+คัดลอก	1.0	kh a t^3 l @@ k^2
+คัดเลือก	1.0	kh a t^3 l vva k^2
+คับ	1.0	kh a p^3
+คับข้อง	1.0	kh a p^3 kh @ ng^2
+คับแคบ	1.0	kh a p^3 kh xx p^2
+คับใจ	1.0	kh a p^3 c a j^0
+คัมภีร์	1.0	kh a m^0 ph ii z^0
+คั่งค้าง	1.0	kh a ng^2 kh aa ng^3
+คั้น	1.0	kh a n^3
+คาด	1.0	kh aa t^2
+คาดการณ์	1.0	kh aa t^2 k aa n^0
+คาดคิด	1.0	kh aa t^2 kh i t^3
+คาดฝัน	1.0	kh aa t^2 f a n^4
+คาดหมาย	1.0	kh aa t^2 m aa j^4
+คาดหวัง	1.0	kh aa t^2 w a ng^4
+คาถา	1.0	kh aa z^0 th aa z^4
+คาน	1.0	kh aa n^0
+คานคู่	1.0	kh aa n^4 kh uu z^2
+คาบเกี่ยว	1.0	kh aa p^2 k iia w^1
+คาปาซิเตอร์ทรานซิสเตอร์	1.0	kh aa p aa z^0 s i z^1 t qq z^0 s aa n^0 s i t^3 t qq z^2
+คารามาซอฟ	1.0	kh aa z^0 r aa z^0 m aa z^0 s @@ p^3
+คาร์บอนไดออกไซด์	1.0	kh aa z^0 b @ n^0 d a j^0 z @ k^3 s aa j^0
+คาโบนิคแอสิด	1.0	kh aa z^0 b oo z^0 n i k^1 z xx z^0 s i t^1
+คาโปน	1.0	kh aa z^0 p oo n^0
+คำ	1.0	kh a m^0
+คำกำกวม	1.0	kh a m^0 k a m^0 k uua m^2
+คำขาด	1.0	kh a m^0 kh aa t^1
+คำตอบ	1.0	kh a m^0 t @@ p^1
+คำถาม	1.0	kh a m^0 th aa m^4
+คำนวณ	1.0	kh a m^0 n uua n^0
+คำนวน	1.0	kh a m^0 n uua n^0
+คำนึง	1.0	kh a m^0 n v ng^0
+คำปรึกษา	1.0	kh a m^0 pr v k^1 s aa z^4
+คำพูด	1.0	kh a m^0 ph uu t^2
+คำศัพท์	1.0	kh a m^0 s a p^1
+คำสอน	1.0	kh a m^0 s @@ n^4
+คำสั่ง	1.0	kh a m^0 s a ng^1
+คำอธิบาย	1.0	kh a m^0 z a z^1 th i z^3 b aa j^0
+คำเชื่อม	1.0	kh a m^0 ch vva m^2
+คิด	1.0	kh i t^3
+คิดค้น	1.0	kh i t^3 kh o n^3
+คิดถึง	1.0	kh i t^3 th v ng^4
+คิดเห็น	1.0	kh i t^3 h e n^4
+คิว	1.0	kh i w^0
+คีบ	1.0	kh ii p^2
+คีย์บอร์ด	1.0	kh iia b @@ t^1
+คึกฤทธิ์	1.0	kh v k^3 r i t^3
+คืน	1.0	kh vv n^0
+คืบหน้า	1.0	kh vv p^2 n aa z^2
+คือ	1.0	kh vv z^0
+คุก	1.0	kh u k^3
+คุกคาม	1.0	kh u k^3 kh aa m^0
+คุณ	1.0	kh u n^0
+คุณค่า	1.0	kh u n^0 kh aa z^2
+คุณธรรม	1.0	kh u n^0 n a z^3 th a m^0
+คุณประโยชน์	1.0	kh u n^0 pr a z^1 j oo t^1
+คุณภาพ	1.0	kh u n^0 n a z^3 ph aa p^2
+คุณลักษณะ	1.0	kh u n^0 n a z^3 l a k^3 s a z^1 n a z^1
+คุณศัพท์	1.0	kh u n^0 n a z^3 s a p^1
+คุณสมบัติ	1.0	kh u n^0 n a z^3 s o m^4 b a t^1
+คุณหญิง	1.0	kh u n^0 j i ng^4
+คุณูปการ	1.0	kh u z^3 n uu z^0 p a z^1 k aa n^0
+คุม	1.0	kh u m^0
+คุรุสภา	1.0	kh u z^3 r u z^3 s a z^1 ph aa z^0
+คุ้น	1.0	kh u n^3
+คุ้นเคย	1.0	kh u n^3 kh qq j^0
+คุ้ม	1.0	kh u m^3
+คุ้มกัน	1.0	kh u m^3 k a n^0
+คุ้มครอง	1.0	kh u m^3 khr @@ ng^0
+คุ้มค่า	1.0	kh u m^3 kh aa z^2
+คูน	1.0	kh uu n^0
+คูเวต	1.0	kh uu z^0 w ee t^1
+คู่	1.0	kh uu z^2
+คู่ครอง	1.0	kh uu z^2 khr @@ ng^0
+คู่ค้า	1.0	kh uu z^2 kh aa z^3
+คู่มือ	1.0	kh uu z^2 m vv z^0
+คู่แข่งขัน	1.0	kh uu z^2 kh x ng^1 kh a n^4
+ค่อน	1.0	kh @@ n^2
+ค่อนข้าง	1.0	kh @ n^2 kh aa ng^2
+ค่อย	1.0	kh @ j^2
+ค่า	1.0	kh aa z^2
+ค่าจ้าง	1.0	kh aa z^2 c aa ng^2
+ค่านิยม	1.0	kh aa z^2 n i z^3 j o m^0
+ค่าย	1.0	kh aa j^2
+ค่าเช่า	1.0	kh aa z^2 ch a w^2
+ค่าแรง	1.0	kh aa z^2 r xx ng^0
+ค่าใช้จ่าย	1.0	kh aa z^2 ch a j^3 c aa j^1
+ค่ำคืน	1.0	kh a m^2 kh vv n^0
+ค้น	1.0	kh o n^3
+ค้นคว้า	1.0	kh o n^3 khw aa z^3
+ค้นพบ	1.0	kh o n^3 ph o p^3
+ค้นหา	1.0	kh o n^3 h aa z^4
+ค้า	1.0	kh aa z^3
+ค้าง	1.0	kh aa ng^3
+ค้างคืน	1.0	kh aa ng^3 kh vv n^0
+ค้าน	1.0	kh aa n^3
+ค้ำ	1.0	kh a m^3
+ฆ่า	1.0	kh aa z^2
+งง	1.0	ng o ng^0
+งด	1.0	ng o t^3
+งดงาม	1.0	ng o t^3 ng aa m^0
+งดเว้น	1.0	ng o t^3 w e n^3
+งบ	1.0	ng o p^3
+งบประมาณ	1.0	ng o p^3 pr a z^1 m aa n^0
+งมงาย	1.0	ng o m^0 ng aa j^0
+งวดเงิน	1.0	ng uua t^2 ng q n^0
+งอ	1.0	ng @@ z^0
+งอก	1.0	ng @@ k^2
+งอกงาม	1.0	ng @@ k^2 ng aa m^0
+งอกเงย	1.0	ng @@ k^2 ng a j^0
+งัว	1.0	ng uua z^0
+งาน	1.0	ng aa n^0
+งาม	1.0	ng aa m^0
+งามเจตนรมณ์	1.0	ng aa m^0 c ee z^0 t n^2 r o m^0
+งุนงง	1.0	ng u n^4 ng o ng^0
+งูพิษ	1.0	ng uu ph i t^3
+งูเห่า	1.0	ng uu z^0 h a w^1
+ง่าม	1.0	ng aa m^2
+ง่าย	1.0	ng aa j^2
+ง่ายดาย	1.0	ng aa j^2 d aa j^0
+ง่ายๆ	1.0	ng aa j^2 k^1
+จ	1.0	c @@ z^0
+จ.	1.0	c @@ z^0
+จง	1.0	c o ng^0
+จงรัก	1.0	c o ng^0 r a k^3
+จงใจ	1.0	c o ng^0 c a j^0
+จด	1.0	c o t^1
+จดจำ	1.0	c o t^1 c a m^0
+จดหมาย	1.0	c o t^1 m aa j^4
+จดหมายเหตุ	1.0	c o t^1 m aa j^4 h ee t^1
+จตุจักร	1.0	c a z^1 t u z^1 c a k^1
+จน	1.0	c o n^0
+จนกระทั่ง	1.0	c o n^0 kr a z^1 th a ng^2
+จนกว่า	1.0	c o n^0 kw aa z^1
+จนถึง	1.0	c o n^0 th v ng^4
+จบ	1.0	c o p^1
+จปร.	1.0	c @@ z^0 p @@ z^0 r @@ z^0
+จม	1.0	c o m^0
+จมูก	1.0	c a z^1 m uu k^1
+จรรยา	1.0	c a n^0 j aa z^0
+จระเข้	1.0	c @@ z^0 r a z^3 kh ee z^2
+จริง	1.0	c i ng^0
+จริงจัง	1.0	c i ng^0 c a ng^0
+จริงอยู่	1.0	c i ng^0 j uu z^1
+จริงใจ	1.0	c i ng^0 c a j^0
+จริยธรรม	1.0	c a z^1 r i z^3 j a z^3 th a m^0
+จริยศาสตร์	1.0	c a z^1 r i z^3 j a z^3 s aa t^1
+จริยศึกษา	1.0	c a z^1 r i z^3 j a z^3 s v k^1 s aa z^4
+จฬ.	1.0	c @@ z^0 l @@ z^0
+จอ	1.0	c @@ z^0
+จอด	1.0	c @@ t^1
+จอภาพ	1.0	c @@ z^0 ph aa p^2
+จอม	1.0	c @@ m^0
+จอมพล	1.0	c @@ m^0 ph o n^0
+จอมอนิเตอร์	1.0	c @@ m^0 @@ z^0 n i z^1 t qq z^2
+จอร์จ	1.0	c @@ t^3
+จะ	1.0	c a z^1
+จะต้อง	1.0	c a z^1 t @ ng^2
+จัก	1.0	c a k^1
+จักร	1.0	c a k^1
+จักรวาล	1.0	c a k^1 kr a z^1 w aa n^0
+จักรๆ	1.0	c a k^1 c a k^1
+จังหวะ	1.0	c a ng^0 w a z^1
+จังหวัด	1.0	c a ng^0 w a t^1
+จัด	1.0	c a t^1
+จัดการ	1.0	c a t^1 k aa n^0
+จัดซื้อ	1.0	c a t^1 s vv z^3
+จัดตั้ง	1.0	c a t^1 t a ng^2
+จัดทำ	1.0	c a t^1 th a m^0
+จัดลำดับ	1.0	c a t^1 l a m^0 d a p^1
+จัดสรร	1.0	c a t^1 s a n^4
+จัดหา	1.0	c a t^1 h aa z^4
+จัดเจน	1.0	c a t^1 c ee n^0
+จัดแต่ง	1.0	c a t^1 t x ng^1
+จัดแสดง	1.0	c a t^1 s a z^1 d xx ng^0
+จันทร์	1.0	c a n^0
+จันทร์แสนวิไล	1.0	c a n^0 z^0 s xx n^4 w i z^3 n^0
+จันทัน	1.0	c a n^0 a n^0
+จันท์เทวี	1.0	c a n^0 th ee z^0 w ii z^0
+จับ	1.0	c a p^1
+จับกุม	1.0	c a p^1 k u m^0
+จับคู่	1.0	c a p^1 kh uu z^2
+จับต้อง	1.0	c a p^1 t @ ng^2
+จาก	1.0	c aa k^1
+จากนั้น	1.0	c aa k^1 n a n^3
+จาง	1.0	c aa ng^0
+จาน	1.0	c aa n^0
+จานสายอากาศ	1.0	c aa n^0 s aa j^4 z aa z^0 k aa t^1
+จารีต	1.0	c aa z^0 r ii t^2
+จารึก	1.0	c aa z^0 r v k^3
+จารึกเขาน้อย	1.0	c aa z^0 r v k^3 kh aa z^4 n @@ j^3
+จำ	1.0	c a m^0
+จำกัด	1.0	c a m^0 k a t^1
+จำคุก	1.0	c a m^0 kh u k^3
+จำนงศรี	1.0	c a m^0 n o ng^0 s ii z^4
+จำนน	1.0	c a m^0 n o n^0
+จำนวน	1.0	c a m^0 n uua n^0
+จำนวนเต็ม	1.0	c a m^0 n uua n^0 t e m^0
+จำพวก	1.0	c a m^0 ph uua k^2
+จำยอม	1.0	c a m^0 j @@ m^0
+จำลอง	1.0	c a m^0 l @@ ng^0
+จำหน่าย	1.0	c a m^0 n aa j^1
+จำเจ	1.0	c a m^0 c ee z^0
+จำเป็น	1.0	c a m^0 p e n^0
+จำแนก	1.0	c a m^0 n xx k^2
+จิต	1.0	c i t^1
+จิตรกร	1.0	c i t^1 tr a z^1 k @@ n^0
+จิตรกรรม	1.0	c i t^1 tr a z^1 k a m^0
+จิตวิทยา	1.0	c i t^1 t a z^1 w i t^3 th a z^3 j aa z^0
+จิตวิเคราะห์	1.0	c i t^1 t a z^1 w i z^3 khr @ z^3
+จิตสำนึก	1.0	c i t^1 s a m^4 n v k^3
+จิตเภท	1.0	c i t^1 t a z^1 ph ee t^2
+จิตเวช	1.0	c i t^1 t a z^1 w ee t^2
+จิตแพทย์	1.0	c i t^1 t a z^1 ph xx t^2
+จิตใจ	1.0	c i t^1 c a j^0
+จินดา	1.0	c i n^0 d aa z^0
+จิระศักดิ์	1.0	c i z^1 r a z^3 s a k^1
+จิรโรจน์	1.0	c i z^1 r a z^3 r oo t^2
+จิ่งกังซาน	1.0	c i ng^1 k a ng^0 s aa n^0
+จี	1.0	c ii z^0
+จีน	1.0	c ii n^0
+จีเซลซาฟ	1.0	c ii z^0 s ee s aa f^3
+จีเมนซาฟ	1.0	c ii z^0 m ee n^0 s aa f^3
+จี้	1.0	c ii z^2
+จึง	1.0	c v ng^0
+จุด	1.0	c u t^1
+จุดจบ	1.0	c u t^1 c o p^1
+จุดประสงค์	1.0	c u t^1 pr a z^1 s o ng^4
+จุดมุ่งหมาย	1.0	c u t^1 m u ng^2 m aa j^4
+จุดยืน	1.0	c u t^1 j vv n^0
+จุดสำคัญ	1.0	c u t^1 s a m^4 kh a n^0
+จุดหมาย	1.0	c u t^1 m aa j^4
+จุดเชื่อม	1.0	c u t^1 ch vva m^2
+จุดเด่น	1.0	c u t^1 d e n^1
+จุลจอมเกล้า	1.0	c u n^0 l a z^3 c @@ m^0 kl aa w^2
+จุลละทรัพย์	1.0	c u n^0 l a z^3 s a p^3
+จุฬาลงกรณ์มหาวิทยาลัย	1.0	c u l aa z^0 l o ng^0 k @@ n^0 m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0
+จูงใจ	1.0	c uu ng^0 c a j^0
+จู่โจม	1.0	c uu z^1 c oo m^0
+จ่อ	1.0	c @@ z^1
+จ่าย	1.0	c aa j^1
+จ่ายเงิน	1.0	c aa j^1 ng q n^0
+จ้อย	1.0	c @ j^2
+จ้าง	1.0	c aa ng^2
+จ๋อย	1.0	c qq z^4 j^4
+ฉกรรจ์	1.0	ch a z^1 k a n^0
+ฉบับ	1.0	ch a z^1 b a p^1
+ฉลาก	1.0	ch a z^1 l aa k^1
+ฉลาด	1.0	ch a z^1 l aa t^1
+ฉลามลาย	1.0	ch a z^1 l aa m^0 l aa j^0
+ฉลุ	1.0	ch a z^1 l u z^1
+ฉวย	1.0	ch uua j^4
+ฉะนั้น	1.0	ch a z^1 n a n^3
+ฉัน	1.0	ch a n^4
+ฉันนั้น	1.0	ch a n^4 n a n^3
+ฉันใด	1.0	ch a n^4 d a j^0
+ฉับพลัน	1.0	ch a p^1 phl a n^0
+ฉับไว	1.0	ch a p^1 w a j^0
+ฉาก	1.0	ch aa k^1
+ฉาบฉวย	1.0	ch aa p^1 ch uua j^4
+ฉาย	1.0	ch aa j^4
+ฉีดยา	1.0	ch ii t^1 j aa z^0
+ฉุกคิด	1.0	ch u k^1 kh i t^3
+ฉ้อฉล	1.0	ch @@ z^2 ch o n^4
+ชง	1.0	ch o ng^0
+ชน	1.0	ch o n^0
+ชนชั้น	1.0	ch o n^0 ch a n^3
+ชนชั้นนำ	1.0	ch o n^0 ch a n^3 n a m^0
+ชนชาติ	1.0	ch o n^0 ch aa t^2
+ชนบท	1.0	ch a z^3 n a z^3 b o t^1
+ชนวน	1.0	ch a z^3 n uua n^0
+ชนะ	1.0	ch a z^3 n a z^3
+ชนิด	1.0	ch a z^3 n i t^3
+ชนินทร์	1.0	ch a z^3 n i n^4
+ชม	1.0	ch o m^0
+ชมชอบ	1.0	ch o m^0 ch @@ p^2
+ชมเชย	1.0	ch o m^0 ch qq j^0
+ชรา	1.0	ch a z^3 r aa z^0
+ชลบุรี	1.0	ch o n^0 b u z^1 r ii z^0
+ชลประทาน	1.0	ch o n^0 pr a z^1 th aa n^0
+ชวน	1.0	ch uua n^0
+ชวลิต	1.0	ch a z^3 w a z^3 l i t^3
+ชวา	1.0	ch a z^3 w aa z^0
+ชอตต์	1.0	ch @ t^1
+ชอบ	1.0	ch @@ p^2
+ชอบธรรม	1.0	ch @@ p^2 th a m^0
+ชอบพอ	1.0	ch @@ p^2 ph @@ z^0
+ชอล์ก	1.0	ch @ w^0 k^3
+ชะ	1.0	ch a z^3
+ชะงัก	1.0	ch a z^3 ng a k^3
+ชะงักงัน	1.0	ch a z^3 ng a k^3 ng a n^0
+ชะตา	1.0	ch a z^3 t aa z^0
+ชะตากรรม	1.0	ch a z^3 t aa z^0 k a m^0
+ชะลอ	1.0	ch a z^3 l @@ z^0
+ชะล้าง	1.0	ch a z^3 l aa ng^3
+ชะโลม	1.0	ch a z^3 l oo m^0
+ชัก	1.0	ch a k^3
+ชักจูง	1.0	ch a k^3 c uu ng^0
+ชักชวน	1.0	ch a k^3 ch uua n^0
+ชักนำ	1.0	ch a k^3 n a m^0
+ชัด	1.0	ch a t^3
+ชัดเจน	1.0	ch a t^3 c ee n^0
+ชัดแจ้ง	1.0	ch a t^3 c xx ng^2
+ชัน	1.0	ch a n^0
+ชัยกุล	1.0	ch a j^0 j a z^3 k u n^0
+ชัยชนะ	1.0	ch a j^0 ch a z^3 n a z^3
+ชัยนาม	1.0	ch a j^0 n aa m^0
+ชัยภูมิ	1.0	ch a j^0 j a z^3 ph uu m^0
+ชัยวัฒน์	1.0	ch a j^0 w a t^3
+ชัยสินธพ	1.0	ch a j^0 j a z^3 s i n^4 p^3
+ชั่ง	1.0	ch a ng^2
+ชั่ว	1.0	ch uua z^2
+ชั่วคราว	1.0	ch uua z^2 khr aa w^0
+ชั่วโมง	1.0	ch uua z^2 m oo ng^0
+ชั้น	1.0	ch a n^3
+ชั้นปี	1.0	ch a n^3 p ii z^0
+ชั้นผู้ใหญ่	1.0	ch a n^3 ph uu z^2 j a j^1
+ชั้นสูง	1.0	ch a n^3 s uu ng^4
+ชาญ	1.0	ch aa n^0
+ชาญวิทย์	1.0	ch aa n^0 w i t^3
+ชาติ	1.0	ch aa t^2
+ชาติชาย	1.0	ch aa t^2 ch aa j^0
+ชาตินิยม	1.0	ch aa t^2 n i z^3 j o m^0
+ชาติพันธุ์	1.0	ch aa t^2 ph a n^0
+ชาติไทย	1.0	ch aa t^2 th a j^0
+ชาย	1.0	ch aa j^0
+ชายคา	1.0	ch aa j^0 kh aa z^0
+ชายฝั่ง	1.0	ch aa j^0 f a ng^1
+ชายเลน	1.0	ch aa j^0 l ee n^0
+ชายแดน	1.0	ch aa j^0 d xx n^0
+ชาว	1.0	ch aa w^0
+ชาวกรีก	1.0	ch aa w^0 kr ii k^1
+ชาวนา	1.0	ch aa w^0 n aa z^0
+ชาวบ้าน	1.0	ch aa w^0 b aa n^2
+ชาวเกาะ	1.0	ch aa w^0 k @ z^1
+ชาวเขา	1.0	ch aa w^0 kh a w^4
+ชาวเมือง	1.0	ch aa w^0 m vva ng^0
+ชาวไทย	1.0	ch aa w^0 th a j^0
+ชาวไร่	1.0	ch aa w^0 r a j^2
+ชำนาญ	1.0	ch a m^0 n aa n^0
+ชำนิชำนาญ	1.0	ch a m^0 n i z^3 ch a m^0 n aa n^0
+ชำระ	1.0	ch a m^0 r a z^3
+ชิง	1.0	ch i ng^0
+ชิงชัง	1.0	ch i ng^0 ch a ng^0
+ชิด	1.0	ch i t^3
+ชิดชอบ	1.0	ch i t^3 ch @@ p^2
+ชิดพงษ์	1.0	ch i t^3 ph o ng^0
+ชิพ	1.0	ch i p^3
+ชิลี	1.0	ch i z^3 l ii z^0
+ชิ้น	1.0	ch i n^3
+ชิ้นส่วน	1.0	ch i n^3 s uua n^1
+ชีพ	1.0	ch ii p^2
+ชีพจร	1.0	ch ii p^2 ph a z^3 c @@ n^0
+ชีวประวัติ	1.0	ch ii z^0 w a z^3 pr a z^1 w a t^1
+ชีวภาพ	1.0	ch ii z^0 w a z^3 ph aa p^2
+ชีววิทยา	1.0	ch ii z^0 w a z^3 w i t^3 th a z^3 j aa z^0
+ชีวิต	1.0	ch ii z^0 w i t^3
+ชีวิตชีวา	1.0	ch ii z^0 w i t^3 ch ii z^0 w aa z^0
+ชีวเคมี	1.0	ch ii z^0 w a z^3 kh ee z^0 m ii z^0
+ชี้	1.0	ch ii z^3
+ชี้ขาด	1.0	ch ii z^3 kh aa t^1
+ชี้นำ	1.0	ch ii z^3 n a m^0
+ชี้แจง	1.0	ch ii z^3 c xx ng^0
+ชื่นชม	1.0	ch vv n^2 ch o m^0
+ชื่อ	1.0	ch vv z^2
+ชื่อดัง	1.0	ch vv z^2 d a ng^0
+ชื่อเสียง	1.0	ch vv z^2 s iia ng^4
+ชุกชุม	1.0	ch u k^3 ch u m^0
+ชุณหะวัณ	1.0	ch u n^0 h a z^1 w a n^0
+ชุด	1.0	ch u t^3
+ชุดคำสั่ง	1.0	ch u t^3 kh a m^0 s a ng^1
+ชุดฝึก	1.0	ch u t^3 f v k^1
+ชุบ	1.0	ch u p^3
+ชุมชน	1.0	ch u m^0 ch o n^0
+ชุมนุม	1.0	ch u m^0 n u m^0
+ชุมแพ	1.0	ch u m^0 ph xx z^0
+ชูศักดิ์	1.0	ch uu z^0 s a k^1
+ชู้สาว	1.0	ch uu z^3 s aa w^4
+ช่วง	1.0	ch uua ng^2
+ช่วงชิง	1.0	ch uua ng^2 ch i ng^0
+ช่วย	1.0	ch uua j^2
+ช่วยเหลือ	1.0	ch uua j^2 l vva z^4
+ช่อง	1.0	ch @ ng^2
+ช่องทาง	1.0	ch @ ng^2 th aa ng^0
+ช่องว่าง	1.0	ch @ ng^2 w aa ng^2
+ช่าง	1.0	ch a ng^2
+ช้า	1.0	ch aa z^3
+ช้าง	1.0	ch aa ng^3
+ช้านาน	1.0	ch aa z^3 n aa n^0
+ซอฟต์แวร์	1.0	s @@ p^3 w xx z^0
+ซอฟท์แวร์	1.0	s @@ p^3 w xx z^0
+ซอย	1.0	s @@ j^0
+ซอส	1.0	s @@ t^3
+ซอสสมา	1.0	s @@ t^3 s a z^1 m aa z^0
+ซักถาม	1.0	s a k^3 th aa m^4
+ซัดดัม	1.0	s a t^3 d a m^0
+ซับซ้อน	1.0	s a p^3 s @@ n^3
+ซาก	1.0	s aa k^1
+ซาบซึ้ง	1.0	s aa p^2 s v ng^3
+ซาร์ทร์	1.0	s aa t^3
+ซาลิน่า	1.0	s aa z^0 l i z^3 n aa z^2
+ซาอุดิอาระเบีย	1.0	s aa z^0 z u z^1 d i z^1 z aa z^0 r a z^3 b iia z^0
+ซิ	1.0	s i z^3
+ซิงคาโน	1.0	s i ng^0 kh aa z^0 n oo z^2
+ซิงโครนัส	1.0	s i ng^0 khr oo n a t^3
+ซิซิลี	1.0	s i z^3 s i z^3 l ii z^0
+ซิเทรต	1.0	s i z^3 th ee t^1
+ซี	1.0	s ii z^0
+ซีก	1.0	s ii k^2
+ซีกโลก	1.0	s ii k^2 l oo k^2
+ซีพี	1.0	s ii z^0 ph ii z^0
+ซีเอ็นซี	1.0	s ii z^0 z e n^0 s ii z^0
+ซีไรต์	1.0	s ii z^0 r a j^3
+ซึม	1.0	s v m^0
+ซึ่ง	1.0	s v ng^2
+ซึ่งกันและกัน	1.0	s v ng^2 k a n^0 l x z^3 k a n^0
+ซื่อ	1.0	s vv z^2
+ซื่อตรง	1.0	s vv z^2 tr o ng^0
+ซื่อสัตย์	1.0	s vv z^2 s a t^1
+ซื้อ	1.0	s vv z^3
+ซื้อขาย	1.0	s vv z^3 kh aa j^4
+ซื้อหา	1.0	s vv z^3 h aa z^4
+ซุก	1.0	s u k^3
+ซุกซ่อน	1.0	s u k^3 s @@ n^2
+ซ่อน	1.0	s @@ n^2
+ซ่อนเร้น	1.0	s @@ n^2 r e n^3
+ซ่อม	1.0	s @ m^2
+ซ่อมแซม	1.0	s @ m^1 e m^0
+ซ้อน	1.0	s @@ n^3
+ซ้าย	1.0	s aa j^3
+ซ้ำ	1.0	s a m^3
+ซ้ำซ้อน	1.0	s a m^3 s @@ n^3
+ซ้ำร้าย	1.0	s a m^3 r aa j^3
+ญัตติ	1.0	j a t^3 t i z^1
+ญาณ	1.0	j aa n^0
+ญาติ	1.0	j aa t^2
+ญี่ปุ่น	1.0	j ii z^2 p u n^1
+ฐาน	1.0	th aa n^4
+ฐานกรณ์	1.0	th aa n^4 k @@ n^0
+ฐานข้อมูล	1.0	th aa n^4 kh @@ z^2 m uu n^0
+ฐานปฏิบัติการ	1.0	th aa z^4 n a z^3 p a z^1 t i z^1 b a t^1 k aa n^0
+ฐานะ	1.0	th aa z^4 n a z^3
+ณรงค์	1.0	n a z^3 r o ng^0
+ดงใหญ่	1.0	d o ng^0 j a j^1
+ดนตรี	1.0	d o n^0 tr ii z^0
+ดม	1.0	d o m^0
+ดร.	1.0	d @@ z^0 r @@ z^0
+ดรัม	1.0	d r a m^0
+ดวง	1.0	d uua ng^0
+ดวงดาว	1.0	d uua ng^0 d aa w^0
+ดวงมน	1.0	d uua ng^0 m o n^0
+ดวงอาทิตย์	1.0	d uua ng^0 z aa z^0 th i t^3
+ดอก	1.0	d @@ k^1
+ดอกดวง	1.0	d @@ k^1 d uua ng^0
+ดอกไม้	1.0	d @@ k^1 m aa j^3
+ดอง	1.0	d @@ ng^0
+ดอน	1.0	d @@ n^0
+ดอม	1.0	d @@ m^0
+ดอลลาร์	1.0	d @ n^0 l aa z^2
+ดอสโตเยฟสกี	1.0	d @@ t^3 t oo z^0 j ee p^3 s a z^1 k ii z^2
+ดัก	1.0	d a k^1
+ดัง	1.0	d a ng^0
+ดังกล่าว	1.0	d a ng^0 kl aa w^1
+ดังต่อไปนี้	1.0	d a ng^0 t @@ z^1 p a j^0 n ii z^3
+ดังที่	1.0	d a ng^0 th ii z^2
+ดังนั้น	1.0	d a ng^0 n a n^3
+ดังนี้	1.0	d a ng^0 n ii z^3
+ดังเดิม	1.0	d a ng^0 d qq m^0
+ดัดแปลง	1.0	d a t^1 pl xx ng^0
+ดัตช์	1.0	d a t^3
+ดัน	1.0	d a n^0
+ดับทุกข์	1.0	d a p^1 th u k^3
+ดั่ง	1.0	d a ng^1
+ดั่งนี้	1.0	d a ng^1 n ii z^3
+ดั้งเดิม	1.0	d a ng^3 d qq m^0
+ดั้งแขวน	1.0	d a ng^2 kh uua n^4
+ดาบ	1.0	d aa p^1
+ดาราศาสตร์	1.0	d aa z^0 r aa z^0 s aa t^1
+ดาว	1.0	d aa w^0
+ดาวพระเคราะห์	1.0	d aa w^0 phr a z^3 khr @ z^3
+ดาวเทียม	1.0	d aa w^0 th iia m^0
+ดำ	1.0	d a m^0
+ดำรง	1.0	d a m^0 r o ng^0
+ดำเนิน	1.0	d a m^0 n qq n^0
+ดำเนินการ	1.0	d a m^0 n qq n^0 k aa n^0
+ดำเนินงาน	1.0	d a m^0 n qq n^0 ng aa n^0
+ดิจิตอล	1.0	d i z^1 c i t^1 @ n^3
+ดิฉัน	1.0	d i z^1 ch a n^4
+ดิน	1.0	d i n^0
+ดินปืน	1.0	d i n^0 p vv n^0
+ดินแดน	1.0	d i n^0 d xx n^0
+ดิบ	1.0	d i p^1
+ดิษฐพันธุ์	1.0	d i t^1 th a z^1 ph a n^0
+ดิสก์	1.0	d i s^3
+ดิสก์แพ็ค	1.0	d i s^3 ph e k^1
+ดิสชาร์จ	1.0	d i t^3 ch aa t^3
+ดิสเกตต์	1.0	d i t^3 k x t^3
+ดิเรก	1.0	d i z^1 r ee k^1
+ดิ่ง	1.0	d i ng^1
+ดิ้น	1.0	d i n^2
+ดิ้นรน	1.0	d i n^2 r o n^0
+ดี	1.0	d ii z^0
+ดี.ซี.พลานาร์แมกนิตรอย	1.0	d ii z^0 @@ z^0 s ii @@ z^0 ph a z^3 l aa z^0 n aa z^0 m xx k^2 n i t^1 @@ j^0
+ดีซีเซอร์โวมอเตอร์	1.0	d ii z^0 s ii z^0 s @@ z^0 w^3 m @@ z^0 t qq z^2
+ดีซ่าน	1.0	d ii z^0 s aa n^1
+ดีดีที	1.0	d ii z^0 d ii z^0 th ii z^0
+ดีบี	1.0	d ii z^0 b ii z^0
+ดีมอดูเลท	1.0	d ii z^0 m @@ d uu z^0 l ee t^2
+ดีมอส	1.0	d ii z^0 m @@ t^3
+ดีเด่น	1.0	d ii z^0 d e n^1
+ดีใจ	1.0	d ii z^0 c a j^0
+ดึก	1.0	d v k^1
+ดึกดำบรรพ์	1.0	d v k^1 d a m^0 b a n^0
+ดึง	1.0	d v ng^0
+ดื่ม	1.0	d vv m^1
+ดื้อดึง	1.0	d vv z^2 d v ng^0
+ดื้อยา	1.0	d vv z^2 j aa z^0
+ดุ	1.0	d u z^1
+ดุจ	1.0	d u t^1
+ดุน	1.0	d u n^0
+ดุล	1.0	d u n^0
+ดุลพินิจ	1.0	d u n^0 ph i z^3 n i t^3
+ดุลยภาพ	1.0	d u n^0 j a z^3 ph aa p^2
+ดุลอำนาจ	1.0	d u n^0 z a m^0 n aa t^2
+ดุเดือด	1.0	d u z^1 d vva t^1
+ดุ้น	1.0	d u n^2
+ดู	1.0	d uu z^0
+ดูจะ	1.0	d uu z^0 c a z^1
+ดูด	1.0	d uu t^1
+ดูดซับ	1.0	d uu t^1 s a p^3
+ดูถูก	1.0	d uu z^0 th uu k^1
+ดูหมิ่น	1.0	d uu z^0 m i n^1
+ดูเหมือน	1.0	d uu z^0 m vva n^4
+ดูเหมือนว่า	1.0	d uu z^0 m vva n^4 w aa z^2
+ดูแล	1.0	d uu z^0 l xx z^0
+ด็อกเตอร์	1.0	d @ k^3 t qq z^2
+ด่วน	1.0	d uua n^1
+ด่าง	1.0	d aa ng^1
+ด้น	1.0	d o n^2
+ด้วย	1.0	d uua j^2
+ด้วยว่า	1.0	d uua j^2 w aa z^2
+ด้วยเหตุที่	1.0	d uua j^2 h ee t^1 th ii z^2
+ด้วยเหตุนี้	1.0	d uua j^2 h ee t^1 n ii z^3
+ด้อย	1.0	d @ j^2
+ด้อยพัฒนา	1.0	d @ j^2 ph a t^3 th a z^3 n aa z^0
+ด้าน	1.0	d aa n^2
+ด้าย	1.0	d aa j^3
+ตก	1.0	t o k^1
+ตกค้าง	1.0	t o k^1 kh aa ng^3
+ตกต่ำ	1.0	t o k^1 t a m^1
+ตกทอด	1.0	t o k^1 th @@ t^2
+ตกยาก	1.0	t o k^1 j aa k^2
+ตกลง	1.0	t o k^1 l o ng^0
+ตกเลือด	1.0	t o k^1 l vva t^2
+ตกใจ	1.0	t o k^1 c a j^0
+ตน	1.0	t o n^0
+ตนเอง	1.0	t o n^0 z ee ng^0
+ตย.	1.0	t a j^0 @@ z^0
+ตรง	1.0	tr o ng^0
+ตรงกลาง	1.0	tr o ng^0 kl aa ng^0
+ตรงกันข้าม	1.0	tr o ng^0 k a n^0 kh aa m^2
+ตรงข้าม	1.0	tr o ng^0 kh aa m^2
+ตรงไปตรงมา	1.0	tr o ng^0 p a j^0 tr o ng^0 m aa z^0
+ตรรก	1.0	t a k^1 k a j^0
+ตรรกวิทยา	1.0	t a k^1 k a z^1 w i t^3 th a z^3 j aa z^0
+ตรวจ	1.0	tr uua t^1
+ตรวจการณ์	1.0	tr uua t^1 k aa n^0
+ตรวจจับ	1.0	tr uua t^1 c a p^1
+ตรวจวัด	1.0	tr uua t^1 w a t^3
+ตรวจสอบ	1.0	tr uua t^1 s @@ p^1
+ตระกูล	1.0	tr a z^1 k uu n^0
+ตระหนก	1.0	tr a z^1 n o k^1
+ตระหนัก	1.0	tr a z^1 n a k^1
+ตระเตรียม	1.0	tr a z^1 tr iia m^0
+ตรัส	1.0	tr a t^1
+ตรา	1.0	tr aa z^0
+ตราบ	1.0	tr aa p^1
+ตราหน้า	1.0	tr aa z^0 n aa z^2
+ตรี	1.0	tr ii z^0
+ตรึง	1.0	tr v ng^0
+ตรุษ	1.0	tr u t^1
+ตรุษจีน	1.0	tr u t^1 c ii n^0
+ตลก	1.0	t a z^1 l o k^1
+ตลอด	1.0	t a z^1 l @@ t^1
+ตลอดจน	1.0	t a z^1 l @@ t^1 c o n^0
+ตลอดมา	1.0	t a z^1 l @@ t^1 m aa z^0
+ตลอดไป	1.0	t a z^1 l @@ t^1 p a j^0
+ตลับ	1.0	t a z^1 l a p^3
+ตลาด	1.0	t a z^1 l aa t^1
+ตลาดมืด	1.0	t a z^1 l aa t^1 m vv t^2
+ตวง	1.0	t uua ng^0
+ตอน	1.0	t @@ n^0
+ตอนนั้น	1.0	t @@ n^0 n a n^3
+ตอนนี้	1.0	t @@ n^0 n ii z^3
+ตอนแรก	1.0	t @@ n^0 r xx k^2
+ตอบ	1.0	t @@ p^1
+ตอบสนอง	1.0	t @@ p^1 s a z^1 n @@ ng^4
+ตอบแทน	1.0	t @@ p^1 th xx n^0
+ตอบโต้	1.0	t @@ p^1 t oo z^2
+ตะกวด	1.0	t a z^1 k uua t^1
+ตะกั่ว	1.0	t a z^1 k uua z^1
+ตะขาบ	1.0	t a z^1 kh aa p^1
+ตะพานหนู	1.0	t a z^1 ph aa n^0 n uu z^4
+ตะราง	1.0	t a z^1 r aa ng^0
+ตะวัน	1.0	t a z^1 w a n^0
+ตะวันตก	1.0	t a z^1 w a n^0 t o k^1
+ตะวันออก	1.0	t a z^1 w a n^0 z @@ k^1
+ตะวันออกกลาง	1.0	t a z^1 w a n^0 z @@ k^1 kl aa ng^0
+ตะวันออกเฉียงเหนือ	1.0	t a z^1 w a n^0 z @@ k^1 ch iia ng^4 n vva z^4
+ตะวันออกเฉียงใต้	1.0	t a z^1 w a n^0 z @@ k^1 ch iia ng^4 t aa j^2
+ตะเข็บ	1.0	t a z^1 kh e p^1
+ตะแกรง	1.0	t a z^1 kr o ng^0
+ตัก	1.0	t a k^1
+ตักตวง	1.0	t a k^1 t uua ng^0
+ตักเตือน	1.0	t a k^1 t vva n^0
+ตัณหา	1.0	t a n^0 h aa z^4
+ตัด	1.0	t a t^1
+ตัดขวาง	1.0	t a t^1 khw aa ng^4
+ตัดสิน	1.0	t a t^1 s i n^4
+ตัดสินใจ	1.0	t a t^1 s i n^4 c a j^0
+ตัน	1.0	t a n^0
+ตันปรียชญา	1.0	t a n^0 pr iia t^1 j aa z^0
+ตับ	1.0	t a p^1
+ตัว	1.0	t uua z^0
+ตัวกลาง	1.0	t uua z^0 kl aa ng^0
+ตัวการ	1.0	t uua z^0 k aa n^0
+ตัวความต้านทาน	1.0	t uua z^0 khw aa m^0 t aa n^2 th aa n^0
+ตัวตน	1.0	t uua z^0 t o n^0
+ตัวตรวจจับ	1.0	t uua z^0 tr uua t^1 c a p^1
+ตัวตั้งเวลา	1.0	t uua z^0 t a ng^2 w ee z^0 l aa z^0
+ตัวนับ	1.0	t uua z^0 n a p^1
+ตัวนำ	1.0	t uua z^0 n a m^0
+ตัวประกอบ	1.0	t uua z^0 pr a z^1 k @@ p^1
+ตัวผู้	1.0	t uua z^0 ph uu z^2
+ตัวละคร	1.0	t uua z^0 l a z^3 kh @@ n^0
+ตัวสะกด	1.0	t uua z^0 s a z^1 k o t^1
+ตัวหนอน	1.0	t uua z^0 n @@ n^0
+ตัวหนังสือ	1.0	t uua z^0 n a ng^4 s vv z^4
+ตัวอย่าง	1.0	t uua z^0 j aa ng^1
+ตัวอักษร	1.0	t uua z^0 z a k^1 s @@ n^4
+ตัวอ่อน	1.0	t uua z^0 z @@ n^1
+ตัวเมีย	1.0	t uua z^0 m iia z^0
+ตัวเมือง	1.0	t uua z^0 m vva ng^0
+ตัวเลข	1.0	t uua z^0 l ee k^2
+ตัวเอก	1.0	t uua z^0 z ee k^1
+ตัวเอง	1.0	t uua z^0 z ee ng^0
+ตัวเอ็นโค้คเดอร์	1.0	t uua z^0 z e n^0 kh oo z^2 kh d @@
+ตัวแทน	1.0	t uua z^0 th xx n^0
+ตัวแปร	1.0	t uua z^0 pr xx z^0
+ตั้ง	1.0	t a ng^2
+ตั้งฉาก	1.0	t a ng^2 ch aa k^1
+ตั้งมั่น	1.0	t a ng^2 m a n^2
+ตั้งอยู่	1.0	t a ng^2 j uu z^1
+ตั้งแต่	1.0	t a ng^2 t xx z^1
+ตั้งใจ	1.0	t a ng^2 c a j^0
+ตา	1.0	t aa z^0
+ตาก	1.0	t aa k^1
+ตาชั่ง	1.0	t aa z^0 ch a ng^2
+ตาด	1.0	t aa t^1
+ตาทัพ	1.0	t aa z^0 th a p^3
+ตาม	1.0	t aa m^0
+ตามพรลิงค์	1.0	t aa m^0 ph @@ n^0 l i ng^0
+ตามแต่	1.0	t aa m^0 t xx z^1
+ตามใจ	1.0	t aa m^0 c a j^0
+ตาย	1.0	t aa j^0
+ตายตัว	1.0	t aa j^0 t uua z^0
+ตาราง	1.0	t aa z^0 r aa ng^0
+ตำ	1.0	t a m^0
+ตำนาน	1.0	t a m^0 n aa n^0
+ตำรวจ	1.0	t a m^0 r uua t^1
+ตำรับ	1.0	t a m^0 r a p^1
+ตำรับตำรา	1.0	t a m^0 r a p^1 t a m^0 r aa z^0
+ตำรา	1.0	t a m^0 r aa z^0
+ตำหนัก	1.0	t a m^0 n a k^1
+ตำหนิ	1.0	t a m^0 n i z^1
+ตำแหน่ง	1.0	t a m^0 n x ng^1
+ติณสูลานนท์	1.0	t i n^0 n a z^3 s uu z^4 l aa z^0 n o n^0
+ติด	1.0	t i t^1
+ติดขัด	1.0	t i t^1 kh a t^1
+ติดตั้ง	1.0	t i t^1 t a ng^2
+ติดตาม	1.0	t i t^1 t aa m^0
+ติดต่อ	1.0	t i t^1 t @@ z^1
+ติดยา	1.0	t i t^1 j aa z^0
+ติเตียน	1.0	t i z^1 t iia n^0
+ตี	1.0	t ii z^0
+ตีความ	1.0	t ii z^0 khw aa m^0
+ตีน	1.0	t ii n^0
+ตีพิมพ์	1.0	t ii z^0 ph i m^0
+ตีแผ่	1.0	t ii z^0 ph xx z^1
+ตึก	1.0	t v k^1
+ตึงเครียด	1.0	t v ng^0 khr iia t^2
+ตื่น	1.0	t vv n^1
+ตื่นตัว	1.0	t vv n^1 t uua z^0
+ตื่นเต้น	1.0	t vv n^1 t e n^2
+ตื้น	1.0	t vv n^2
+ตุลาการ	1.0	t u z^1 l aa z^0 k aa n^0
+ตุลาคม	1.0	t u z^1 l aa z^0 kh o m^0
+ตุ่ม	1.0	t u m^1
+ต่อ	1.0	t @@ z^1
+ต่อจากนั้น	1.0	t @@ z^1 c aa k^1 n a n^3
+ต่อต้าน	1.0	t @@ z^1 t aa n^2
+ต่อม	1.0	t @@ m^1
+ต่อมา	1.0	t @@ z^1 m aa z^0
+ต่อรอง	1.0	t @@ z^1 r @@ ng^0
+ต่อสู้	1.0	t @@ z^1 s uu z^2
+ต่อเนื่อง	1.0	t @@ z^1 n vva ng^2
+ต่อเมื่อ	1.0	t @@ z^1 m vva z^2
+ต่อไป	1.0	t @@ z^1 p a j^0
+ต่อไปนี้	1.0	t @@ z^1 p a j^0 n ii z^3
+ต่าง	1.0	t aa ng^1
+ต่างกัน	1.0	t aa ng^1 k a n^0
+ต่างจังหวัด	1.0	t aa ng^1 c a ng^0 w a t^1
+ต่างชาติ	1.0	t aa ng^1 ch aa t^2
+ต่างประเทศ	1.0	t aa ng^1 pr a z^1 th ee t^2
+ต่างหาก	1.0	t aa ng^1 h aa k^1
+ต่างๆ	1.0	t aa ng^1 k^1
+ต่ำ	1.0	t a m^1
+ต่ำสุด	1.0	t a m^1 s u t^1
+ต้น	1.0	t o n^2
+ต้นกำเนิด	1.0	t o n^2 k a m^0 n qq t^1
+ต้นข้าว	1.0	t o n^2 kh aa w^2
+ต้นฉบับ	1.0	t o n^2 ch a z^1 b a p^1
+ต้นทุน	1.0	t o n^2 th u n^0
+ต้นน้ำ	1.0	t o n^2 n aa m^3
+ต้นเหตุ	1.0	t o n^2 h ee t^1
+ต้นแบบ	1.0	t o n^2 b xx p^1
+ต้นไม้	1.0	t o n^2 m aa j^3
+ต้ม	1.0	t m^3
+ต้วมเตี้ยม	1.0	t uua m^2 t iia m^2
+ต้อ	1.0	t @@ z^2
+ต้อง	1.0	t @ ng^2
+ต้องกัน	1.0	t @ ng^2 k a n^0
+ต้องการ	1.0	t @ ng^2 k aa n^0
+ต้องห้าม	1.0	t @ ng^2 h aa m^2
+ต้อนรับ	1.0	t @@ n^2 r a p^3
+ต้านทาน	1.0	t aa n^2 th aa n^0
+ถกเถียง	1.0	th o k^1 th iia ng^4
+ถดถอย	1.0	th o t^1 th @ j^4
+ถนน	1.0	th a z^1 n o n^4
+ถนนพระราม6	1.0	th a z^1 n o n^4 phr a z^3 r aa m^0 h o k^1
+ถนอม	1.0	th a z^1 n @@ m^4
+ถนัด	1.0	th a z^1 n a t^1
+ถลา	1.0	th a z^1 l aa z^0
+ถล่ม	1.0	th a z^1 l e m^2
+ถวาย	1.0	th a z^1 w aa j^4
+ถอน	1.0	th @@ n^4
+ถอย	1.0	th @ j^4
+ถัด	1.0	th a t^1
+ถากถาง	1.0	th aa k^1 th aa ng^4
+ถาม	1.0	th aa m^4
+ถาวร	1.0	th aa z^4 w @@ n^0
+ถิ่น	1.0	th i n^1
+ถิ่นฐาน	1.0	th i n^1 th aa n^4
+ถิ่นอาศัย	1.0	th i n^1 z aa z^0 s a j^4
+ถีบ	1.0	th ii p^1
+ถี่	1.0	th ii z^1
+ถี่ถ้วน	1.0	th ii z^1 th uua n^2
+ถึง	1.0	th v ng^4
+ถึงกระนั้น	1.0	th v ng^4 kr a z^1 n a n^3
+ถึงแม้	1.0	th v ng^4 m xx z^3
+ถึงแม้ว่า	1.0	th v ng^4 m xx z^3 w aa z^2
+ถือ	1.0	th vv z^4
+ถือกำเนิด	1.0	th vv z^4 k a m^0 n qq t^1
+ถุงพลาสติก	1.0	th u ng^0 phl aa s^3 t i k^1
+ถู	1.0	th uu z^0
+ถูก	1.0	th uu k^1
+ถูกต้อง	1.0	th uu k^1 t @ ng^2
+ถ่วง	1.0	th uua ng^1
+ถ่องแท้	1.0	th @ ng^1 th xx z^3
+ถ่านไฟฉาย	1.0	th aa n^1 f ch aa j^4
+ถ่าย	1.0	th aa j^1
+ถ่ายทอด	1.0	th aa j^1 th @@ t^2
+ถ่ายภาพ	1.0	th aa j^1 ph aa p^2
+ถ่ายเท	1.0	th aa j^1 th ee z^0
+ถ่ายแบบ	1.0	th aa j^1 b xx p^1
+ถ้วนหน้า	1.0	th uua n^2 n aa z^2
+ถ้วย	1.0	th uua j^2
+ถ้อย	1.0	th @ j^2
+ถ้อยคำ	1.0	th @ j^2 kh a m^0
+ถ้า	1.0	th aa z^2
+ถ้าหากว่า	1.0	th aa z^2 h aa k^1 w aa z^2
+ทดลอง	1.0	th o t^3 l @@ ng^0
+ทดสอบ	1.0	th o t^3 s @@ p^1
+ทดแทน	1.0	th o t^3 th xx n^0
+ทน	1.0	th o n^0
+ทนทาน	1.0	th o n^0 th aa n^0
+ทบทวน	1.0	th o p^3 th uua n^0
+ทบวง	1.0	th a z^3 b uua ng^0
+ทบวงมหาวิทยาลัย	1.0	th a z^3 b uua ng^0 m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0
+ทมยันตี	1.0	th o m^0 m a z^3 j a n^0 t ii z^0
+ทยอย	1.0	th j @@ j^0
+ทรง	1.0	s o ng^0
+ทรงกระบอก	1.0	s o ng^0 kr a z^1 b @@ k^1
+ทรงคุณวุฒิ	1.0	s o ng^0 kh u n^0 n a z^3 w u t^3
+ทรงจำ	1.0	s o ng^0 c a m^0
+ทรงตัว	1.0	s o ng^0 t uua z^0
+ทรมาน	1.0	th @@ z^0 r a z^3 m aa n^0
+ทรรศนะ	1.0	th a t^3 s a z^1 n a z^3
+ทระนง	1.0	th @@ z^0 r a z^3 n o ng^0
+ทรัพยากร	1.0	s a p^3 ph a z^3 j aa z^0 k @@ n^0
+ทรัพย์	1.0	s a p^3
+ทรัพย์สิน	1.0	s a p^3 s i n^4
+ทรานซิสเตอร์	1.0	s aa n^0 s i t^3 t qq z^2
+ทรานเฟอร์ฟังชันก์	1.0	s aa n^4 f @@ z^0 f a ng^0 ch a n^0
+ทราบ	1.0	s aa p^2
+ทราม	1.0	s aa m^0
+ทราย	1.0	s aa j^0
+ทรุด	1.0	s u t^3
+ทรูโฮล	1.0	s uu z^0 h n^0
+ทฤษฎี	1.0	thr i t^3 s a z^1 d ii z^0
+ทลาย	1.0	th a z^3 l aa j^0
+ทวน	1.0	th uua n^0
+ทวารวดี	1.0	th a z^3 w aa z^0 r a z^3 w a z^3 d ii z^0
+ทวิ	1.0	th a z^3 w i z^3
+ทวี	1.0	th a z^3 w ii z^0
+ทวีป	1.0	th a z^3 w ii p^2
+ทว่า	1.0	th a z^3 w aa z^2
+ทศท.	1.0	th @@ z^0 s @@ z^4 th @@ z^0
+ทศวรรษ	1.0	th o t^3 s a z^1 w a t^3
+ทหาร	1.0	th a z^3 h aa n^4
+ทหารบก	1.0	th a z^3 h aa n^4 b o k^1
+ทอง	1.0	th @@ ng^0
+ทองคำเปลว	1.0	th @@ ng^0 kh a m^0 pl w^0
+ทองแดง	1.0	th @@ ng^0 d xx ng^0
+ทอด	1.0	th @@ t^2
+ทอดทิ้ง	1.0	th @@ t^2 th i ng^3
+ทอน	1.0	th @@ n^0
+ทอริโอ	1.0	th @@ z^0 r i z^3 z oo z^2
+ทะนุบำรุง	1.0	th a z^3 n u z^3 b a m^0 r u ng^0
+ทะลัก	1.0	th a z^3 l a k^3
+ทะลุ	1.0	th a z^3 l u z^3
+ทะเบียน	1.0	th a z^3 b iia n^0
+ทะเยอทะยาน	1.0	th a z^3 j qq z^0 th a z^3 j aa n^0
+ทะเล	1.0	th a z^3 l ee z^0
+ทะเลจีนใต้	1.0	th a z^3 l ee z^0 c ii n^0 t aa j^2
+ทะเลทราย	1.0	th a z^3 l ee z^0 s aa j^0
+ทะเลาะ	1.0	th a z^3 l @ z^3
+ทะเลใต้	1.0	th a z^3 l t aa j^2
+ทักทาย	1.0	th a k^3 th aa j^0
+ทักษะ	1.0	th a k^3 s a z^1
+ทัน	1.0	th a n^0
+ทันที	1.0	th a n^0 th ii z^0
+ทันสมัย	1.0	th a n^0 s a z^1 m a j^4
+ทับ	1.0	th a p^3
+ทับทิม	1.0	th a p^3 th i m^0
+ทัพ	1.0	th a p^3
+ทัศนคติ	1.0	th a t^3 s a z^1 n a z^3 kh a z^3 t i z^1
+ทัศนะ	1.0	th a t^3 s a z^1 n a z^3
+ทั่ว	1.0	th uua z^2
+ทั่วถึง	1.0	th uua z^2 th v ng^4
+ทั่วโลก	1.0	th uua z^2 l oo k^2
+ทั่วไป	1.0	th uua z^2 p a j^0
+ทั่วๆไป	1.0	th uua z^2 k^1 p a j^0
+ทั้ง	1.0	th a ng^3
+ทั้งที่	1.0	th a ng^3 th ii z^2
+ทั้งนั้น	1.0	th a ng^3 n a n^3
+ทั้งนี้	1.0	th a ng^3 n ii z^3
+ทั้งปวง	1.0	th a ng^3 p uua ng^0
+ทั้งมวล	1.0	th a ng^3 m uua n^0
+ทั้งสอง	1.0	th a ng^3 s @@ ng^4
+ทั้งสิ้น	1.0	th a ng^3 s i n^2
+ทั้งหมด	1.0	th a ng^3 m o t^1
+ทั้งหลาย	1.0	th a ng^3 l aa j^4
+ทั้งแผ่น	1.0	th a ng^3 ph x n^1
+ทา	1.0	th aa z^0
+ทาง	1.0	th aa ng^0
+ทางการ	1.0	th aa ng^0 k aa n^0
+ทางปฏิบัติ	1.0	th aa ng^0 p a z^1 t i z^1 b a t^1
+ทางสายกลาง	1.0	th aa ng^0 s aa j^4 kl aa ng^0
+ทางออก	1.0	th aa ng^0 z @@ k^1
+ทางเดิน	1.0	th aa ng^0 d qq n^0
+ทางเดินหายใจ	1.0	th aa ng^0 d qq n^0 h aa j^4 c a j^0
+ทางเลือก	1.0	th aa ng^0 l vva k^2
+ทาน	1.0	th aa n^0
+ทานากะ	1.0	th aa z^0 n aa z^0 k a z^1
+ทายาท	1.0	th aa z^0 j aa t^2
+ทารก	1.0	th aa z^0 r o k^3
+ทารุณ	1.0	th aa z^0 r u n^0
+ทาส	1.0	th aa t^2
+ทำ	1.0	th a m^0
+ทำการ	1.0	th a m^0 k aa n^0
+ทำกิน	1.0	th a m^0 k i n^0
+ทำครัว	1.0	th a m^0 khr uua z^0
+ทำงาน	1.0	th a m^0 ng aa n^0
+ทำท่า	1.0	th a m^0 th aa z^2
+ทำนอง	1.0	th a m^0 n @@ ng^0
+ทำนองคลองธรรม	1.0	th a m^0 n @@ ng^0 khl @@ ng^0 th a m^0
+ทำนา	1.0	th a m^0 n aa z^0
+ทำนาย	1.0	th a m^0 n aa j^0
+ทำนุ	1.0	th a m^0 n u z^3
+ทำมาหากิน	1.0	th a m^0 m aa z^0 h aa z^4 k i n^0
+ทำมุม	1.0	th a m^0 m u m^0
+ทำร้าย	1.0	th a m^0 r aa j^3
+ทำลาย	1.0	th a m^0 l aa j^0
+ทำลายล้าง	1.0	th a m^0 l aa j^0 l aa ng^3
+ทำหน้าที่	1.0	th a m^0 n aa z^2 th ii z^2
+ทำเล	1.0	th a m^0 l ee z^0
+ทำใจ	1.0	th a m^0 c a j^0
+ทำให้	1.0	th a m^0 h a j^2
+ทำไม	1.0	th a m^0 m a j^0
+ทิศ	1.0	th i t^3
+ทิศทาง	1.0	th i t^3 th aa ng^0
+ทิ้ง	1.0	th i ng^3
+ที	1.0	th ii z^0
+ทีท่า	1.0	th ii z^0 th aa z^2
+ทีนี้	1.0	th ii z^0 n ii z^3
+ทีม	1.0	th ii m^0
+ทีละ	1.0	th ii z^0 l a z^3
+ทีเดียว	1.0	th ii z^0 d iia w^0
+ที่	1.0	th ii z^2
+ที่1	1.0	th ii z^2 ng^1
+ที่จะ	1.0	th ii z^2 c a z^1
+ที่ชัง	1.0	th ii z^2 ch a ng^0
+ที่ดิน	1.0	th ii z^2 d i n^0
+ที่ทำการ	1.0	th ii z^2 th a m^0 k aa n^0
+ที่ทำงาน	1.0	th ii z^2 th a m^0 ng aa n^0
+ที่นั่น	1.0	th ii z^2 n a n^2
+ที่นี่	1.0	th ii z^2 n ii z^2
+ที่นี้	1.0	th ii z^2 n ii z^3
+ที่ประชุม	1.0	th ii z^2 pr a z^1 ch u m^0
+ที่ปรึกษา	1.0	th ii z^2 pr v k^1 s aa z^4
+ที่พึ่ง	1.0	th ii z^2 ph v ng^2
+ที่พึ่งพิง	1.0	th ii z^2 ph v ng^2 ph i ng^0
+ที่มั่น	1.0	th ii z^2 m a n^2
+ที่มา	1.0	th ii z^2 m aa z^0
+ที่รัก	1.0	th ii z^2 r a k^3
+ที่สุด	1.0	th ii z^2 s u t^1
+ที่หมาย	1.0	th ii z^2 m aa j^4
+ที่อยู่	1.0	th ii z^2 j uu z^1
+ที่แล้ว	1.0	th ii z^2 l xx w^3
+ทึบ	1.0	th v p^1
+ทึมๆ	1.0	th v m^0 k^1
+ทึ่ง	1.0	th v ng^2
+ทุก	1.0	th u k^3
+ทุกขัง	1.0	th u k^3 a ng^0
+ทุกข์	1.0	th u k^3
+ทุกข์ร้อน	1.0	th u k^3 r @@ n^3
+ทุกคน	1.0	th u k^3 kh o n^0
+ทุกที	1.0	th u k^3 th ii z^0
+ทุกวัน	1.0	th u k^3 w a n^0
+ทุกวันนี้	1.0	th u k^3 w a n^0 n ii z^3
+ทุกสิ่ง	1.0	th u k^3 s i ng^1
+ทุกอย่าง	1.0	th u k^3 j aa ng^1
+ทุจริต	1.0	th u t^3 c a z^1 r i t^1
+ทุติยภูมิ	1.0	th u z^3 t i z^1 j a z^3 ph uu m^0
+ทุน	1.0	th u n^0
+ทุนทรัพย์	1.0	th u n^0 n a z^3 s a p^3
+ทุนนิยม	1.0	th u n^0 n i z^3 j o m^0
+ทุนเดิม	1.0	th u n^0 d qq m^0
+ทุ่ง	1.0	th u ng^2
+ทุ่ม	1.0	th u m^2
+ทุ่มเท	1.0	th u m^2 th ee z^0
+ทูต	1.0	th uu t^2
+ทูน่า	1.0	th uu n aa z^2
+ท่วมท้น	1.0	th uua m^2 th o n^3
+ท่อ	1.0	th @@ z^2
+ท่องเที่ยว	1.0	th @ ng^2 th iia w^2
+ท่อแก้ว	1.0	th @@ z^2 k xx w^2
+ท่าทาง	1.0	th aa z^2 th aa ng^0
+ท่าที	1.0	th aa z^2 th ii z^0
+ท่าน	1.0	th a n^2
+ท่าม	1.0	th aa m^2
+ท่ามกลาง	1.0	th aa m^2 kl aa ng^0
+ท่าเรือ	1.0	th aa z^2 r vva z^0
+ท้วงติง	1.0	th uua ng^3 t i ng^0
+ท้อง	1.0	th @@ ng^3
+ท้องถิ่น	1.0	th @@ ng^3 th i n^1
+ท้องที่	1.0	th @@ ng^3 th ii z^2
+ท้องอืด	1.0	th @@ ng^3 z vv t^2
+ท้องเฟ้อ	1.0	th @@ ng^3 f @@ z^2
+ท้องเรื่อง	1.0	th @@ ng^3 r vva ng^2
+ท้อถอย	1.0	th @@ z^3 th @ j^4
+ท้าทาย	1.0	th aa z^3 th aa j^0
+ท้าย	1.0	th aa j^3
+ท้าว	1.0	th aa w^3
+ธนบัตร	1.0	th a z^3 n a z^3 b a t^1
+ธนาคาร	1.0	th a z^3 n aa z^0 kh aa n^0
+ธรณีประตู	1.0	th @@ z^0 r a z^3 n ii z^0 pr a z^1 t uu z^0
+ธรรม	1.0	th a m^0
+ธรรมชาติ	1.0	th a m^0 m a z^3 ch aa t^2
+ธรรมดา	1.0	th a m^0 m a z^3 d aa z^0
+ธรรมนูญ	1.0	th a m^0 m a z^3 n uu n^0
+ธรรมราชา	1.0	th a m^0 m a z^3 r aa z^0 ch aa z^0
+ธรรมราชาลิไท	1.0	th a m^0 m a z^3 r aa z^0 ch aa z^0 l i z^3 th a j^0
+ธรรมศาสตร์	1.0	th a m^0 m a z^3 s aa t^1
+ธรรมะ	1.0	th a m^0 m a z^3
+ธรรมเนียม	1.0	th a m^0 n iia m^0
+ธวาณัติก์	1.0	th a z^3 w aa z^0 n a t^3
+ธัญญาหาร	1.0	th a n^0 j aa z^0 h aa n^4
+ธันวาคม	1.0	th a n^0 w aa z^0 kh o m^0
+ธาตุ	1.0	th aa t^2
+ธาร	1.0	th aa n^0
+ธิดา	1.0	th i z^3 d aa z^0
+ธีระสวัสดิ์	1.0	th ii z^0 r a z^3 s a z^1 w a t^1
+ธุรกิจ	1.0	th u z^3 r a z^3 k i t^1
+ธุระ	1.0	th u z^3 r a z^3
+ธุลี	1.0	th u z^3 l ii z^0
+ธูป	1.0	th uu p^2
+น.	1.0	n @@ z^0
+น.ส.	1.0	n @@ z^4 s @@ z^4
+นก	1.0	n o k^3
+นคร	1.0	n a z^3 kh @@ n^0
+นครนายก	1.0	n a z^3 kh @@ n^0 n aa z^0 j o k^3
+นครบาล	1.0	n a z^3 kh @@ n^0 b aa n^0
+นครศรีธรรมราช	1.0	n a z^3 kh @@ n^0 s ii z^4 th a m^0 m a z^3 r aa t^2
+นม	1.0	n o m^0
+นมนาน	1.0	n o m^0 n aa n^0
+นราธิวาส	1.0	n a z^3 r aa z^0 th i z^3 w aa t^2
+นริศรา	1.0	n a z^3 r i t^3 s a z^1 r aa z^0
+นริศรานุวัดติวงศ์	1.0	n a z^3 r i t^3 s a z^1 r aa z^0 n u z^3 w a t^3 t i z^1 w o ng^0
+นวด	1.0	n uua t^1
+นวนิยาย	1.0	n a z^3 w a z^3 n i z^3 j aa j^0
+นอ	1.0	n @@ z^0
+นอก	1.0	n @@ k^2
+นอกจาก	1.0	n @@ k^2 c aa k^1
+นอกจากนั้น	1.0	n @@ k^2 c aa k^1 n a n^3
+นอกจากนี้	1.0	n @@ k^2 c aa k^1 n ii z^3
+นอกชาน	1.0	n @@ k^2 ch aa n^0
+นอกทาง	1.0	n @@ k^2 th aa ng^0
+นอกลู่	1.0	n @@ k^2 l uu z^2
+นอกเหนือ	1.0	n @@ k^2 n vva z^4
+นองเลือด	1.0	n @@ ng^0 l vva t^2
+นอน	1.0	n @@ n^0
+นอนหลับ	1.0	n @@ n^0 l a p^1
+นอบน้อม	1.0	n @@ p^2 n @@ m^3
+นะ	1.0	n a z^3
+นัก	1.0	n a k^3
+นักการเมือง	1.0	n a k^3 k aa n^0 m vva ng^0
+นักจิตวิทยา	1.0	n a k^3 c i t^1 t a z^1 w i t^3 th a z^3 j aa z^0
+นักดนตรี	1.0	n a k^3 d o n^0 tr ii z^0
+นักท่องเที่ยว	1.0	n a k^3 th @ ng^2 th iia w^2
+นักธรรม	1.0	n a k^3 th a m^0
+นักธุรกิจ	1.0	n a k^3 th u z^3 r a z^3 k i t^1
+นักบิน	1.0	n a k^3 b i n^0
+นักปราชญ์	1.0	n a k^3 pr aa t^1
+นักมวย	1.0	n a k^3 m uua j^0
+นักมานุษยวิทยา	1.0	n a k^3 m aa z^0 n u t^3 s a z^1 j a z^3 w i t^3 th a z^3 j aa z^0
+นักรบ	1.0	n a k^3 r o p^3
+นักร้อง	1.0	n a k^3 r @@ ng^3
+นักลงทุน	1.0	n a k^3 l o ng^0 th u n^0
+นักวิจัย	1.0	n a k^3 w i z^3 c a j^0
+นักวิจารณ์	1.0	n a k^3 w i z^3 c aa n^0
+นักวิชาการ	1.0	n a k^3 w i z^3 ch aa z^0 k aa n^0
+นักวิทยาศาสตร์	1.0	n a k^3 w i t^3 th a z^3 j aa z^0 s aa t^1
+นักศึกษา	1.0	n a k^3 s v k^1 s aa z^4
+นักหนา	1.0	n a k^3 n aa z^4
+นักอ่าน	1.0	n a k^3 z aa n^1
+นักเขียน	1.0	n a k^3 kh iia n^4
+นักเรียน	1.0	n a k^3 r iia n^0
+นักโทษ	1.0	n a k^3 th oo t^2
+นัด	1.0	n a t^3
+นัดหมาย	1.0	n a t^3 m aa j^4
+นับ	1.0	n a p^3
+นับถือ	1.0	n a p^3 th vv z^4
+นับวัน	1.0	n a p^3 w a n^0
+นับแต่	1.0	n a p^3 t xx z^1
+นัย	1.0	n a j^0
+นัยสำคัญ	1.0	n a j^0 j a z^3 s a m^4 kh a n^0
+นั่ง	1.0	n a ng^2
+นั่น	1.0	n a n^2
+นั่นเอง	1.0	n a n^2 z ee ng^0
+นั้น	1.0	n a n^3
+นา	1.0	n aa z^0
+นาค	1.0	n aa k^2
+นาง	1.0	n aa ng^0
+นางนวลแกลบ	1.0	n aa ng^0 n uua n^0 kl o p^1
+นางเอก	1.0	n aa ng^0 z ee k^1
+นาจิบุลลาห์	1.0	n aa z^0 c i z^1 b u n^0 l aa z^0
+นาฏศิลป์	1.0	n aa t^2 t a z^1 s i n^4
+นาที	1.0	n aa z^0 th ii z^0
+นาน	1.0	n aa n^0
+นานา	1.0	n aa z^0 n aa z^0
+นานาชาติ	1.0	n aa z^0 n aa z^0 ch aa t^2
+นาปรัง	1.0	n aa z^0 pr a ng^0
+นาม	1.0	n aa m^0
+นามธรรม	1.0	n aa m^0 m a z^3 th a m^0
+นาย	1.0	n aa j^0
+นายก	1.0	n aa z^0 j o k^3
+นายกรัฐมนตรี	1.0	n aa z^0 j o k^3 r a t^3 th a z^1 m o n^0 tr ii z^0
+นายจ้าง	1.0	n aa j^0 c aa ng^2
+นายทหาร	1.0	n aa j^0 th a z^3 h aa n^4
+นายทุน	1.0	n aa j^0 th u n^0
+นายพล	1.0	n aa j^0 ph o n^0
+นายร้อย	1.0	n aa j^0 r @@ j^3
+นายแพทย์	1.0	n aa j^0 ph xx t^2
+นาฬิกา	1.0	n aa z^0 l i z^1 k aa z^0
+นำ	1.0	n a m^0
+นำทาง	1.0	n a m^0 th aa ng^0
+นำมา	1.0	n a m^0 m aa z^0
+นำเข้า	1.0	n a m^0 kh a w^2
+นำเสนอ	1.0	n a m^0 s a z^1 n qq z^4
+นำเอา	1.0	n a m^0 z a w^0
+นิกร	1.0	n i z^3 k @@ n^0
+นิกสัน	1.0	n i k^3 s a n^4
+นิกส์	1.0	n i k^3
+นิกเกิล	1.0	n i k^3 k qq w^0
+นิคม	1.0	n i z^3 kh o m^0
+นิด	1.0	n i t^3
+นิดหน่อย	1.0	n i t^3 n @ j^1
+นิดเดียว	1.0	n i t^3 d iia w^0
+นิตยา	1.0	n i z^3 t a z^1 j aa z^0
+นิติบัญญัติ	1.0	n i z^3 t i z^1 b a n^0 j a t^1
+นิติภาวะ	1.0	n i z^3 t i z^1 ph aa z^0 w a z^3
+นิติศาสตร์	1.0	n i z^3 t i z^1 s aa t^1
+นิทรรศการ	1.0	n i z^3 th a t^3 s a z^1 k aa n^0
+นิทาน	1.0	n i z^3 th aa n^0
+นิธิ	1.0	n i z^3 th i z^3
+นิพนธ์	1.0	n i z^3 ph o n^0
+นิพพาน	1.0	n i p^3 ph aa n^0
+นิมนต์	1.0	n i z^3 m o n^0
+นิมิตหมาย	1.0	n i z^3 m i t^3 m aa j^4
+นิยม	1.0	n i z^3 j o m^0
+นิยาม	1.0	n i z^3 j aa m^0
+นิยาย	1.0	n i z^3 j aa j^0
+นิรันดร์	1.0	n i z^3 r a n^0
+นิรันศักดิ์	1.0	n i z^3 r a n^0 s a k^1
+นิราศ	1.0	n i z^3 r aa t^2
+นิลาพาร์วาทาลูเยนส์	1.0	n i z^3 l aa z^0 ph aa w aa z^0 th aa z^0 l uu z^0 j ee n^0
+นิวยอร์ค	1.0	n i w^0 j @@ k^1
+นิวเคลียร์	1.0	n i w^0 khl iia
+นิสัย	1.0	n i z^3 s a j^4
+นิสิต	1.0	n i z^3 s i t^1
+นิเวศวิทยา	1.0	n i z^3 w ee t^2 w i t^3 th a z^3 j aa z^0
+นิแวเต๊ะ	1.0	n i z^3 w^3 t o z^3
+นิ่ง	1.0	n i ng^2
+นี่	1.0	n ii z^2
+นี่เอง	1.0	n ii z^2 z ee ng^0
+นี่แหละ	1.0	n ii z^2 l x z^1
+นี้	1.0	n ii z^3
+นึก	1.0	n v k^3
+นึกคิด	1.0	n v k^3 kh i t^3
+นึกถึง	1.0	n v k^3 th v ng^4
+นุกูล	1.0	n u z^3 k uu n^0
+นุวัดติวงศ์	1.0	n u z^3 w a t^3 t i z^1 w o ng^0
+นุ่ง	1.0	n u ng^2
+นุ่มนวล	1.0	n u m^2 n uua n^0
+นุ่มนิ่ม	1.0	n u m^2 n i m^2
+นเรศวร	1.0	n a z^3 r ee z^0 s uua n^4
+นโยบาย	1.0	n a z^3 j oo z^0 b aa j^0
+น่ะ	1.0	n a z^2
+น่า	1.0	n aa z^2
+น่ากลัว	1.0	n aa z^2 kl uua z^0
+น่าคิด	1.0	n aa z^2 kh i t^3
+น่าจะ	1.0	n aa z^2 c a z^1
+น่าดู	1.0	n aa z^2 d uu z^0
+น่าฟัง	1.0	n aa z^2 f a ng^0
+น่ารัก	1.0	n aa z^2 r a k^3
+น้อง	1.0	n @@ ng^3
+น้อม	1.0	n @@ m^3
+น้อย	1.0	n @@ j^3
+น้อยลง	1.0	n @@ j^3 l o ng^0
+น้อยเนื้อต่ำใจ	1.0	n @@ j^3 n vva z^3 t a m^1 c a j^0
+น้า	1.0	n aa z^3
+น้ำ	1.0	n aa m^3
+น้ำกาม	1.0	n aa m^3 k aa m^0
+น้ำดื่ม	1.0	n aa m^3 d vv m^1
+น้ำตาล	1.0	n aa m^3 t aa n^0
+น้ำท่า	1.0	n aa m^3 th aa z^2
+น้ำมัน	1.0	n aa m^3 m a n^0
+น้ำมันดิบ	1.0	n aa m^3 m a n^0 d i p^1
+น้ำลาย	1.0	n aa m^3 l aa j^0
+น้ำหนัก	1.0	n aa m^3 n a k^1
+น้ำหนึ่ง	1.0	n aa m^3 n v ng^1
+น้ำเสีย	1.0	n aa m^3 s iia z^4
+น้ำเสียง	1.0	n aa m^3 s iia ng^4
+น้ำใจ	1.0	n aa m^3 c a j^0
+บก	1.0	b o k^1
+บก.	1.0	b @@ z^0 k @@ z^0
+บกพร่อง	1.0	b o k^1 phr @@ ng^2
+บงการ	1.0	b o ng^0 k aa n^0
+บท	1.0	b o t^1
+บทความ	1.0	b o t^1 khw aa m^0
+บทบัญญัติ	1.0	b o t^1 b a n^0 j a t^1
+บทบาท	1.0	b o t^1 b aa t^1
+บทเรียน	1.0	b o t^1 r iia n^0
+บน	1.0	b o n^0
+บรมครู	1.0	b @@ z^0 r o m^0 m a z^3 khr uu z^0
+บรมวงศ์เธอ	1.0	b @@ z^0 r o m^0 m a z^3 w o ng^0 th qq z^0
+บรรจบ	1.0	b a n^0 c o p^1
+บรรจุ	1.0	b a n^0 c u z^1
+บรรณารักษ์	1.0	b a n^0 n a w^0 r a k^3
+บรรดา	1.0	b a n^0 d aa z^0
+บรรทัด	1.0	b a n^0 th a t^3
+บรรพชน	1.0	b a n^0 ph a z^3 ch o n^0
+บรรพบุรุษ	1.0	b a n^0 ph a z^3 b u z^1 r u t^1
+บรรยากาศ	1.0	b a n^0 j aa z^0 k aa t^1
+บรรยาย	1.0	b a n^0 j aa j^0
+บรรลุ	1.0	b a n^0 l u z^3
+บรรษัท	1.0	b a n^0 s a t^1
+บรรเทา	1.0	b a n^0 th a w^0
+บรรเลง	1.0	b a n^0 l ee ng^0
+บริการ	1.0	b @@ z^0 r i z^3 k aa n^0
+บริจาค	1.0	b @@ z^0 r i z^3 c aa k^1
+บริบท	1.0	b @@ z^0 r i z^3 b o t^1
+บริบูรณ์	1.0	b @@ z^0 r i z^3 b uu n^0
+บริวาร	1.0	b @@ z^0 r i z^3 w aa n^0
+บริษัท	1.0	b @@ z^0 r i z^3 s a t^1
+บริสุทธิ์	1.0	b @@ z^0 r i z^3 s u t^1
+บริหาร	1.0	b @@ z^0 r i z^3 h aa n^4
+บริเวณ	1.0	b @@ z^0 r i z^3 w ee n^0
+บริโภค	1.0	b @@ z^0 r i z^3 ph oo k^2
+บล็อก	1.0	bl @ k^3
+บล็อค	1.0	bl @ k^3
+บล๊อค	1.0	bl k^3
+บล๊อคโมเสด	1.0	bl e k^3 m^0 s o t^1
+บล๊อคไดอะแกรม	1.0	bl k^3 z^2 d q z^3 kr x m^0
+บวก	1.0	b uua k^1
+บวช	1.0	b uua t^1
+บวรนิเวศน์	1.0	b @@ z^0 w @@ n^0 n i z^3 w ee t^2
+บวรศักดิ์	1.0	b a z^1 w @@ n^0 s a k^1
+บอก	1.0	b @@ k^1
+บอกเล่า	1.0	b @@ k^1 l a w^2
+บอกใบ้	1.0	b @@ k^1 b a j^2
+บอด	1.0	b @@ t^1
+บอริส	1.0	b @@ z^0 r i t^3
+บอแรกซ์	1.0	b @@ z^0 r xx k^2
+บัคเตรี	1.0	b a k^1 t ee z^0 r ii z^0
+บังคับ	1.0	b a ng^0 kh a p^3
+บังคับการ	1.0	b a ng^0 kh a p^3 k aa n^0
+บังคับบัญชา	1.0	b a ng^0 kh a p^3 b a n^0 ch aa z^0
+บังอาจ	1.0	b a ng^0 z aa t^1
+บังเกิด	1.0	b a ng^0 k qq t^1
+บังเอิญ	1.0	b a ng^0 z qq n^0
+บัญชร	1.0	b a n^0 ch @@ n^0
+บัญชาการ	1.0	b a n^0 ch aa z^0 k aa n^0
+บัญชี	1.0	b a n^0 ch ii z^0
+บัญชีเดินสะพัด	1.0	b a n^0 ch ii z^0 d qq n^0 s a z^1 ph a t^3
+บัญญัติ	1.0	b a n^0 j a t^1
+บัญญัติศัพท์	1.0	b a n^0 j a t^1 s a p^1
+บัณฑิต	1.0	b a n^0 d i t^1
+บัดนั้น	1.0	b a t^1 n a n^3
+บัดนี้	1.0	b a t^1 n ii z^3
+บัตร	1.0	b a t^1
+บันดาล	1.0	b a n^0 d aa n^0
+บันทึก	1.0	b a n^0 th v k^3
+บันทึกภาพ	1.0	b a n^0 th v k^3 k a z^1 ph aa p^2
+บันเทิง	1.0	b a n^0 th qq ng^0
+บันได	1.0	b a n^0 d a j^0
+บัว	1.0	b uua z^0
+บัวหลวง	1.0	b uua z^0 l uua ng^4
+บั้นปลาย	1.0	b a n^2 pl aa j^0
+บั้นเอว	1.0	b a n^2 z ee w^4
+บาง	1.0	b aa ng^0
+บางครั้ง	1.0	b aa ng^0 khr a ng^3
+บางที	1.0	b aa ng^0 th ii z^0
+บางๆ	1.0	b aa ng^0 k^1
+บาดเจ็บ	1.0	b aa t^1 c e p^1
+บาท	1.0	b aa t^1
+บาน	1.0	b aa n^0
+บานประตู	1.0	b aa n^1 pr a z^1 t uu z^0
+บาป	1.0	b aa p^1
+บารมี	1.0	b aa z^0 r a z^3 m ii z^0
+บาลี	1.0	b aa z^0 l ii z^0
+บาหลี	1.0	b aa z^0 l ii z^4
+บำบัด	1.0	b a m^0 b a t^1
+บำรุง	1.0	b a m^0 r u ng^0
+บำเพ็ญ	1.0	b a m^0 ph e n^0
+บำเหน็จ	1.0	b a m^0 n e t^1
+บิณฑบาต	1.0	b i n^0 th a z^3 b aa t^1
+บิดา	1.0	b i z^1 d aa z^0
+บิดเบือน	1.0	b i t^1 b vva n^0
+บิน	1.0	b i n^0
+บีบ	1.0	b ii p^1
+บีบคั้น	1.0	b ii p^1 kh a n^3
+บีบบังคับ	1.0	b ii p^1 b a ng^0 kh a p^3
+บึง	1.0	b v ng^0
+บึ้งตึง	1.0	b v ng^3 t v ng^0
+บุก	1.0	b u k^1
+บุกรุก	1.0	b u k^1 r u k^3
+บุกเบิก	1.0	b u k^1 b qq k^1
+บุคคล	1.0	b u k^1 kh o n^0
+บุคคลากร	1.0	b u k^1 kh a z^3 l aa z^0 k @@ n^0
+บุคลากร	1.0	b u k^1 kh a z^3 l aa z^0 k @@ n^0
+บุคลิก	1.0	b u k^1 kh a z^3 l i k^3
+บุคลิกภาพ	1.0	b u k^1 kh a z^3 l i k^3 k a z^1 ph aa p^2
+บุคลิกลักษณะ	1.0	b u k^1 kh a z^3 l i k^3 l a k^3 s a z^1 n a z^1
+บุช	1.0	b u ch^3
+บุญ	1.0	b u n^0
+บุญชู	1.0	b u n^0 ch uu z^0
+บุตร	1.0	b u t^1
+บุตรศรี	1.0	b u t^1 s ii z^4
+บุพกาล	1.0	b u p^1 ph a z^3 k aa n^0
+บุรุษ	1.0	b u z^1 r u t^1
+บุหงามงคล	1.0	b u z^1 ng a w^0 m o ng^0 kh o n^0
+บุหรี่	1.0	b u z^1 r ii z^1
+บูชา	1.0	b uu z^0 ch aa z^0
+บูรณปกรณ์	1.0	b uu z^0 r a z^3 n a z^3 p a z^1 k @@ n^0
+บูรณภาพ	1.0	b uu z^0 r a z^3 n a z^3 ph aa p^2
+บูรณะ	1.0	b uu z^0 r a z^3 n a z^3
+บูรณาการ	1.0	b uu z^0 r a z^3 n aa z^0 k aa n^0
+บ่	1.0	b @@ z^1
+บ่ง	1.0	b o ng^1
+บ่งชี้	1.0	b o ng^1 ch ii z^3
+บ่งถึง	1.0	b o ng^1 th v ng^4
+บ่งบอก	1.0	b o ng^1 b @@ k^1
+บ่น	1.0	b o n^1
+บ่นว่า	1.0	b o n^1 w aa z^2
+บ่อ	1.0	b @@ z^1
+บ่อย	1.0	b @@ j^1
+บ่อยครั้ง	1.0	b @@ j^1 khr a ng^3
+บ่อยๆ	1.0	b @@ j^1 k^1
+บ่อเกิด	1.0	b @@ z^1 k qq t^1
+บ่าย	1.0	b aa j^1
+บ้า	1.0	b aa z^2
+บ้าง	1.0	b aa ng^2
+บ้าน	1.0	b aa n^2
+บ้านเชียง	1.0	b aa n^2 ch iia ng^0
+บ้านเมือง	1.0	b aa n^2 m vva ng^0
+บ้านเรือน	1.0	b aa n^2 r vva n^0
+ป.	1.0	p @@ z^0
+ปก	1.0	p o k^1
+ปกครอง	1.0	p o k^1 khr @@ ng^0
+ปกติ	1.0	p o k^1 k a z^1 t i z^1
+ปกป้อง	1.0	p o k^1 p @ ng^2
+ปฏิกิริยา	1.0	p a z^1 t i z^1 k i z^1 r i z^3 j aa z^0
+ปฏิชีวนะ	1.0	p a z^1 t i z^1 ch ii z^0 w a z^3 n a z^3
+ปฏิญาณ	1.0	p a z^1 t i z^1 j aa n^0
+ปฏิทิน	1.0	p a z^1 t i z^1 th i n^0
+ปฏิบัติ	1.0	p a z^1 t i z^1 b a t^1
+ปฏิบัติการ	1.0	p a z^1 t i z^1 b a t^1 k aa n^0
+ปฏิบัติงาน	1.0	p a z^1 t i z^1 b a t^1 ng aa n^0
+ปฏิบัติธรรม	1.0	p a z^1 t i z^1 b a t^1 th a m^0
+ปฏิปักษ์	1.0	p a z^1 t i z^1 p a k^1
+ปฏิรูป	1.0	p a z^1 t i z^1 r uu p^2
+ปฏิวัติ	1.0	p a z^1 t i z^1 w a t^3
+ปฏิสัมพันธ์	1.0	p a z^1 t i z^1 s a m^4 ph a n^0
+ปฏิเสธ	1.0	p a z^1 t i z^1 s ee t^1
+ปฐมภูมิ	1.0	p a z^1 th o m^4 ph uu m^0
+ปน	1.0	p o n^0
+ปมด้อย	1.0	p o m^0 d @ j^2
+ปรก	1.0	pr o k^1
+ปรกติ	1.0	pr o k^1 k a z^1 t i z^1
+ปรปักษ์	1.0	p @@ z^0 r a z^3 p a k^1
+ปรมาจารย์	1.0	p @@ z^0 r a z^3 m aa z^0 c aa n^0
+ปรมาณู	1.0	p @@ z^0 r a z^3 m aa z^0 n uu z^0
+ปรองดอง	1.0	pr @@ ng^0 d @@ ng^0
+ประกอบ	1.0	pr a z^1 k @@ p^1
+ประกอบการ	1.0	pr a z^1 k @@ p^1 k aa n^0
+ประกอบด้วย	1.0	pr a z^1 k @@ p^1 d uua j^2
+ประกัน	1.0	pr a z^1 k a n^0
+ประการ	1.0	pr a z^1 k aa n^0
+ประกาศ	1.0	pr a z^1 k aa t^1
+ประคบ	1.0	pr a z^1 kh o p^3
+ประคับประคอง	1.0	pr a z^1 kh a p^3 pr a z^1 kh @@ ng^0
+ประจวบเหมาะ	1.0	pr a z^1 c uua p^1 m @ z^1
+ประจักษ์	1.0	pr a z^1 c a k^1
+ประจักษ์แจ้ง	1.0	pr a z^1 c a k^1 c xx ng^2
+ประจำ	1.0	pr a z^1 c a m^0
+ประจำการ	1.0	pr a z^1 c a m^0 k aa n^0
+ประจำตัว	1.0	pr a z^1 c a m^0 t uua z^0
+ประจำปี	1.0	pr a z^1 c a m^0 p ii z^0
+ประจำวัน	1.0	pr a z^1 c a m^0 w a n^0
+ประจุ	1.0	pr a z^1 c u z^1
+ประชวร	1.0	pr a z^1 ch uua n^0
+ประชา	1.0	pr a z^1 ch aa z^0
+ประชากร	1.0	pr a z^1 ch aa z^0 k @@ n^0
+ประชาคม	1.0	pr a z^1 ch aa z^0 kh o m^0
+ประชาชน	1.0	pr a z^1 ch aa z^0 ch o n^0
+ประชาชาติ	1.0	pr a z^1 ch aa z^0 ch aa t^2
+ประชาธิปัตย์	1.0	pr a z^1 ch aa z^0 th i z^3 p a t^1
+ประชาธิปไตย	1.0	pr a z^1 ch aa z^0 th i p^3 p a z^1 t a j^0
+ประชาราษฎร์	1.0	pr a z^1 ch aa z^0 r aa t^2
+ประชาสัมพันธ์	1.0	pr a z^1 ch aa z^0 s a m^4 ph a n^0
+ประชุม	1.0	pr a z^1 ch u m^0
+ประณาม	1.0	pr a z^1 n aa m^0
+ประณีต	1.0	pr a z^1 n ii t^2
+ประดับ	1.0	pr a z^1 d a p^1
+ประดิษฐ์	1.0	pr a z^1 d i t^1
+ประติมากร	1.0	pr a z^1 t i z^1 m aa z^0 k @@ n^0
+ประติมากรรม	1.0	pr a z^1 t i z^1 m aa z^0 k a m^0
+ประตู	1.0	pr a z^1 t uu z^0
+ประถม	1.0	pr a z^1 th o m^4
+ประถมศึกษา	1.0	pr a z^1 th o m^4 s v k^1 s aa z^4
+ประทับ	1.0	pr a z^1 th a p^3
+ประทับใจ	1.0	pr a z^1 th a p^3 c a j^0
+ประทาน	1.0	pr a z^1 th aa n^0
+ประทุษร้าย	1.0	pr a z^1 th u t^3 s a z^1 r aa j^3
+ประท้วง	1.0	pr a z^1 th uua ng^3
+ประธาน	1.0	pr a z^1 th aa n^0
+ประธานาธิบดี	1.0	pr a z^1 th aa z^0 n aa z^0 th i p^3 b @@ z^0 d ii z^0
+ประนีประนอม	1.0	pr a z^1 n ii z^0 pr a z^1 n @@ m^0
+ประปา	1.0	pr a z^1 p aa z^0
+ประพฤติ	1.0	pr a z^1 phr v t^3 t i z^1
+ประพันธ์	1.0	pr a z^1 ph a n^0
+ประพาส	1.0	pr a z^1 ph aa t^2
+ประมง	1.0	pr a z^1 m o ng^0
+ประมวล	1.0	pr a z^1 m uua n^0
+ประมวลผล	1.0	pr a z^1 m uua n^0 ph o n^4
+ประมาณ	1.0	pr a z^1 m aa n^0
+ประมาท	1.0	pr a z^1 m aa t^1
+ประมุข	1.0	pr a z^1 m u k^3
+ประมูล	1.0	pr a z^1 m uu n^0
+ประยุกต์	1.0	pr a z^1 j u k^3
+ประวัติ	1.0	pr a z^1 w a t^1
+ประวัติการณ์	1.0	pr a z^1 w a t^1 k aa n^0
+ประวัติศาสตร์	1.0	pr a z^1 w a t^1 s aa t^1
+ประสงค์	1.0	pr a z^1 s o ng^4
+ประสบ	1.0	pr a z^1 s o p^1
+ประสบการณ์	1.0	pr a z^1 s o p^1 k aa n^0
+ประสม	1.0	pr a z^1 s o m^4
+ประสาท	1.0	pr a z^1 s aa t^1
+ประสาน	1.0	pr a z^1 s aa n^4
+ประสานงาน	1.0	pr a z^1 s aa n^4 ng aa n^0
+ประสาร	1.0	pr a z^1 s aa n^4
+ประสิทธิผล	1.0	pr a z^1 s i t^1 th i z^3 ph o n^4
+ประสิทธิภาพ	1.0	pr a z^1 s i t^1 th i z^3 ph aa p^2
+ประหยัด	1.0	pr a z^1 j a t^1
+ประหลาด	1.0	pr a z^1 l aa t^1
+ประหัตประหาร	1.0	pr a z^1 h a t^1 pr a z^1 h aa n^4
+ประเด็น	1.0	pr a z^1 d e n^0
+ประเทศ	1.0	pr a z^1 th ee t^2
+ประเทศที่พัฒนาแล้ว	1.0	pr a z^1 th ee t^2 th ii z^2 ph a t^3 th a z^3 n aa z^0 l xx w^3
+ประเทศราช	1.0	pr a z^1 th ee t^2 s a z^1 r aa t^1
+ประเทศไทย	1.0	pr a z^1 th ee t^2 th a j^0
+ประเพณี	1.0	pr a z^1 ph ee z^0 n ii z^0
+ประเภท	1.0	pr a z^1 ph ee t^2
+ประเมิน	1.0	pr a z^1 m qq n^0
+ประเมินผล	1.0	pr a z^1 m qq n^0 ph o n^4
+ประเสริฐ	1.0	pr a z^1 s qq t^1
+ประโยค	1.0	pr a z^1 j oo k^1
+ประโยคความเดียว	1.0	pr a z^1 j oo k^1 khw aa m^0 d iia w^0
+ประโยชน์	1.0	pr a z^1 j oo t^1
+ปรัชญา	1.0	pr a t^1 j aa z^0
+ปรับ	1.0	pr a p^1
+ปรับปรุง	1.0	pr a p^1 pr u ng^0
+ปรากฎ	1.0	pr aa z^0 k o t^1
+ปรากฏ	1.0	pr aa z^0 k o t^1
+ปรากฏการณ์	1.0	pr aa z^1 k o t^1 t a z^1 k aa n^0
+ปราจีนบุรี	1.0	pr aa z^0 c ii n^0 b u z^1 r ii z^0
+ปราบ	1.0	pr aa p^1
+ปราบปราม	1.0	pr aa p^1 pr aa m^0
+ปรารถนา	1.0	pr aa t^1 th a z^1 n aa z^4
+ปราศจาก	1.0	pr aa t^1 s a z^1 c aa k^1
+ปราศรัย	1.0	pr aa z^0 s a j^4
+ปราสาท	1.0	pr aa z^0 s aa t^1
+ปราโมช	1.0	pr aa z^0 m oo t^2
+ปราโมทย์	1.0	pr aa z^0 m oo t^2
+ปริจเฉท	1.0	p a z^1 r i t^3 ch ee t^1
+ปริญญา	1.0	p a z^1 r i n^0 j aa z^0
+ปริญญาตรี	1.0	p a z^1 r i n^0 j aa z^0 tr ii z^0
+ปริตตา	1.0	p a z^1 r i t^3 t aa z^0
+ปริมณฑล	1.0	p a z^1 r i z^3 m o n^0 th o n^0
+ปริมาณ	1.0	p a z^1 r i z^3 m aa n^0
+ปริมาตร	1.0	p a z^1 r i z^3 m aa z^0 tr
+ปริยาย	1.0	p a z^1 r i z^3 j aa j^0
+ปรีชา	1.0	pr ii z^0 ch aa z^0
+ปรีดา	1.0	pr ii z^0 d aa z^0
+ปรึกษา	1.0	pr v k^1 s aa z^4
+ปรุง	1.0	pr u ng^0
+ปรุงยา	1.0	pr u ng^0 j aa z^0
+ปรุงอาหาร	1.0	pr u ng^0 z aa z^0 h aa n^4
+ปรุงแต่ง	1.0	pr u ng^0 t x ng^1
+ปลด	1.0	pl o t^1
+ปลดเปลื้อง	1.0	pl o t^1 pl vva ng^2
+ปลอด	1.0	pl @@ t^1
+ปลอดภัย	1.0	pl @@ t^1 ph a j^0
+ปลอม	1.0	pl @@ m^0
+ปลัด	1.0	pl a t^1
+ปลา	1.0	pl aa z^0
+ปลาช่อน	1.0	pl aa z^0 ch @@ n^1
+ปลาย	1.0	pl aa j^0
+ปลาหมึก	1.0	pl aa z^0 m v k^1
+ปลาไหล	1.0	pl aa l a j^4
+ปลุก	1.0	pl u k^1
+ปลุกเร้า	1.0	pl u k^1 r a w^3
+ปลูก	1.0	pl uu k^1
+ปลูกฝัง	1.0	pl uu k^1 f a ng^4
+ปล่อย	1.0	pl @ j^1
+ปล่อยตัว	1.0	pl @ j^1 t uua z^0
+ปวงชน	1.0	p uua ng^0 ch o n^0
+ปวด	1.0	p uua t^1
+ปวดท้อง	1.0	p uua t^1 th @@ ng^3
+ปอด	1.0	p @@ t^2
+ปะปน	1.0	p a z^1 p o n^0
+ปะลิศ	1.0	p a z^1 l i t^3
+ปักดำ	1.0	p a k^1 d a m^0
+ปัจจัย	1.0	p a t^1 c a j^0
+ปัจจุบัน	1.0	p a t^1 c u z^1 b a n^0
+ปัจจุบันนี้	1.0	p a t^1 c u z^1 b a n^0 n ii z^3
+ปัจเจกชน	1.0	p a t^1 c ee k^1 ch o n^0
+ปัญญา	1.0	p a n^0 j aa z^0
+ปัญญาชน	1.0	p a n^0 j aa z^0 ch o n^0
+ปัญญาอ่อน	1.0	p a n^0 j aa z^0 z @@ n^1
+ปัญหา	1.0	p a n^0 h aa z^4
+ปัดเป่า	1.0	p a t^1 p a w^1
+ปัน	1.0	p a n^0
+ปันผล	1.0	p a n^0 ph o n^4
+ปันยารชุน	1.0	p a n^0 j aa z^0 r a z^3 ch u n^0
+ปั่นป่วน	1.0	p a n^1 p uua n^1
+ปั้น	1.0	p a n^2
+ปาก	1.0	p aa k^1
+ปากกา	1.0	p aa k^1 k aa z^0
+ปากท้อง	1.0	p aa k^1 th @@ ng^3
+ปานกลาง	1.0	p aa n^0 kl aa ng^0
+ปารุสกวัน	1.0	p aa z^0 r u t^3 s a z^1 k a z^1 w a n^0
+ปาสคาล	1.0	p aa s^3 kh aa l^0
+ปิด	1.0	p i t^1
+ปิดกั้น	1.0	p i t^1 k a n^2
+ปิดบัง	1.0	p i t^1 b a ng^0
+ปี	1.0	p ii z^0
+ปีก	1.0	p ii k^1
+ปีงบประมาณ	1.0	p ii ng o p^3 pr a z^1 m aa n^0
+ปีติ	1.0	p ii z^0 t i z^1
+ปีเตอร์ลินช์	1.0	p ii z^0 t qq z^2 l i n^0
+ปี่	1.0	p ii z^1
+ปึกแผ่น	1.0	p v k^1 ph x n^1
+ปืน	1.0	p vv n^0
+ปืนกล	1.0	p vv n^0 k o n^0
+ปุถุชน	1.0	p u z^1 th u z^1 ch o n^0
+ปุ่ม	1.0	p u m^1
+ปุ๋ย	1.0	p u j^4
+ปู	1.0	p uu z^0
+ปูม้า	1.0	p uu m^0 m a w^2
+ปู่	1.0	p uu z^1
+ป่น	1.0	p o n^1
+ป่วน	1.0	p uua n^1
+ป่วย	1.0	p uua j^1
+ป่า	1.0	p aa z^1
+ป่าช้า	1.0	p aa z^1 ch aa z^3
+ป่านนี้	1.0	p aa n^1 n ii z^3
+ป่าสงวน	1.0	p aa z^1 s a z^1 ng uua n^0
+ป่าไม้	1.0	p aa z^1 m aa j^3
+ป้องกัน	1.0	p @ ng^2 k a n^0
+ป้อน	1.0	p @@ n^2
+ป้อม	1.0	p @ m^2
+ป้าย	1.0	p aa j^2
+ป๋วย	1.0	p uua j^4
+ผกผัน	1.0	ph o k^1 ph a n^4
+ผจญภัย	1.0	ph a z^1 c o n^0 ph a j^0
+ผนวก	1.0	ph a z^1 n uua k^1
+ผนึก	1.0	ph a z^1 n v k^1
+ผม	1.0	ph o m^4
+ผล	1.0	ph o n^4
+ผลกรรม	1.0	ph o n^4 k a m^0
+ผลกระทบ	1.0	ph o n^4 kr a z^1 th o p^3
+ผลงาน	1.0	ph o n^4 ng aa n^0
+ผลดี	1.0	ph o n^4 d ii z^0
+ผลประโยชน์	1.0	ph o n^4 pr a z^1 j oo t^1
+ผลผลิต	1.0	ph o n^4 ph a z^1 l i t^1
+ผลลัพธ์	1.0	ph o n^4 l a p^3
+ผลอไพล่เผล	1.0	phl @@ phl aa ph o n^4
+ผลัก	1.0	phl a k^1
+ผลักดัน	1.0	phl a k^1 d a n^0
+ผลัดเปลี่ยน	1.0	phl a t^1 pl iia n^1
+ผลิต	1.0	ph a z^1 l i t^1
+ผลิตผล	1.0	ph a z^1 l i t^1 t a z^1 ph o n^4
+ผลิตภัณฑ์	1.0	ph a z^1 l i t^1 t a z^1 ph a n^0
+ผลึก	1.0	ph a z^1 l v k^3
+ผลเสีย	1.0	ph o n^4 s iia z^4
+ผลไม้	1.0	ph o n^4 l a z^3 m aa j^3
+ผศ.	1.0	ph a z^1 s @@ z^0
+ผสม	1.0	ph a z^1 s o m^4
+ผสมผสาน	1.0	ph a z^1 s o m^4 ph a z^1 s aa n^4
+ผัง	1.0	ph a ng^4
+ผังเมือง	1.0	ph a ng^4 m vva ng^0
+ผัน	1.0	ph a n^4
+ผันผวน	1.0	ph a n^4 ph uua n^4
+ผันแปร	1.0	ph a n^4 pr xx z^0
+ผัว	1.0	ph uua z^4
+ผาสุก	1.0	ph aa z^4 s u k^1
+ผิด	1.0	ph i t^1
+ผิดปกติ	1.0	ph i t^1 p o k^1 k a z^1 t i z^1
+ผิดพลาด	1.0	ph i t^1 phl aa t^2
+ผิดหวัง	1.0	ph i t^1 w a ng^4
+ผิดแผก	1.0	ph i t^1 ph xx k^1
+ผิน	1.0	ph i n^4
+ผิว	1.0	ph i w^4
+ผิวหนัง	1.0	ph i w^4 n a ng^4
+ผี	1.0	ph ii z^4
+ผีสาง	1.0	ph ii z^4 s aa ng^4
+ผึ้ง	1.0	ph v ng^2
+ผืน	1.0	ph vv n^4
+ผืนผ้า	1.0	ph vv n^4 ph aa z^2
+ผุด	1.0	ph u t^1
+ผูก	1.0	ph uu k^1
+ผูกขาด	1.0	ph uu k^1 kh aa t^1
+ผูกพัน	1.0	ph uu k^1 ph a n^0
+ผู้	1.0	ph uu z^2
+ผู้กระทำ	1.0	ph uu z^2 kr a z^1 th a m^0
+ผู้ก่อการ	1.0	ph uu z^2 k @@ z^1 k aa n^0
+ผู้คน	1.0	ph uu z^2 kh o n^0
+ผู้ชาย	1.0	ph uu z^2 ch aa j^0
+ผู้ช่วย	1.0	ph uu z^2 ch uua j^2
+ผู้ช่วยศาสตราจารย์	1.0	ph uu z^2 ch uua j^2 s aa t^1 tr aa z^0 c aa n^0
+ผู้นำ	1.0	ph uu z^2 n a m^0
+ผู้น้อย	1.0	ph uu z^2 n @@ j^3
+ผู้บริหาร	1.0	ph uu z^2 b @@ z^0 r i z^3 h aa n^4
+ผู้บริโภค	1.0	ph uu z^2 b @@ z^0 r i z^3 ph oo k^2
+ผู้บังคับบัญชา	1.0	ph uu z^2 b a ng^0 kh a p^3 b a n^0 ch aa z^0
+ผู้บัญชาการ	1.0	ph uu z^2 b a n^0 ch aa z^0 k aa n^0
+ผู้ปฏิบัติงาน	1.0	ph uu z^2 p a z^1 t i z^1 b a t^1 ng aa n^0
+ผู้ปฏิวัติ	1.0	ph uu z^2 p a z^1 t i z^1 w a t^3
+ผู้ประกอบการ	1.0	ph uu z^2 pr a z^1 k @@ p^1 k aa n^0
+ผู้ป่วย	1.0	ph uu z^2 p uua j^1
+ผู้ผลิต	1.0	ph uu z^2 ph a z^1 l i t^1
+ผู้พิพากษา	1.0	ph uu z^2 ph i z^3 ph aa k^2 s aa z^4
+ผู้ฟัง	1.0	ph uu z^2 f a ng^0
+ผู้มีชื่อ	1.0	ph uu z^2 m ii z^0 ch vv z^2
+ผู้มีอิทธิพล	1.0	ph uu z^2 m ii z^0 z i t^1 th i z^3 ph o n^0
+ผู้รับผิดชอบ	1.0	ph uu z^2 r a p^3 ph i t^1 ch @@ p^2
+ผู้รู้	1.0	ph uu z^2 r uu z^3
+ผู้ร้าย	1.0	ph uu z^2 r aa j^3
+ผู้วิจัย	1.0	ph uu z^2 w i z^3 c a j^0
+ผู้ว่า	1.0	ph uu z^2 w aa z^2
+ผู้ว่าการ	1.0	ph uu z^2 w aa z^2 k aa n^0
+ผู้ว่าราชการ	1.0	ph uu z^2 w aa z^2 r aa t^2 ch a z^3 k aa n^0
+ผู้สนับสนุน	1.0	ph uu z^2 s a z^1 n a p^1 s a z^1 n u n^4
+ผู้สมัคร	1.0	ph uu z^2 s a z^1 m a k^1
+ผู้สร้าง	1.0	ph uu z^2 s aa ng^2
+ผู้สอน	1.0	ph uu z^2 s @@ n^4
+ผู้สื่อข่าว	1.0	ph uu z^2 s vv z^1 kh aa w^1
+ผู้หญิง	1.0	ph uu z^2 j i ng^4
+ผู้อำนวยการ	1.0	ph uu z^2 z a m^0 n uua j^0 k aa n^0
+ผู้อื่น	1.0	ph uu z^2 z vv n^1
+ผู้อ่าน	1.0	ph uu z^2 z aa n^1
+ผู้เกี่ยวข้อง	1.0	ph uu z^2 k iia w^1 kh @ ng^2
+ผู้เขียน	1.0	ph uu z^2 kh iia n^4
+ผู้เข้าร่วม	1.0	ph uu z^2 kh a w^2 r uua m^2
+ผู้เช่า	1.0	ph uu z^2 ch a w^2
+ผู้เรียน	1.0	ph uu z^2 r iia n^0
+ผู้แทน	1.0	ph uu z^2 th xx n^0
+ผู้โดยสาร	1.0	ph uu z^2 d oo j^0 s aa n^4
+ผู้ใช้	1.0	ph uu z^2 ch a j^3
+ผู้ใช้แรงงาน	1.0	ph uu z^2 ch a j^3 r xx ng^0 ng aa n^0
+ผู้ใด	1.0	ph uu z^2 d a j^0
+ผู้ใหญ่	1.0	ph uu z^2 j a j^1
+ผู้ให้	1.0	ph uu z^2 h a j^2
+ผ่อน	1.0	ph @ n^1
+ผ่อนคลาย	1.0	ph @ n^1 khl aa j^0
+ผ่อนปรน	1.0	ph @ n^1 pr o n^0
+ผ่า	1.0	ph aa z^1
+ผ่าตัด	1.0	ph aa z^1 t a t^1
+ผ่าน	1.0	ph aa n^1
+ผ้า	1.0	ph aa z^2
+ผ้านุ่ง	1.0	ph aa z^2 n u ng^2
+ผ้าพาดไหล่	1.0	ph aa z^2 ph aa t^1 l a j^2
+ผ้าพิมพ์	1.0	ph aa z^2 ph i m^0
+ผ้าเกี้ยว	1.0	ph aa z^2 k iia w^3
+ผ้าเคียนพุง	1.0	ph aa z^2 kh iia n^2 ph u ng^0
+ผ้าเช็ดตัว	1.0	ph aa z^2 ch e t^1 t uua z^0
+ฝน	1.0	f o n^4
+ฝรั่ง	1.0	f a z^3 r a ng^1
+ฝรั่งเศส	1.0	f a z^3 r a ng^1 s ee t^1
+ฝักใฝ่	1.0	f a k^1 f a j^1
+ฝัง	1.0	f a ng^4
+ฝัน	1.0	f a n^4
+ฝันเฟื่อง	1.0	f a n^4 f vva ng^2
+ฝั่ง	1.0	f a ng^1
+ฝา	1.0	f aa z^4
+ฝาก	1.0	f aa k^1
+ฝาด	1.0	f aa t^1
+ฝาผนัง	1.0	f aa z^4 ph a z^1 n a ng^4
+ฝิ่น	1.0	f i n^1
+ฝีมือ	1.0	f ii z^4 m vv z^0
+ฝึก	1.0	f v k^1
+ฝึกฝน	1.0	f v k^1 f o n^4
+ฝึกสอน	1.0	f v k^1 s @@ n^4
+ฝึกอบรม	1.0	f v k^1 z o p^1 r o m^0
+ฝืดเคือง	1.0	f vv t^2 khl vva ng^0
+ฝุ่น	1.0	f u n^1
+ฝ่า	1.0	f aa z^1
+ฝ่าฝืน	1.0	f aa z^1 f vv n^4
+ฝ่าย	1.0	f aa j^1
+ฝ่ายค้าน	1.0	f aa j^1 kh aa n^3
+พ.ร.บ.	1.0	ph @@ z^0 r @@ z^0 b @@ z^0
+พ.ศ.	1.0	ph @@ z^0 s @@ z^0
+พงศาวดาร	1.0	ph o ng^0 s aa z^4 w a z^3 d aa n^0
+พงษ์พานิช	1.0	ph o ng^0 ph aa z^0 n i t^3
+พจนา	1.0	ph o t^3 c a z^1 n aa z^4
+พญาไท	1.0	ph a z^3 j aa z^0 th a j^0
+พนักงาน	1.0	ph a z^3 n a k^3 ng aa n^0
+พบ	1.0	ph o p^3
+พบปะ	1.0	ph o p^3 p a z^1
+พบว่า	1.0	ph o p^3 w aa z^2
+พยัญชนะ	1.0	ph a z^3 j a n^0 ch a z^3 n a z^3
+พยากรณ์	1.0	ph a z^3 j aa z^0 k @@ n^0
+พยาธิ	1.0	ph a z^3 j aa t^2
+พยาบาล	1.0	ph a z^3 j aa z^0 b aa n^0
+พยายาม	1.0	ph a z^3 j aa z^0 j aa m^0
+พยุง	1.0	ph a z^3 j u ng^0
+พรมแดน	1.0	phr o m^0 d xx n^0
+พรรค	1.0	ph a k^3
+พรรคพวก	1.0	ph a k^3 ph uua k^2
+พรรณนา	1.0	ph a n^0 n a z^3 n aa z^0
+พรวน	1.0	phr uua n^0
+พรสวรรค์	1.0	ph @@ n^0 s a z^1 w a n^4
+พรหมสูตร	1.0	phr o m^0 m a z^3 s uu t^1
+พระ	1.0	phr a z^3
+พระจันทร์	1.0	phr a z^3 c a n^0
+พระจุลจอมเกล้า	1.0	phr a z^3 c u n^0 l a z^3 c @@ m^0 kl aa w^2
+พระที่นั่ง	1.0	phr a z^3 th ii z^2 n a ng^2
+พระธรรมศาสตร์	1.0	phr a z^3 th a m^0 m a z^3 s aa t^1
+พระธาตุ	1.0	phr a z^3 th aa t^2
+พระบรมธาตุ	1.0	phr a z^3 b @@ z^0 r o m^0 m a z^3 th aa t^2
+พระบรมราชโองการ	1.0	phr a z^3 b @@ z^0 r o m^0 m a z^3 r aa t^2 ch a z^3 z oo ng^0 k aa n^0
+พระบรมรูป	1.0	phr a z^3 b @@ z^0 r o m^0 m a z^3 r uu p^2
+พระบาท	1.0	phr a z^3 b aa t^1
+พระบาทสมเด็จ	1.0	phr a z^3 b aa t^1 s o m^4 d e t^1
+พระบาทสมเด็จพระเจ้าอยู่หัว	1.0	phr a z^3 b aa t^1 s o m^4 d e t^1 phr a z^3 c aa w^2 j uu z^1 h uua z^4
+พระผู้มีพระภาคเจ้า	1.0	phr a z^3 ph uu z^2 m ii z^0 phr a z^3 ph aa k^2 c aa w^2
+พระพุทธรูป	1.0	phr a z^3 ph u t^3 th a z^3 r uu p^2
+พระพุทธศาสนา	1.0	phr a z^3 ph u t^3 th a z^3 s aa t^1 s a z^1 n aa z^4
+พระพุทธองค์	1.0	phr a z^3 ph u t^3 th a z^3 z o ng^0
+พระพุทธเจ้า	1.0	phr a z^3 ph u t^3 th a z^3 c a w^2
+พระภิกษุ	1.0	phr a z^3 ph i k^3 s u z^1
+พระมหากษัตริย์	1.0	phr a z^3 m a z^3 h aa z^4 k a z^1 s a t^1
+พระยา	1.0	phr a z^3 j aa z^0
+พระราชดำรัส	1.0	phr a z^3 r aa t^2 ch a z^3 d a m^0 r a t^1
+พระราชดำริ	1.0	phr a z^3 r aa t^2 ch a z^3 d a m^0 r i z^1
+พระราชทาน	1.0	phr a z^3 r aa t^2 ch a z^3 th aa n^0
+พระราชบัญญัติ	1.0	phr a z^3 r aa t^2 ch a z^3 b a n^0 j a t^1
+พระราชประสงค์	1.0	phr a z^3 r aa t^2 ch a z^3 pr a z^1 s o ng^4
+พระราชพิธี	1.0	phr a z^3 r aa t^2 ch a z^3 ph i z^3 th ii z^0
+พระราชวัง	1.0	phr a z^3 r aa t^2 ch a z^3 w a ng^0
+พระราชวินิจฉัย	1.0	phr a z^3 r aa t^2 ch a z^3 w i z^3 n i t^3 ch a j^4
+พระราชอาณาจักร	1.0	phr a z^3 r aa t^2 ch a z^3 z aa z^0 n aa z^0 c a k^1
+พระราชอำนาจ	1.0	phr a z^3 r aa t^2 ch a z^3 z a m^0 n aa t^2
+พระราชาคณะ	1.0	phr a z^3 r aa z^0 ch aa z^0 kh a z^3 n a z^3
+พระสงฆ์	1.0	phr a z^3 s o ng^4
+พระองค์	1.0	phr a z^3 z o ng^0
+พระอาทิตย์	1.0	phr a z^3 z aa z^0 th i t^3
+พระเกียรติ	1.0	phr a z^3 k iia t^1
+พระเกียรติยศ	1.0	phr a z^3 k iia t^1 t i z^1 j o t^3
+พระเจ้า	1.0	phr a z^3 c aa w^2
+พระเจ้าอยู่หัว	1.0	phr a z^3 c aa w^2 j uu z^1 h uua z^4
+พระเชตุพน	1.0	phr a z^3 ch ee z^0 t u z^1 ph o n^0
+พระเยซู	1.0	phr a z^3 j s uu z^0
+พระเยาว์	1.0	phr a z^3 j a w^0
+พระเวท	1.0	phr a z^3 w ee t^2
+พระเอก	1.0	phr a z^3 z ee k^1
+พราก	1.0	phr aa k^2
+พราหมณ์	1.0	phr aa m^0
+พริกไทย	1.0	phr i k^3 th a j^0
+พรึง	1.0	phr v ng^0
+พรุ	1.0	phr u z^1
+พร้อม	1.0	phr @@ m^3
+พร้อมกัน	1.0	phr @@ m^3 k a n^0
+พร้อมกับ	1.0	phr @@ m^3 k a p^1
+พร้อมทั้ง	1.0	phr @@ m^3 th a ng^3
+พร้อมเพรียง	1.0	phr @@ m^3 phr iia ng^0
+พร้อมใจ	1.0	phr @@ m^3 c a j^0
+พร้อมๆ	1.0	phr @@ m^3 k^1
+พฤติกรรม	1.0	phr v t^3 t i z^1 k a m^0
+พฤติการณ์	1.0	phr v t^3 t i z^1 k aa n^0
+พฤตินัย	1.0	phr v t^3 t i z^1 n a j^0
+พฤศจิกายน	1.0	phr v t^3 s a z^1 c i z^1 k aa z^0 j o n^0
+พฤษภ	1.0	phr v t^3 s a z^1 ph
+พฤษภาคม	1.0	phr v t^3 s a z^1 ph aa z^0 kh o m^0
+พฤหัสบดี	1.0	ph a z^3 r v z^3 h a t^1 s a z^1 b @@ z^0 d ii z^0
+พล	1.0	ph o n^0
+พลตรี	1.0	ph o n^0 tr ii z^0
+พลตำรวจ	1.0	ph o n^0 t a m^0 r uua t^1
+พลตำรวจเอก	1.0	ph o n^0 t a m^0 r uua t^1 z ee k^1
+พลพรรค	1.0	ph o n^0 l a z^3 ph a k^3
+พลวัตร	1.0	ph o n^0 l a z^3 w a t^3
+พลสิน	1.0	ph o n^0 s i n^4
+พลอย	1.0	phl @@ j^0
+พลอากาศ	1.0	ph o n^0 z aa z^0 k aa t^1
+พลอากาศเอก	1.0	ph o n^0 z aa z^0 k aa t^1 z ee k^1
+พละ	1.0	ph a z^3 l a z^3
+พละกำลัง	1.0	ph a z^3 l a z^3 k a m^0 l a ng^0
+พลัง	1.0	ph a z^3 l a ng^0
+พลังงาน	1.0	ph a z^3 l a ng^0 ng aa n^0
+พลังน้ำ	1.0	ph a z^3 l a ng^0 n aa m^3
+พลัดพราก	1.0	phl a t^3 phr aa k^2
+พลาง	1.0	phl aa ng^0
+พลาด	1.0	phl aa t^2
+พลานามัย	1.0	ph a z^3 l aa z^0 n aa z^0 m a j^0
+พลาสติก	1.0	phl aa s^3 t i k^1
+พลาสมา	1.0	phl aa z^4 s a z^1 m aa z^0
+พลิก	1.0	phl i k^3
+พลุ่ง	1.0	phl u ng^2
+พลเมือง	1.0	ph o n^0 m vva ng^0
+พลเรือน	1.0	ph o n^0 r vva n^0
+พลเรือเอก	1.0	ph o n^0 r vva z^0 z ee k^1
+พลเอก	1.0	ph o n^0 z ee k^1
+พล็อต	1.0	phl @ t^1
+พวก	1.0	ph uua k^2
+พวกเขา	1.0	ph uua k^2 kh a w^4
+พวกเรา	1.0	ph uua k^2 r a w^0
+พวง	1.0	ph uua ng^0
+พวน	1.0	ph uua n^0
+พอ	1.0	ph @@ z^0
+พอก	1.0	ph @@ k^1
+พอควร	1.0	ph @@ z^0 kh uua n^0
+พอจะ	1.0	ph @@ z^0 c a z^1
+พอดี	1.0	ph @@ z^0 d ii z^0
+พอสมควร	1.0	ph @@ z^0 s o m^4 kh uua n^0
+พอเพียง	1.0	ph @@ z^0 ph iia ng^0
+พอใจ	1.0	ph @@ z^0 c a j^0
+พะวง	1.0	ph a z^3 w o ng^0
+พัก	1.0	ph a k^3
+พักผ่อน	1.0	ph a k^3 ph @ n^1
+พัง	1.0	ph a ng^0
+พังพอน	1.0	ph a ng^0 ph @@ n^0
+พัฒนา	1.0	ph a t^3 th a z^3 n aa z^0
+พัฒนาการ	1.0	ph a t^3 th a z^3 n aa z^0 k aa n^0
+พัด	1.0	ph a t^3
+พัน	1.0	ph a n^0
+พันธบัตร	1.0	ph a n^0 th a z^3 b a t^1
+พันธมิตร	1.0	ph a n^0 th a z^3 m i t^3
+พันธะ	1.0	ph a n^0 th a z^3
+พันธุกรรม	1.0	ph a n^0 th u z^3 k a m^0
+พันธุวิศวกรรม	1.0	ph a n^0 th u z^3 w i t^3 s a z^1 w a z^3 k a m^0
+พันธุ์	1.0	ph a n^0
+พันเอก	1.0	ph a n^0 z ee k^1
+พันโท	1.0	ph a n^0 th oo z^0
+พับ	1.0	ph a p^3
+พัวพัน	1.0	ph uua z^0 ph a n^0
+พา	1.0	ph aa z^0
+พาณิชยกรรม	1.0	ph aa z^0 n i t^3 ch a z^3 j a z^3 k a m^0
+พาณิชย์	1.0	ph aa z^0 n i t^3
+พาด	1.0	ph aa t^1
+พาย	1.0	ph aa j^0
+พายุ	1.0	ph aa z^0 j u z^3
+พาหะ	1.0	ph aa z^0 h a z^1
+พำนัก	1.0	ph a m^4 n a k^3
+พิการ	1.0	ph i z^3 k aa n^0
+พิจารณา	1.0	ph i z^3 c aa z^0 r a z^3 n aa z^0
+พิชิต	1.0	ph i z^3 ch i t^3
+พิทักษ์	1.0	ph i z^3 th a k^3
+พิธี	1.0	ph i z^3 th ii z^0
+พิธีกร	1.0	ph i z^3 th ii z^0 k @@ n^0
+พิธีกรรม	1.0	ph i z^3 th ii z^0 k a m^0
+พิธีการ	1.0	ph i z^3 th ii z^0 k aa n^0
+พิธีรีตอง	1.0	ph i z^3 th ii z^0 r ii z^0 t @@ ng^0
+พินิจ	1.0	ph i z^3 n i t^3
+พิบูล	1.0	ph i z^3 b uu n^0
+พิบูลศิลป์	1.0	ph i z^3 b uu n^0 s i n^4
+พิบูลสงคราม	1.0	ph i z^3 b uu n^0 s o ng^4 khr aa m^0
+พิพัฒน์เสรีธรรม	1.0	ph i z^3 ph a t^3 s ee z^4 r ii z^0 th a m^0
+พิพากษา	1.0	ph i z^3 ph aa k^2 s aa z^4
+พิพาท	1.0	ph i z^3 ph aa t^2
+พิพิธภัณฑสถาน	1.0	ph i z^3 ph i t^3 th a z^3 ph a n^0 th a z^3 s a z^1 th aa n^4
+พิพิธภัณฑ์	1.0	ph i z^3 ph i t^3 th a z^3 ph a n^0
+พิมพ์	1.0	ph i m^0
+พิมพ์ดีด	1.0	ph i m^0 d ii t^1
+พิมพ์ใจ	1.0	ph i m^0 c a j^0
+พิษ	1.0	ph i t^3
+พิษณุโลก	1.0	ph i t^3 s a z^1 n u z^3 l oo k^2
+พิษวิทยา	1.0	ph i t^3 s a z^1 w i t^3 th a z^3 j aa z^0
+พิสดาร	1.0	ph i t^3 s a z^1 d aa n^0
+พิสัย	1.0	ph i z^3 s a j^4
+พิสูจน์	1.0	ph i z^3 s uu t^1
+พิเคราะห์	1.0	ph i z^3 khr @ z^3
+พิเศษ	1.0	ph i z^3 s ee t^1
+พี	1.0	ph ii z^0
+พีซีเอ็ม	1.0	ph ii z^0 s ii z^0 z e m^0
+พีระศรี	1.0	ph ii z^0 r a z^3 s ii z^4
+พี่	1.0	ph ii z^2
+พี่เลี้ยง	1.0	ph ii z^2 l iia ng^3
+พึง	1.0	ph v ng^0
+พึงประสงค์	1.0	ph v ng^0 pr a z^1 s o ng^4
+พึงปรารถนา	1.0	ph v ng^0 pr aa t^1 th a z^1 n aa z^4
+พึงพอใจ	1.0	ph v ng^0 ph @@ z^0 c a j^0
+พึบพับ	1.0	ph v p^1 ph a p^3
+พึ่ง	1.0	ph v ng^2
+พึ่งพา	1.0	ph v ng^2 ph aa z^0
+พึ่งพิง	1.0	ph v ng^2 ph i ng^0
+พืช	1.0	ph vv t^2
+พืชพันธุ์	1.0	ph vv t^2 ph a n^0
+พืชสมุนไพร	1.0	ph vv t^2 s a z^1 m u n^0 ph @@ n^0
+พืชสวน	1.0	ph vv t^2 s uua n^4
+พื้น	1.0	ph vv n^3
+พื้นฐาน	1.0	ph vv n^3 th aa n^4
+พื้นดิน	1.0	ph vv n^3 d i n^0
+พื้นที่	1.0	ph vv n^3 th ii z^2
+พื้นบ้าน	1.0	ph vv n^3 b aa n^2
+พื้นเพ	1.0	ph vv n^3 ph ee z^0
+พื้นเมือง	1.0	ph vv n^3 m vva ng^0
+พุทธ	1.0	ph u t^3
+พุทธทาส	1.0	ph u t^3 th a z^3 th aa t^2
+พุทธธรรม	1.0	ph u t^3 th a z^3 th a m^0
+พุทธบริษัท	1.0	ph u t^3 th a z^3 b @@ z^0 r i z^3 s a t^1
+พุทธประวัติ	1.0	ph u t^3 th a z^3 pr a z^1 w a t^1
+พุทธศตวรรษ	1.0	ph u t^3 th a z^3 s a z^1 t a z^1 w a t^3
+พุทธศักราช	1.0	ph u t^3 th a z^3 s a k^1 k a z^1 r aa t^1
+พุทธศาสนา	1.0	ph u t^3 th a z^3 s aa t^1 s a z^1 n aa z^4
+พุธ	1.0	ph u t^3
+พุ่ง	1.0	ph u ng^2
+พุ่มข้าวบิณฑ์	1.0	ph u m^2 kh aa w^2 b i n^0
+พูด	1.0	ph uu t^2
+พูดคุย	1.0	ph uu t^2 kh u j^0
+พูดจา	1.0	ph uu t^2 c aa z^0
+พู่	1.0	ph uu z^1
+พ่น	1.0	ph n^1
+พ่วง	1.0	ph uua ng^2
+พ่อ	1.0	ph @@ z^2
+พ่อขุน	1.0	ph @@ z^2 kh u n^4
+พ่อค้า	1.0	ph @@ z^2 kh aa z^3
+พ่อตา	1.0	ph @@ z^2 t aa z^0
+พ่าย	1.0	ph aa j^2
+พ่ายแพ้	1.0	ph aa j^2 ph xx z^3
+พ้น	1.0	ph o n^3
+พ้อง	1.0	ph @@ ng^3
+ฟรอยด์	1.0	fr @@ j^0
+ฟรี	1.0	fr ii z^0
+ฟลิปฟล็อป	1.0	f l i p^3 f @ p^1
+ฟลูออเรสเซนซ์	1.0	f l uu z^0 z @@ z^0 r o t^3 s n
+ฟอร์แทรน	1.0	f @@ z^0 thr xx n^0
+ฟอสฟอรัส	1.0	f @@ t^3 f @@ a t^1
+ฟัง	1.0	f a ng^0
+ฟาก	1.0	f aa k^2
+ฟากฟ้า	1.0	f aa k^2 f aa z^3
+ฟาง	1.0	f aa ng^0
+ฟาฟิลอฟ	1.0	f aa z^0 f i z^3 l @@ p^3
+ฟาร์มโคนม	1.0	f aa z^0 m a j^0 khr n o m^0
+ฟิลิปปินส์	1.0	f i z^3 l i p^3 p i n^0
+ฟิลิปส์	1.0	f i z^3 l i p^3
+ฟิล์ม	1.0	f i z^3 l m^0
+ฟื้น	1.0	f vv n^3
+ฟื้นฟู	1.0	f vv n^3 f uu z^0
+ฟุ่มเฟือย	1.0	f u m^2 f vva j^0
+ฟูคูดะ	1.0	f uu z^0 kh uu z^0 d a z^1
+ฟ้อง	1.0	f @@ ng^3
+ฟ้องร้อง	1.0	f @@ ng^3 r @@ ng^3
+ฟ้า	1.0	f aa z^3
+ฟ้าผ่า	1.0	f aa z^3 ph aa z^1
+ภพ	1.0	ph o p^3
+ภยันตราย	1.0	ph a z^3 j a n^0 t a z^1 r aa j^0
+ภรรยา	1.0	ph a n^0 r a z^3 j aa z^0
+ภริยา	1.0	ph a z^3 r i z^3 j aa z^0
+ภักดี	1.0	ph a k^3 d ii z^0
+ภัย	1.0	ph a j^0
+ภัยพิบัติ	1.0	ph a j^0 ph i z^3 b a t^1
+ภาค	1.0	ph aa k^2
+ภาคกลาง	1.0	ph aa k^2 kl aa ng^0
+ภาคตัดขวาง	1.0	ph aa k^2 t a t^1 khw aa ng^4
+ภาคผสมสัญญาณ	1.0	ph aa k^2 ph a z^1 s o m^4 s a n^4 j aa n^0
+ภาคภูมิใจ	1.0	ph aa k^2 ph uu m^0 c a j^0
+ภาครัฐบาล	1.0	ph aa k^2 r a t^3 th a z^1 b aa n^0
+ภาควิชา	1.0	ph aa k^2 w i z^3 ch aa z^0
+ภาคเหนือ	1.0	ph aa k^2 n vva z^4
+ภาชนะ	1.0	ph a w^0 ch a z^3 n a z^3
+ภาพ	1.0	ph aa p^2
+ภาพตัดขวาง	1.0	ph aa p^2 t a t^1 khw aa ng^4
+ภาพถ่าย	1.0	ph aa p^2 th aa j^1
+ภาพพจน์	1.0	ph aa p^2 ph o t^3
+ภาพยนตร์	1.0	ph aa p^2 ph a z^3 j o n^0
+ภาพอักษร	1.0	ph aa p^2 z a k^1 s @@ n^4
+ภายนอก	1.0	ph aa j^0 n @@ k^2
+ภายหน้า	1.0	ph aa j^0 n aa z^2
+ภายหลัง	1.0	ph aa j^0 l a ng^4
+ภายใต้	1.0	ph aa j^0 t aa j^2
+ภายใน	1.0	ph aa j^0 n a j^0
+ภารกิจ	1.0	ph aa z^0 r a z^3 k i t^1
+ภาระ	1.0	ph aa z^0 r a z^3
+ภาวะ	1.0	ph aa z^0 w a z^3
+ภาษา	1.0	ph aa z^0 s aa z^4
+ภาษาศาสตร์	1.0	ph aa z^0 s aa z^4 s aa t^1
+ภาษาอังกฤษ	1.0	ph aa z^0 s aa z^4 z a ng^0 kr i t^1
+ภาษาแอสเซมบลี	1.0	ph aa z^0 s aa z^4 z xx t^3 s e m^0 bl ii z^2
+ภาษาไทย	1.0	ph aa z^0 s aa z^4 th a j^0
+ภาษี	1.0	ph aa z^0 s ii z^4
+ภิกษุ	1.0	ph i k^3 s u z^1
+ภู	1.0	ph uu z^0
+ภูธร	1.0	ph uu z^0 th @@ n^0
+ภูมิ	1.0	ph uu m^0
+ภูมิธรรม	1.0	ph uu m^0 th a m^0
+ภูมิประเทศ	1.0	ph uu z^0 m i z^3 pr a z^1 th ee t^2
+ภูมิปัญญา	1.0	ph uu z^0 m i z^3 p a n^0 j aa z^0
+ภูมิพล	1.0	ph uu z^0 m i z^3 ph o n^0
+ภูมิภาค	1.0	ph uu z^0 m i z^3 ph aa k^2
+ภูมิศาสตร์	1.0	ph uu z^0 m i z^3 s aa t^1
+ภูมิหลัง	1.0	ph uu m^0 l a ng^4
+ภูมิแพ้	1.0	ph uu m^0 ph xx z^3
+ภูมิใจ	1.0	ph uu m^0 c a j^0
+ภูษาทรง	1.0	ph uu z^0 s aa z^4 s o ng^0
+ภูเขา	1.0	ph uu z^0 kh a w^4
+ม.	1.0	m @@ z^0
+มกราคม	1.0	m a z^3 k a z^1 r aa z^0 kh o m^0
+มงกุฎเกล้า	1.0	m o ng^0 k u t^1 kl aa w^2
+มงคล	1.0	m o ng^0 kh o n^0
+มณเฑียรบาล	1.0	m o n^0 th iia n^0 b aa n^0
+มติ	1.0	m a z^3 t i z^1
+มน	1.0	m o n^0
+มนตรี	1.0	m o n^0 tr ii z^0
+มนต์ขลัง	1.0	m o n^0 khl a ng^4
+มนัส	1.0	m a z^3 n a t^3
+มนุษยชน	1.0	m a z^3 n u t^3 s a z^1 j a z^3 ch o n^0
+มนุษยชาติ	1.0	m a z^3 n u t^3 s a z^1 j a z^3 ch aa t^2
+มนุษยสัมพันธ์	1.0	m a z^3 n u t^3 s a z^1 j a z^3 s a m^4 ph a n^0
+มนุษย์	1.0	m a z^3 n u t^3
+มม.	1.0	m @@ z^0 m @@ z^0
+มรดก	1.0	m @@ z^0 r a z^3 d o k^1
+มรรคผล	1.0	m a k^3 ph o n^4
+มลทิน	1.0	m o n^0 th i n^0
+มลพิษ	1.0	m o n^0 l a z^3 ph i t^3
+มลภาวะ	1.0	m o n^0 l a z^3 ph aa z^0 w a z^3
+มวล	1.0	m uua n^0
+มวลชน	1.0	m uua n^0 ch o n^0
+มหัศจรรย์	1.0	m a z^3 h a t^1 s a z^1 c a n^0
+มหา	1.0	m a z^3 h aa z^4
+มหาชน	1.0	m a z^3 h aa z^4 ch o n^0
+มหาดไทย	1.0	m a z^3 h aa t^1 th a j^0
+มหาประเทศ	1.0	m a z^3 h aa z^4 pr a z^1 th ee t^2
+มหายาน	1.0	m a z^3 h aa z^4 j aa n^0
+มหาราช	1.0	m a z^3 h aa z^4 r aa t^2
+มหาวิทยาลัย	1.0	m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0
+มหาวิทยาลัยเกษตรศาสตร์	1.0	m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0 k a z^1 s ee t^1 s aa t^1
+มหาวิทยาลัยเชียงใหม่	1.0	m a z^3 h aa z^4 w i t^3 th a z^3 j aa z^0 l a j^0 ch iia ng^0 m a j^1
+มหาศาล	1.0	m a z^3 h aa z^4 s aa n^4
+มหาสมุทร	1.0	m a z^3 h aa z^4 s a z^1 m u t^1
+มหาอาณาจักร	1.0	m a z^3 h aa z^4 z aa z^0 n aa z^0 c a k^1
+มหาอำนาจ	1.0	m a z^3 h aa z^4 z a m^0 n aa t^2
+มอง	1.0	m @@ ng^0
+มองข้าม	1.0	m @@ ng^0 kh aa m^2
+มองเห็น	1.0	m @@ ng^0 h e n^4
+มองโกเลีย	1.0	m @ ng^0 k oo z^0 l iia z^0
+มอบ	1.0	m @@ p^2
+มอบหมาย	1.0	m @@ p^2 m aa j^4
+มอร์แกน	1.0	m @@ z^0 k xx n^0
+มอสเฟสกำลัง	1.0	m @@ t^3 p^3 s a z^1 k a m^0 l a ng^0
+มอเตอร์	1.0	m @@ z^0 t qq z^2
+มอเตอร์ไซค์	1.0	m @@ z^0 t qq z^0 s a j^0
+มะขาม	1.0	m a z^3 kh aa m^4
+มะเร็ง	1.0	m a z^3 r e ng^0
+มัก	1.0	m a k^3
+มักกะสัน	1.0	m a k^3 k a z^1 s a n^4
+มักจะ	1.0	m a k^3 c a z^1
+มัจฉา	1.0	m a t^3 ch aa z^4
+มัธยม	1.0	m a t^3 th a z^3 j o m^0
+มัน	1.0	m a n^0
+มันสมอง	1.0	m a n^0 s a z^1 m @@ ng^4
+มันสำปะหลัง	1.0	m a n^0 s a m^4 p a z^1 l a ng^4
+มัว	1.0	m uua z^0
+มัวหมอง	1.0	m uua z^0 m @@ ng^4
+มัวเมา	1.0	m uua z^0 m aa z^0
+มั่งคั่ง	1.0	m a ng^2 kh a ng^2
+มั่งมี	1.0	m a ng^2 m ii z^0
+มั่นคง	1.0	m a n^2 kh o ng^0
+มั่นใจ	1.0	m a n^2 c a j^0
+มั่วสุม	1.0	m uua z^2 s u m^4
+มา	1.0	m aa z^0
+มาก	1.0	m aa k^2
+มากกว่า	1.0	m aa k^2 kw aa z^1
+มากขึ้น	1.0	m aa k^2 kh v n^2
+มากมาย	1.0	m aa k^2 m aa j^0
+มาจาก	1.0	m aa z^0 c aa k^1
+มาตรการ	1.0	m aa t^2 tr a z^1 k aa n^0
+มาตรฐาน	1.0	m aa t^2 tr a z^1 th aa n^4
+มาตรา	1.0	m aa t^2 tr aa z^0
+มาตรเวลา	1.0	m aa t^2 tr a z^1 w ee z^0 l aa z^0
+มานะ	1.0	m aa z^0 n a z^3
+มานาน	1.0	m aa z^0 n aa n^0
+มานุษยวิทยา	1.0	m aa z^0 n u t^3 s a z^1 j a z^3 w i t^3 th a z^3 j aa z^0
+มาบตาพุด	1.0	m aa p^2 t aa z^0 ph u t^3
+มาฟิโอโส	1.0	m aa z^0 f i z^3 z oo z^0 s oo z^4
+มายา	1.0	m aa z^0 j aa z^0
+มารดา	1.0	m aa z^0 r a z^3 d aa z^0
+มารยาท	1.0	m aa z^0 r a z^3 j aa t^2
+มาร์กซ์	1.0	m aa k^3
+มาลาไทออน	1.0	m aa z^0 l aa z^0 th a z^3 z @@ n^0
+มาสโลว์	1.0	m aa z^0 s a z^1 l oo z^0
+มาเฟีย	1.0	m aa z^0 f iia z^0
+มาเลย์	1.0	m aa z^0 l ee z^0
+มาเลเซีย	1.0	m aa z^0 l ee z^0 s iia z^0
+มาแรนซาโน	1.0	m aa z^0 r xx n^0 s aa z^0 n oo z^2
+มิ	1.0	m i z^3
+มิกเซอร์	1.0	m i z^3 k oo z^0 s @@
+มิจฉาชีพ	1.0	m i t^3 ch aa z^4 ch ii p^2
+มิฉะนั้น	1.0	m i z^3 ch a z^1 n a n^3
+มิตร	1.0	m i t^3
+มิติ	1.0	m i z^3 t i z^1
+มิถุนายน	1.0	m i z^3 th u z^1 n aa z^0 j o n^0
+มิลลิเมตร	1.0	m i n^0 l i z^3 m ee t^3
+มิอาจ	1.0	m i z^3 z aa t^1
+มิเช่นนั้น	1.0	m i z^3 ch e n^2 n a n^3
+มิใช่	1.0	m i z^3 ch a j^2
+มิได้	1.0	m i z^3 d aa j^2
+มี	1.0	m ii z^0
+มีชัย	1.0	m ii z^0 ch a j^0
+มีนาคม	1.0	m ii z^0 n aa z^0 kh o m^0
+มีแต่	1.0	m ii z^0 t xx z^1
+มีโอกาส	1.0	m ii z^0 z oo z^0 k aa t^1
+มึง	1.0	m v ng^0
+มืด	1.0	m vv t^2
+มือ	1.0	m vv z^0
+มือดี	1.0	m vv z^0 d ii z^0
+มุกดาหาร	1.0	m u k^3 d aa z^0 h aa n^4
+มุง	1.0	m u ng^0
+มุม	1.0	m u m^0
+มุมานะ	1.0	m u z^3 m aa z^0 n a z^3
+มุสลิม	1.0	m u t^3 s a z^1 l i m^0
+มุ่ง	1.0	m u ng^2
+มุ่งมั่น	1.0	m u ng^2 m a n^2
+มุ่งหน้า	1.0	m u ng^2 n aa z^2
+มุ่งหมาย	1.0	m u ng^2 m aa j^4
+มุ่งหวัง	1.0	m u ng^2 w a ng^4
+มุ่งเน้น	1.0	m u ng^2 n e n^3
+มูล	1.0	m uu n^0
+มูลค่า	1.0	m uu n^0 kh aa z^2
+มูลฐาน	1.0	m uu n^0 th aa n^4
+มูลเหตุ	1.0	m uu n^0 h ee t^1
+มูโนะ	1.0	m uu n a z^3
+มโหฬาร	1.0	m h oo z^0 l aa n^0
+ม้า	1.0	m aa z^3
+ยก	1.0	j o k^3
+ยกย่อง	1.0	j o k^3 j @@ ng^2
+ยกเลิก	1.0	j o k^3 l qq k^2
+ยกเว้น	1.0	j o k^3 w e n^3
+ยงค์	1.0	j o ng^0
+ยงใจยุทธ	1.0	j o ng^0 c a j^0 j u t^3
+ยถากรรม	1.0	j a z^3 th aa z^4 k a m^0
+ยศ	1.0	j o t^3
+ยอก	1.0	j @@ k^2
+ยอด	1.0	j @@ t^2
+ยอดเยี่ยม	1.0	j @@ t^2 j iia m^2
+ยอม	1.0	j @@ m^0
+ยอมรับ	1.0	j @@ m^0 r a p^3
+ยัง	1.0	j a ng^0
+ยังคง	1.0	j a ng^0 kh o ng^0
+ยังชีพ	1.0	j a ng^0 ch ii p^2
+ยังมี	1.0	j a ng^0 m ii z^0
+ยังเติร์ก	1.0	j a ng^0 t qq k^3
+ยังไง	1.0	j a ng^0 ng^4
+ยัดเยียด	1.0	j a t^3 j iia t^2
+ยับยั้ง	1.0	j a p^3 j a ng^3
+ยับเยิน	1.0	j a p^3 j qq n^0
+ยั่งยืน	1.0	j a ng^2 j vv n^0
+ยั่วยุ	1.0	j uua z^2 j u z^3
+ยั้งคิด	1.0	j a ng^3 kh i t^3
+ยา	1.0	j aa z^0
+ยาก	1.0	j aa k^2
+ยากจน	1.0	j aa k^2 c o n^0
+ยากลำบาก	1.0	j aa k^2 l a m^0 b aa k^1
+ยากเย็น	1.0	j aa k^2 j e n^0
+ยากแค้น	1.0	j aa k^2 kh xx n^3
+ยากไร้	1.0	j aa k^2 r a j^3
+ยาฆ่าแมลง	1.0	j aa kh aa z^2 m a z^3 l xx ng^0
+ยางพารา	1.0	j aa ng^0 ph aa z^0 r aa z^0
+ยาดอง	1.0	j aa d @@ ng^0
+ยานเล็ก	1.0	j aa n^0 l e k^3
+ยาบรรจุเสร็จ	1.0	j aa z^0 b a n^0 c u z^1 s e t^1
+ยาม	1.0	j aa m^0
+ยาย	1.0	j aa j^0
+ยาว	1.0	j aa w^0
+ยาวนาน	1.0	j aa w^0 n aa n^0
+ยาวเหยียด	1.0	j aa w^0 j iia t^1
+ยาสมุนไพร	1.0	j aa z^4 s a z^1 m u n^0 ph @@ n^0
+ยาสังเคราะห์	1.0	j aa z^0 s a ng^4 khr @ z^3
+ยาเสพติด	1.0	j aa z^0 s ee p^2 t i t^1
+ยาเหน็บ	1.0	j aa z^0 n e p^1
+ยาแผนปัจจุบัน	1.0	j aa z^0 ph xx n^4 p a t^1 c u z^1 b a n^0
+ยาแผนโบราณ	1.0	j aa z^0 ph xx n^4 b oo z^0 r aa n^0
+ยำเกรง	1.0	j a m^0 kr ee ng^0
+ยิง	1.0	j i ng^0
+ยิน	1.0	j i n^0
+ยินดี	1.0	j i n^0 d ii z^0
+ยินยอม	1.0	j i n^0 j @@ m^0
+ยิว	1.0	j i w^0
+ยิ่ง	1.0	j i ng^2
+ยิ่งกว่า	1.0	j i ng^2 kw aa z^1
+ยิ่งกว่านั้น	1.0	j i ng^2 kw aa z^1 n a n^3
+ยิ่งขึ้น	1.0	j i ng^2 kh v n^2
+ยิ่งยวด	1.0	j i ng^2 j uua t^2
+ยิ่งหย่อน	1.0	j i ng^2 j @ n^1
+ยิ่งใหญ่	1.0	j i ng^2 j a j^1
+ยี่	1.0	j ii z^2
+ยี่สิบ	1.0	j ii z^2 s i p^1
+ยึด	1.0	j v t^3
+ยึดครอง	1.0	j v t^3 khr @@ ng^0
+ยึดถือ	1.0	j v t^3 th vv z^4
+ยึดมั่น	1.0	j v t^3 m a n^2
+ยึดเหนี่ยว	1.0	j v t^3 n iia w^1
+ยืด	1.0	j vv t^2
+ยืดหยุ่น	1.0	j vv t^2 j u n^1
+ยืดเยื้อ	1.0	j vv t^2 j vva z^3
+ยืน	1.0	j vv n^0
+ยืนกราน	1.0	j vv n^0 kr aa n^0
+ยืนต้น	1.0	j vv n^0 t o n^2
+ยืนยัน	1.0	j vv n^0 j a n^0
+ยืนยาว	1.0	j vv n^0 j aa w^0
+ยืม	1.0	j vv m^0
+ยื่น	1.0	j vv n^2
+ยุค	1.0	j u k^3
+ยุง	1.0	j u ng^0
+ยุติ	1.0	j u t^3 t i z^1
+ยุติธรรม	1.0	j u t^3 t i z^1 th a m^0
+ยุทธการ	1.0	j u t^3 th a z^3 k aa n^0
+ยุทธศาสตร์	1.0	j u t^3 th a z^3 s aa t^1
+ยุบ	1.0	j u p^3
+ยุโรป	1.0	j u z^3 r oo p^1
+ยุ่ง	1.0	j u ng^2
+ยุ่งยาก	1.0	j u ng^2 j aa k^2
+ยุ่งเกี่ยว	1.0	j u ng^2 k iia w^1
+ยุ้ง	1.0	j u ng^3
+ยูเอชเอฟ	1.0	j uu z^0 z ch @@ p^3
+ยโสธร	1.0	j a z^3 s oo z^4 th @@ n^0
+ย่อ	1.0	j @@ z^2
+ย่อท้อ	1.0	j @@ z^2 th @@ z^3
+ย่อม	1.0	j @@ m^2
+ย่อย	1.0	j @ j^2
+ย่า	1.0	j aa z^1
+ย่าง	1.0	j aa ng^2
+ย่าน	1.0	j aa n^2
+ย่ำ	1.0	j a m^2
+ย้อน	1.0	j @@ n^3
+ย้าย	1.0	j aa j^3
+ย้ำ	1.0	j a m^3
+ร	1.0	r @@ z^0
+รณรงค์	1.0	r o n^0 n a z^3 r o ng^0
+รถ	1.0	r o t^3
+รถประจำทาง	1.0	r o t^3 pr a z^1 c a m^0 th aa ng^0
+รถยนต์	1.0	r o t^3 j o n^0
+รถเมล์	1.0	r o t^3 m ee
+รถแทรกเตอร์	1.0	r o t^3 s xx k^2 t qq z^2
+รบ	1.0	r o p^3
+รบกวน	1.0	r o p^3 k uua n^0
+รม	1.0	r o m^0
+รวง	1.0	r uua ng^0
+รวงข้าว	1.0	r uua ng^0 kh aa w^2
+รวดเร็ว	1.0	r uua t^2 r e w^0
+รวบยอด	1.0	r uua p^2 j @@ t^2
+รวบรวม	1.0	r uua p^2 r uua m^0
+รวบรัด	1.0	r uua p^2 r a t^3
+รวม	1.0	r uua m^0
+รวมถึง	1.0	r uua m^0 th v ng^4
+รวมทั้ง	1.0	r uua m^0 th a ng^3
+รศ.	1.0	r o t^3 @@ z^0
+รส	1.0	r o t^3
+รสช.	1.0	r @@ z^0 s @@ z^4 ch @@ z^0
+รสชาติ	1.0	r o t^3 ch aa t^2
+รสนิยม	1.0	r o t^3 n i z^3 j o m^0
+รสประธานยา	1.0	r o t^3 pr a z^1 th aa n^0 j aa z^0
+รหัส	1.0	r a z^3 h a t^1
+รอ	1.0	r @@ z^0
+รอง	1.0	r @@ ng^0
+รองรับ	1.0	r @@ ng^0 r a p^3
+รองศาสตราจารย์	1.0	r @@ ng^0 s aa t^1 tr aa z^0 c aa n^0
+รองเท้า	1.0	r @@ ng^0 th aa w^3
+รอด	1.0	r @@ t^2
+รอดพ้น	1.0	r @@ t^2 ph o n^3
+รอบ	1.0	r @@ p^2
+รอบคอบ	1.0	r @@ p^2 kh @@ p^2
+รอย	1.0	r @@ j^0
+รอยทาง	1.0	r @@ j^0 th aa ng^0
+รอยพับ	1.0	r @@ j^0 ph a p^3
+รอยสลัก	1.0	r @@ j^0 s a z^1 l a k^1
+รอยเย็บ	1.0	r @@ j^0 j e p^1
+ระงับ	1.0	r a z^3 ng a p^3
+ระดม	1.0	r a z^3 d o m^0
+ระดับ	1.0	r a z^3 d a p^1
+ระดู	1.0	r a z^3 d uu z^0
+ระบบ	1.0	r a z^3 b o p^1
+ระบบขับเคลื่อน	1.0	r a z^3 b o p^1 kh a p^1 khl vva n^2
+ระบบออโธรอมบิด	1.0	r a z^3 b o p^1 z @@ th a @@ m^4 b i t^1
+ระบอบ	1.0	r a z^3 b @@ p^1
+ระบาด	1.0	r a z^3 b aa t^1
+ระบาย	1.0	r a z^3 b aa j^0
+ระบุ	1.0	r a z^3 b u z^1
+ระมัดระวัง	1.0	r a z^3 m a t^3 r a z^3 w a ng^0
+ระยอง	1.0	r a z^3 j @@ ng^0
+ระยะ	1.0	r a z^3 j a z^3
+ระยะทาง	1.0	r a z^3 j a z^3 th aa ng^0
+ระลึก	1.0	r a z^3 l v k^3
+ระวัง	1.0	r a z^3 w a ng^0
+ระวีวรรณ	1.0	r a z^3 w ii z^0 w a n^0
+ระหว่าง	1.0	r a z^3 w aa ng^1
+ระเบิด	1.0	r a z^3 b qq t^1
+ระเบียบ	1.0	r a z^3 b iia p^1
+รัก	1.0	r a k^3
+รักษา	1.0	r a k^3 s aa z^4
+รักใคร่	1.0	r a k^3 khr a j^2
+รังสรรค์	1.0	r a ng^0 s a n^4
+รังสี	1.0	r a ng^0 s ii z^4
+รังสีเอ็กซ์	1.0	r a ng^0 s ii z^4 z e k^3
+รังเกียจ	1.0	r a ng^0 k iia t^1
+รัชกาล	1.0	r a t^3 ch a z^3 k aa n^0
+รัชมังคลาภิเษก	1.0	r a t^3 ch a z^3 m a ng^0 khl aa z^0 ph i z^3 s ee k^1
+รัชสมัย	1.0	r a t^3 ch a z^3 s a z^1 m a j^4
+รัฐ	1.0	r a t^3
+รัฐธรรมนูญ	1.0	r a t^3 th a z^1 th a m^0 m a z^3 n uu n^0
+รัฐบาล	1.0	r a t^3 th a z^1 b aa n^0
+รัฐประหาร	1.0	r a t^3 th a z^1 pr a z^1 h aa n^4
+รัฐมนตรี	1.0	r a t^3 th a z^1 m o n^0 tr ii z^0
+รัฐมนตรีว่าการ	1.0	r a t^3 th a z^1 m o n^0 tr ii z^0 w aa z^2 k aa n^0
+รัฐวิสาหกิจ	1.0	r a t^3 w i z^3 s aa z^4 h a z^1 k i t^1
+รัฐศาสตร์	1.0	r a t^3 th a z^1 s aa t^1
+รัฐสภา	1.0	r a t^3 th a z^1 s a z^1 ph aa z^0
+รัตนโกสินทร์	1.0	r a t^3 t a z^1 n a z^3 k oo z^0 s i n^4
+รัตนโกเศศ	1.0	r a t^3 t a z^1 n a z^3 k oo z^0 s ee t^1
+รับ	1.0	r a p^3
+รับช่วง	1.0	r a p^3 ch uua ng^2
+รับประทาน	1.0	r a p^3 pr a z^1 th aa n^0
+รับผิดชอบ	1.0	r a p^3 ph i t^1 ch @@ p^2
+รับฟัง	1.0	r a p^3 f a ng^0
+รับรอง	1.0	r a p^3 r @@ ng^0
+รับราชการ	1.0	r a p^3 r aa t^2 ch a z^3 k aa n^0
+รับรู้	1.0	r a p^3 r uu z^3
+รับส่ง	1.0	r a p^3 s o ng^1
+รับหน้า	1.0	r a p^3 n aa z^2
+รับเหมา	1.0	r a p^3 m a w^4
+รับใช้	1.0	r a p^3 ch a j^3
+รัสเซีย	1.0	r a t^3 s iia z^0
+รา	1.0	r aa z^0
+ราก	1.0	r aa k^2
+รากฐาน	1.0	r aa k^2 th aa n^4
+รากนมสวรรค์	1.0	r aa k^2 n o m^0 s a z^1 w a n^4
+รากเจตมูลเพลิง	1.0	r aa k^2 c ee t^1 t a z^1 m uu n^0 phl qq ng^0
+รากเหง้า	1.0	r aa k^2 ng a w^2
+รากแคแตร	1.0	r aa k^2 kh t^1
+ราคะ	1.0	r aa z^0 kh a z^3
+ราคา	1.0	r aa z^0 kh aa z^0
+รางวัล	1.0	r aa ng^0 w a n^2
+ราชการ	1.0	r aa t^2 ch a z^3 k aa n^0
+ราชครู	1.0	r aa t^2 ch a z^3 khr uu z^0
+ราชธน	1.0	r aa t^2 ch a z^3 th o n^0
+ราชบัณฑิต	1.0	r aa t^2 ch a z^3 b a n^0 d i t^1
+ราชบัณฑิตยสถาน	1.0	r aa t^2 ch a z^3 b a n^0 d i t^1 t a z^1 j a z^3 s a z^1 th aa n^4
+ราชประเพณี	1.0	r aa t^2 ch a z^3 pr a z^1 ph ee z^0 n ii z^0
+ราชมงคล	1.0	r aa t^2 ch a z^3 m o ng^0 kh o n^0
+ราชสมบัติ	1.0	r aa t^2 ch a z^3 s o m^4 b a t^1
+ราชอาณาจักร	1.0	r aa t^2 ch a z^3 z aa z^0 n aa z^0 c a k^1
+ราบ	1.0	r aa p^2
+ราบรื่น	1.0	r aa p^2 r vv n^2
+รามคำแหง	1.0	r aa m^0 kh a m^0 h xx ng^4
+รามเกียรติ์	1.0	r aa m^0 m a z^3 k iia n^0
+ราย	1.0	r aa j^0
+รายการ	1.0	r aa j^0 k aa n^0
+รายงาน	1.0	r aa j^0 ng aa n^0
+รายจ่าย	1.0	r aa j^0 c aa j^1
+รายชื่อ	1.0	r aa j^0 ch vv z^2
+รายละเอียด	1.0	r aa j^0 l a z^3 z iia t^1
+รายได้	1.0	r aa j^0 d aa j^2
+ราว	1.0	r aa w^0
+ราศี	1.0	r aa z^0 s ii z^4
+ราษฎร	1.0	r aa t^2 s a z^1 d @@ n^0
+รำ	1.0	r a m^0
+รำคาญ	1.0	r a m^0 kh aa n^0
+รำลึก	1.0	r a m^0 l v k^3
+ริดรอน	1.0	r i t^3 r @@ n^0
+ริดสีดวง	1.0	r i t^3 s ii z^4 d uua ng^0
+ริม	1.0	r i m^0
+ริมฝีปาก	1.0	r i m^0 f ii p aa k^1
+ริเริ่ม	1.0	r i z^3 r qq m^2
+รีด	1.0	r ii t^2
+รีบ	1.0	r ii p^2
+รีบด่วน	1.0	r ii p^2 d uua n^1
+รีบร้อน	1.0	r ii p^2 r @@ n^3
+รีบเร่ง	1.0	r ii p^2 r e ng^2
+รีพับลิกัน	1.0	r ii z^0 ph a p^3 l i z^3 k a n^0
+รื่นรมย์	1.0	r vv n^2 r o m^0
+รื้อ	1.0	r vv z^3
+รุก	1.0	r u k^3
+รุกราน	1.0	r u k^3 r aa n^0
+รุดหน้า	1.0	r u t^1 n aa z^2
+รุนแรง	1.0	r u n^0 r xx ng^0
+รุมเร้า	1.0	r u m^0 r a w^3
+รุ่งขึ้น	1.0	r u ng^2 kh v n^2
+รุ่งอรุณ	1.0	r u ng^2 qq z^0 r u n^0
+รุ่งเรือง	1.0	r u ng^2 r vva ng^0
+รุ่งโรจน์	1.0	r u ng^2 r oo t^2
+รุ่น	1.0	r u n^2
+รู	1.0	r uu z^0
+รูบิเดียม	1.0	r uu z^0 b i z^1 d iia m^0
+รูป	1.0	r uu p^2
+รูปการณ์	1.0	r uu p^2 k aa n^0
+รูปธรรม	1.0	r uu p^2 p a z^1 th a m^0
+รูปร่าง	1.0	r uu p^2 r aa ng^2
+รูปลักษณ์	1.0	r uu p^2 l a k^3
+รูปแบบ	1.0	r uu p^2 b xx p^1
+รูเจาะ	1.0	r uu z^0 c @ z^1
+รูเบิล	1.0	r uu z^0 b q n^2
+รู้	1.0	r uu z^3
+รู้จัก	1.0	r uu z^3 c a k^1
+รู้ดี	1.0	r uu z^3 d ii z^0
+รู้ตัว	1.0	r uu z^3 t uua z^0
+รู้สึก	1.0	r uu z^3 s v k^1
+รู้เท่าไม่ถึงการณ์	1.0	r uu z^3 th a w^2 m a j^2 th v ng^4 k aa n^0
+รู้เรื่อง	1.0	r uu z^3 r vva ng^2
+ร่มเย็น	1.0	r o m^2 j e n^0
+ร่วม	1.0	r uua m^2
+ร่วมงาน	1.0	r uua m^2 ng aa n^0
+ร่วมมือ	1.0	r uua m^2 m vv z^0
+ร่วมสมัย	1.0	r uua m^2 s a z^1 m a j^4
+ร่องรอย	1.0	r @@ ng^2 r @@ j^0
+ร่าง	1.0	r aa ng^2
+ร่างกาย	1.0	r aa ng^2 k aa j^0
+ร่าเริง	1.0	r aa z^2 r qq ng^0
+ร่ำรวย	1.0	r a m^2 r uua j^0
+ร่ำไป	1.0	r a m^2 p a j^0
+ร้อง	1.0	r @@ ng^3
+ร้องขอ	1.0	r @@ ng^3 kh @@ z^4
+ร้องเพลง	1.0	r @@ ng^3 phl ee ng^0
+ร้องเรียน	1.0	r @@ ng^3 r iia n^0
+ร้องไห้	1.0	r @@ ng^3 h aa j^2
+ร้อน	1.0	r @@ n^3
+ร้อย	1.0	r @@ j^3
+ร้อยตำรวจเอก	1.0	r @@ j^3 t a m^0 r uua t^1 z ee k^1
+ร้อยละ	1.0	r @@ j^3 l a z^3
+ร้อยเอ็ด	1.0	r @@ j^3 z e t^1
+ร้าน	1.0	r aa n^3
+ร้านค้า	1.0	r aa n^3 kh aa z^3
+ร้านอาหาร	1.0	r aa n^3 z aa z^0 h aa n^4
+ร้าย	1.0	r aa j^3
+ร้ายกาจ	1.0	r aa j^3 k aa t^1
+ร้ายแรง	1.0	r aa j^3 r xx ng^0
+ฤชุพันธุ์	1.0	r v z^3 ch u z^1 ph a n^0
+ฤดู	1.0	r v z^3 d uu z^0
+ฤดูหนาว	1.0	r v z^3 d uu z^0 n aa w^4
+ฤดูแล้ง	1.0	r v z^3 d uu z^0 l xx ng^3
+ฤทธิ์	1.0	r i t^3
+ล	1.0	l @@ z^0
+ลง	1.0	l o ng^0
+ลงทุน	1.0	l o ng^0 th u n^0
+ลงนาม	1.0	l o ng^0 n aa m^0
+ลงมา	1.0	l o ng^0 m aa z^0
+ลงมือ	1.0	l o ng^0 m vv z^0
+ลงรอย	1.0	l o ng^0 r @@ j^0
+ลงเอย	1.0	l o ng^0 z qq j^0
+ลงโทษ	1.0	l o ng^0 th oo t^2
+ลด	1.0	l o t^3
+ลดทอน	1.0	l o t^3 th @@ n^0
+ลดลง	1.0	l o t^3 l o ng^0
+ลบ	1.0	l o p^3
+ลม	1.0	l o m^0
+ลวดทองแดง	1.0	l uua t^2 th @@ ng^0 d xx ng^0
+ลวดลาย	1.0	l uua t^2 l aa j^0
+ลอกเลียน	1.0	l @@ k^2 l iia n^0
+ลอง	1.0	l @@ ng^0
+ลองจิจูด	1.0	l @@ ng^0 c i t^1 c uu t^1
+ลอจิก	1.0	l @@ c i k^1
+ลอนดอน	1.0	l @ n^0 d @ n^0
+ลอบ	1.0	l @@ p^2
+ลอย	1.0	l @@ j^0
+ลอยฟ้า	1.0	l @@ j^0 f aa z^3
+ละ	1.0	l a z^3
+ละคร	1.0	l a z^3 kh @@ n^0
+ละทิ้ง	1.0	l a z^3 th i ng^3
+ละออง	1.0	l a z^3 z @@ ng^0
+ละอาย	1.0	l a z^3 z aa j^0
+ละเมอ	1.0	l a z^3 m qq z^4
+ละเมิด	1.0	l a z^3 m qq t^2
+ละเลย	1.0	l a z^3 l qq j^0
+ละเล่น	1.0	l a z^3 l e n^2
+ละเอียด	1.0	l a z^3 z iia t^1
+ละเอียดลออ	1.0	l a z^3 z iia t^1 l a z^3 z @@ z^0
+ละเอียดอ่อน	1.0	l a z^3 z iia t^1 z @@ n^1
+ละแวก	1.0	l a z^3 w xx k^2
+ลักกี้	1.0	l a k^3 k ii z^2
+ลักลอบ	1.0	l a k^3 l @@ p^2
+ลักลั่น	1.0	l a k^3 l a n^2
+ลักษณะ	1.0	l a k^3 s a z^1 n a z^1
+ลังกา	1.0	l a ng^0 k aa z^0
+ลังกาวี	1.0	l a ng^0 k aa z^0 w ii z^0
+ลังเล	1.0	l a ng^0 l ee z^0
+ลัดเลาะ	1.0	l a t^3 l @ z^3
+ลัทธิ	1.0	l a t^3 th i z^3
+ลับ	1.0	l a p^3
+ลั่น	1.0	l a n^2
+ลา	1.0	l aa z^0
+ลาง	1.0	l aa ng^0
+ลาด	1.0	l aa t^2
+ลาดชัน	1.0	l aa t^2 ch a n^0
+ลาดเท	1.0	l aa t^2 th ee z^0
+ลายมือ	1.0	l aa j^0 m vv z^0
+ลายสือ	1.0	l aa j^0 s vv z^4
+ลาว	1.0	l aa w^0
+ลาออก	1.0	l aa z^0 z @@ k^1
+ลำ	1.0	l a m^0
+ลำคอ	1.0	l a m^0 kh @@ z^0
+ลำดับ	1.0	l a m^0 d a p^1
+ลำน้ำ	1.0	l a m^0 n aa m^3
+ลำบาก	1.0	l a m^0 b aa k^1
+ลำพัง	1.0	l a m^0 ph a ng^0
+ลำพูน	1.0	l a m^0 ph uu n^0
+ลำเลียง	1.0	l a m^0 l iia ng^0
+ลำเอียง	1.0	l a m^0 z iia ng^0
+ลิง	1.0	l i ng^0
+ลิไท	1.0	l i z^3 th a j^0
+ลิ้น	1.0	l i n^3
+ลิ้นทะเล	1.0	l i n^3 th a z^3 l ee z^0
+ลีลา	1.0	l ii z^0 l aa z^0
+ลี้ลับ	1.0	l ii z^3 l a p^3
+ลึก	1.0	l v k^3
+ลึกซึ้ง	1.0	l v k^3 s v ng^3
+ลึกลับ	1.0	l v k^3 l a p^3
+ลืม	1.0	l vv m^0
+ลือ	1.0	l vv z^0
+ลุ	1.0	l u z^3
+ลุก	1.0	l u k^3
+ลุกลาม	1.0	l u k^3 l aa m^0
+ลุกฮือ	1.0	l u k^3 h vv z^0
+ลุง	1.0	l u ng^0
+ลุงชาน	1.0	l u ng^0 ch aa n^0
+ลุล่วง	1.0	l u z^3 l uua ng^2
+ลุ่ม	1.0	l u m^2
+ลุ่มน้ำ	1.0	l u m^2 n aa m^3
+ลุ่มลึก	1.0	l u m^2 l v k^3
+ลูก	1.0	l uu k^2
+ลูกกลอน	1.0	l uu k^2 kl @@ n^0
+ลูกค้า	1.0	l uu k^2 kh aa z^3
+ลูกจ้าง	1.0	l uu k^2 c aa ng^2
+ลูกตา	1.0	l uu k^2 t aa z^0
+ลูกน้อง	1.0	l uu k^2 n @@ ng^3
+ลูกบาศก์	1.0	l uu k^2 b aa t^1
+ลูกปืน	1.0	l uu k^2 p vv n^0
+ลูกผสม	1.0	l uu k^2 ph a z^1 s o m^4
+ลูกผู้ดี	1.0	l uu k^2 ph uu z^3 d ii z^0
+ลูกฟัก	1.0	l uu k^2 f a k^1
+ลูกศิษย์	1.0	l uu k^2 s i t^1
+ลูกสาว	1.0	l uu k^2 s aa w^4
+ลูกหนี้	1.0	l uu k^2 n ii z^2
+ลูกเขย	1.0	l uu k^2 kh qq j^4
+ลูกโซ่	1.0	l uu k^2 s oo z^2
+ลูบ	1.0	l uu p^2
+ลูป	1.0	l uu p^2
+ลูเซียโน	1.0	l uu z^0 s iia z^0 n oo z^2
+ลู่ทาง	1.0	l uu z^2 th aa ng^0
+ล่ม	1.0	l o m^2
+ล่มจม	1.0	l o m^2 c o m^0
+ล่วง	1.0	l uua ng^2
+ล่วงหน้า	1.0	l uua ng^2 n aa z^2
+ล่ะ	1.0	l a z^2
+ล่าง	1.0	l aa ng^2
+ล่าช้า	1.0	l aa z^2 ch aa z^3
+ล่าม	1.0	l aa m^2
+ล่าสุด	1.0	l aa z^2 s u t^1
+ล้นพ้น	1.0	l o n^3 ph o n^3
+ล้ม	1.0	l o m^3
+ล้มล้าง	1.0	l o m^3 l aa ng^3
+ล้มเหลว	1.0	l o m^3 l ee w^4
+ล้วน	1.0	l uua n^3
+ล้วนแต่	1.0	l uua n^3 t xx z^1
+ล้วนแล้ว	1.0	l uua n^3 l xx w^3
+ล้อม	1.0	l @@ m^3
+ล้อเลียน	1.0	l @@ z^3 l iia n^0
+ล้อเล่น	1.0	l @@ z^3 l e n^2
+ล้าง	1.0	l aa ng^3
+ล้าน	1.0	l aa n^3
+ล้านนา	1.0	l aa n^3 n aa z^0
+ล้าหลัง	1.0	l aa z^3 l a ng^4
+วง	1.0	w o ng^0
+วงการ	1.0	w o ng^0 k aa n^0
+วงขนานลองติจูด	1.0	w o ng^0 kh a z^1 n aa n^4 l @@ ng^4 t i z^1 c uu t^1
+วงจร	1.0	w o ng^0 c @@ n^0
+วงจรขยายกำลัง	1.0	w o ng^0 c @@ n^0 kh a z^1 j aa j^4 k a m^0 l a ng^0
+วงจรขยายสัญญาณ	1.0	w o ng^0 c @@ n^0 kh a z^1 j aa j^4 s a n^4 j aa n^0
+วงจรผสมสัญญาณ	1.0	w o ng^0 c @@ n^0 ph a z^1 s o m^4 s a n^4 j aa n^0
+วงจรรวม	1.0	w o ng^0 c @@ n^0 r uua m^0
+วงจรรีเลย์	1.0	w o ng^0 c @@ n^0 r ii z^0 l ee z^0
+วงจรอิเล็กทรอนิกส์	1.0	w o ng^0 c @@ z^0 r @@ z^0 z i z^1 l e k^3 thr @@ z^0 n i k^1
+วงจรไดอะแกรม	1.0	w o ng^0 c @@ n^0 d aa q z^3 kr x m^0
+วงล้อ	1.0	w o ng^0 l @@ z^2
+วงล้อเพลตัน	1.0	w o ng^0 l @@ z^3 phl ee t a n^0
+วงศ์งามขำ	1.0	w o ng^0 ng aa m^0 kh a m^0
+วงศ์วรรณ	1.0	w o ng^0 w a n^0
+วงศ์วานิช	1.0	w o ng^0 w aa z^0 n i t^3
+วงศ์ๆ	1.0	w o ng^0 w o ng^0
+วงเงิน	1.0	w o ng^0 ng q n^0
+วน	1.0	w o n^0
+วนศาสตร์	1.0	w a z^3 n a z^3 s aa t^1
+วนเกษตร	1.0	w a z^3 n a z^3 k a z^1 s ee t^1
+วรนุช	1.0	w @@ n^0 n u ch^3
+วรรค	1.0	w a k^3
+วรรณกรรม	1.0	w a n^0 n a z^3 k a m^0
+วรรณคดี	1.0	w a n^0 n a z^3 kh a z^3 d ii z^0
+วรรณศิลป์	1.0	w a n^0 n a z^3 s i n^4
+วรรณะ	1.0	w a n^0 n a z^3
+วรศักดิ์	1.0	w @@ n^0 s a k^1
+วลี	1.0	w a z^3 l ii z^0
+วสันต์	1.0	w a z^3 s a n^4
+วอชิงตัน	1.0	w @@ z^0 ch i ng^0 t a n^0
+วอร์ซอ	1.0	w @@ z^0 s @@ z^0
+วัคซีน	1.0	w a k^3 s ii n^0
+วัง	1.0	w a ng^0
+วังกานนท์	1.0	w a ng^0 k aa z^0 n o n^0
+วัชพืช	1.0	w a t^3 ch a z^3 ph vv t^2
+วัฑฒนะพงศ์	1.0	w a j^0 th t^3 th a z^3 n a z^3 ph o ng^0
+วัฒนธรรม	1.0	w a t^3 th a z^3 n a z^3 th a m^0
+วัด	1.0	w a t^3
+วัดขุนพรหม	1.0	w a t^1 kh u n^4 phr o m^0 m a j^4
+วัตถุ	1.0	w a t^3 th u z^1
+วัตถุดิบ	1.0	w a t^3 th u z^1 d i p^1
+วัตถุธรรม	1.0	w a t^3 th u z^1 th a m^0
+วัตถุนิยม	1.0	w a t^3 th u z^1 n i z^3 j o m^0
+วัตถุประสงค์	1.0	w a t^3 th u z^1 pr a z^1 s o ng^4
+วัน	1.0	w a n^0
+วันที่	1.0	w a n^0 th ii z^2
+วันนี้	1.0	w a n^0 n ii z^3
+วันรุ่งขึ้น	1.0	w a n^0 r u ng^2 kh v n^2
+วันหนึ่ง	1.0	w a n^0 n v ng^1
+วันเกิด	1.0	w a n^0 k qq t^1
+วัย	1.0	w a j^0
+วัยรุ่น	1.0	w a j^0 r u n^2
+วัลลีย์	1.0	w a n^0 l ii z^0
+วัว	1.0	w uua z^0
+วัสดุ	1.0	w a t^3 s a z^1 d u z^1
+วาง	1.0	w aa ng^0
+วางแผน	1.0	w aa ng^0 ph xx n^4
+วาจา	1.0	w aa z^0 c aa z^0
+วาด	1.0	w aa t^2
+วาทศิลป์	1.0	w aa z^0 th a z^3 s i n^4
+วายร้าย	1.0	w aa j^0 r aa j^3
+วารสาร	1.0	w aa z^0 r a z^3 s aa n^4
+วาระ	1.0	w aa z^0 r a z^3
+วาสนา	1.0	w aa t^2 s a z^1 n aa z^4
+วิกรม	1.0	w i z^3 kr o m^0
+วิกฤตการณ์	1.0	w i z^3 kr i t^1 t a z^1 k aa n^0
+วิกฤติ	1.0	w i z^3 kr i t^1
+วิกฤติการณ์	1.0	w i z^3 kr i t^1 k aa n^0
+วิกลจริต	1.0	w i z^3 k o n^0 c a z^1 r i t^1
+วิงเวียน	1.0	w i ng^0 w iia n^0
+วิจัย	1.0	w i z^3 c a j^0
+วิจารณญาณ	1.0	w i z^3 c aa z^0 r a z^3 n a z^3 j aa n^0
+วิจารณ์	1.0	w i z^3 c aa n^0
+วิจิตร	1.0	w i z^3 c i t^1
+วิชา	1.0	w i z^3 ch aa z^0
+วิชาการ	1.0	w i z^3 ch aa z^0 k aa n^0
+วิชาชีพ	1.0	w i z^3 ch aa z^0 ch ii p^2
+วิญญาณ	1.0	w i n^0 j aa n^0
+วิดีโอ	1.0	w i z^3 d ii z^3 z oo z^2
+วิตก	1.0	w i z^3 t o k^1
+วิตกกังวล	1.0	w i z^3 t o k^1 k a ng^0 w o n^0
+วิตามิน	1.0	w i z^3 t aa z^0 m i n^0
+วิถี	1.0	w i z^3 th ii z^4
+วิถีชีวิต	1.0	w i z^3 th ii z^4 ch ii z^0 w i t^3
+วิถีทาง	1.0	w i z^3 th ii z^4 th aa ng^0
+วิทยา	1.0	w i t^3 th a z^3 j aa z^0
+วิทยาการ	1.0	w i t^3 th a z^3 j aa z^0 k aa n^0
+วิทยาลัย	1.0	w i t^3 th a z^3 j aa z^0 l a j^0
+วิทยาศาสตร์	1.0	w i t^3 th a z^3 j aa z^0 s aa t^1
+วิทยาศาสตร์เทคโนโลยีและการพลังงาน	1.0	w i t^3 th a z^3 j aa z^0 s aa t^1 th e k^3 n oo z^0 l oo z^0 j ii z^0 l x z^3 k aa n^0 ph a z^3 l a ng^0 ng aa n^0
+วิทยาเขต	1.0	w i t^3 th a z^3 j aa z^0 kh ee t^1
+วิทยุ	1.0	w i t^3 th a z^3 j u z^3
+วิทยุตามตัว	1.0	w i t^3 th a z^3 j u z^3 t aa m^0 t uua z^0
+วิทยุโทรทัศน์	1.0	w i t^3 th a z^3 j u th oo z^0 r a z^3 th a t^3
+วิธี	1.0	w i z^3 th ii z^0
+วิธีการ	1.0	w i z^3 th ii z^0 k aa n^0
+วิธีใช้	1.0	w i z^3 th ii z^0 ch a j^3
+วินัย	1.0	w i z^3 n a j^0
+วินาที	1.0	w i z^3 n aa z^0 th ii z^0
+วินาศกรรม	1.0	w i z^3 n aa t^2 s a z^1 k a m^0
+วินิจฉัย	1.0	w i z^3 n i t^3 ch a j^4
+วิพากษ์	1.0	w i z^3 ph aa k^2
+วิภา	1.0	w i z^3 ph aa z^0
+วิมล	1.0	w i z^3 m o n^0
+วิมัตินิยม	1.0	w i z^3 m a t^3 n i z^3 j o m^0
+วิริยะ	1.0	w i z^3 r i z^3 j a z^3
+วิวัฒนาการ	1.0	w i z^3 w a t^3 th a z^3 n aa z^0 k aa n^0
+วิศว	1.0	w i t^3 s a z^1 w a z^3
+วิศวกร	1.0	w i t^3 s a z^1 w a z^3 k @@ n^0
+วิศวกรรม	1.0	w i t^3 s a z^1 w a z^3 k a m^0
+วิศวกรรมศาสตร์	1.0	w i t^3 s a z^1 w a z^3 k a m^0 m a z^3 s aa t^1
+วิสัทลักษณ์	1.0	w i z^3 s a t^1 th a z^3 l a k^3
+วิสัย	1.0	w i z^3 s a j^4
+วิสามัญ	1.0	w i z^3 s aa z^4 m a n^0
+วิอาญา	1.0	w i z^3 z aa z^0 j aa z^0
+วิเคราะห์	1.0	w i z^3 khr @ z^3
+วิเชษฐ	1.0	w i z^3 ch ee t^2
+วิเทศธนกิจ	1.0	w i z^3 th ee t^2 th a z^3 n a z^3 k i t^1
+วิเศษ	1.0	w i z^3 s ee t^1
+วิเศษณ์	1.0	w i z^3 s ee t^1
+วิโรจน์	1.0	w i z^3 r oo t^2
+วิ่ง	1.0	w i ng^2
+วิ่งเต้น	1.0	w i ng^2 t e n^2
+วีซีโอ	1.0	w ii z^0 s ii z^3 z oo z^2
+วีรบุรุษ	1.0	w ii z^0 r a z^3 b u z^1 r u t^1
+วีระ	1.0	w ii z^0 r a z^3
+วีแอลเอสไอ	1.0	w ii z^0 z xx l^0 z ee t^1 z
+วุฒิปรีชา	1.0	w u t^3 th i z^3 pr ii z^0 ch aa z^0
+วุฒิพงศ์	1.0	w u t^3 th i z^3 ph o ng^0
+วุฒิวะชาติกุล	1.0	w u t^3 th i z^3 w a z^3 ch aa t^2 k u n^0
+วุฒิสภา	1.0	w u t^3 th i z^3 s a z^1 ph aa z^0
+วุ่นวาย	1.0	w u n^2 w aa j^0
+วุ้น	1.0	w u n^2
+วูบ	1.0	w uu p^2
+วโรตม์สิกขดิตถ์	1.0	w a z^3 r t m^0 s i k^3 d i t^3 th
+ว่องไว	1.0	w @ ng^1 w a j^0
+ว่า	1.0	w aa z^2
+ว่าการ	1.0	w aa z^2 k aa n^0
+ว่าง	1.0	w aa ng^2
+ว่างงาน	1.0	w aa ng^2 ng aa n^0
+ว่างเปล่า	1.0	w aa ng^2 pl aa w^1
+ว่าจ้าง	1.0	w aa z^2 c aa ng^2
+ว้าวุ่น	1.0	w aa z^3 w u n^2
+ว้าเหว่	1.0	w aa z^3 w ee z^1
+ศก	1.0	s o k^1
+ศตวรรษ	1.0	s a z^1 t a z^1 w a t^3
+ศพ	1.0	s o p^1
+ศรัทธา	1.0	s a t^1 th aa z^0
+ศรี	1.0	s ii z^4
+ศรีปราชญ์	1.0	s ii z^4 pr aa t^1
+ศรีเมือง	1.0	s ii z^4 m vva ng^0
+ศอก	1.0	s @@ k^1
+ศักดาไฟฟ้า	1.0	s a k^1 aa f a j^0 f aa z^3
+ศักดินา	1.0	s a k^1 n aa z^0
+ศักดิ์	1.0	s a k^1
+ศักดิ์ศรี	1.0	s a k^1 s ii z^4
+ศักดิ์สิทธิ์	1.0	s a k^1 s i t^1
+ศักยภาพ	1.0	s a k^1 k a z^1 j a z^3 ph aa p^2
+ศักราช	1.0	s a k^1 k a z^1 r aa t^1
+ศัตรู	1.0	s a t^1 tr uu z^0
+ศัพท์	1.0	s a p^1
+ศัพท์สัมพันธ์	1.0	s a p^1 s a m^4 ph a n^0
+ศาล	1.0	s aa n^4
+ศาสดา	1.0	s aa t^1 s a z^1 d aa z^0
+ศาสตร์	1.0	s aa t^1
+ศาสนจักร	1.0	s aa t^1 s a z^1 n a z^3 c a k^1
+ศาสนสถาน	1.0	s aa t^1 s a z^1 n a z^3 s a z^1 th aa n^4
+ศาสนา	1.0	s aa t^1 s a z^1 n aa z^4
+ศิรินวกุล	1.0	s i z^1 r i z^1 n a z^3 w a z^3 k u n^0
+ศิลปกรรม	1.0	s i n^4 l a z^3 p a z^1 k a m^0
+ศิลปวัฒนธรรม	1.0	s i n^4 l a z^3 p a z^1 w a t^3 th a z^3 n a z^3 th a m^0
+ศิลปวัตถุ	1.0	s i n^4 l a z^3 p a z^1 w a t^3 th u z^1
+ศิลปวิทยา	1.0	s i n^4 l a z^3 p a z^1 w i t^3 th a z^3 j aa z^0
+ศิลปหัตถกรรม	1.0	s i n^4 l a z^3 p a z^1 h a t^1 th a z^1 k a m^0
+ศิลปะ	1.0	s i n^4 l a z^3 p a z^1
+ศิลปากร	1.0	s i n^4 l a z^3 p aa z^0 k @@ n^0
+ศิลปิน	1.0	s i n^4 l a z^3 p i n^0
+ศิลป์	1.0	s i n^4
+ศิลาจารึก	1.0	s i z^1 l aa z^0 c aa z^0 r v k^3
+ศิลาอ่อน	1.0	s i z^1 l aa z^0 z @@ n^1
+ศิวลึงค์	1.0	s i z^1 w a z^3 l v ng^0
+ศิษย์	1.0	s i t^1
+ศีรษะ	1.0	s ii z^4 s a z^1
+ศีล	1.0	s ii n^4
+ศีลธรรม	1.0	s ii n^4 l a z^3 th a m^0
+ศึก	1.0	s v k^1
+ศึกษา	1.0	s v k^1 s aa z^4
+ศึกษาธิการ	1.0	s v k^1 s aa z^4 th i z^3 k aa n^0
+ศุกร์	1.0	s u k^1
+ศุภเดช	1.0	s u ph d t^2
+ศูนย์	1.0	s uu n^4
+ศูนย์กลาง	1.0	s uu n^4 kl aa ng^0
+ศูนย์วิจัย	1.0	s uu n^4 w i z^3 c a j^0
+ศูนย์สูตร	1.0	s uu n^4 s uu t^1
+ศูนย์ฯ	1.0	s uu n^4 n^2
+ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ	1.0	s uu n^4 th e k^3 n oo z^0 l oo z^0 j ii z^0 z i z^1 l e k^3 thr @@ z^0 n i k^1 l a z^3 kh @ m^0 ph i w^3 t qq z^2 h x ng^1 ch aa t^2
+ส.ส.	1.0	s @@ z^4 s @@ z^4
+สกปรก	1.0	s o k^1 k a z^1 pr o k^1
+สกัด	1.0	s a z^1 k a t^1
+สกุล	1.0	s a z^1 k u n^0
+สงขลา	1.0	s o ng^4 khl aa z^4
+สงคราม	1.0	s o ng^4 khr aa m^0
+สงครามโลก	1.0	s o ng^4 khr aa m^0 l oo k^2
+สงฆ์	1.0	s o ng^4
+สงบ	1.0	s a z^1 ng o p^1
+สงบสุข	1.0	s a z^1 ng o p^1 s u k^1
+สงสัย	1.0	s o ng^4 s a j^4
+สงสาร	1.0	s o ng^4 s aa n^4
+สงเคราะห์	1.0	s o ng^4 khr @ z^3
+สง่า	1.0	s a z^1 ng aa z^1
+สด	1.0	s o t^1
+สดชื่น	1.0	s o t^1 ch vv n^2
+สตรี	1.0	s a t^1 tr ii z^0
+สตัฟฟ์	1.0	s a z^1 t a p^3
+สติ	1.0	s a z^1 t i z^1
+สติปัญญา	1.0	s a z^1 t i z^1 p a n^0 j aa z^0
+สถาน	1.0	s a z^1 th aa n^4
+สถานการณ์	1.0	s a z^1 th aa z^4 n a z^3 k aa n^0
+สถานที่	1.0	s a z^1 th aa n^4 th ii z^2
+สถานภาพ	1.0	s a z^1 th aa z^4 n a z^3 ph aa p^2
+สถานะ	1.0	s a z^1 th aa z^4 n a z^3
+สถานี	1.0	s a z^1 th aa z^4 n ii z^0
+สถาบัน	1.0	s a z^1 th aa z^4 b a n^0
+สถาบันเทคโนโลยีพระจอมเกล้าลาดกระบัง	1.0	s a z^1 th aa z^4 b a n^0 th e k^3 n oo z^0 l oo z^0 j ii z^0 phr a z^3 c @@ m^0 kl aa w^2 l aa t^1 kr a z^1 b a ng^0
+สถาปนา	1.0	s a z^1 th aa z^4 p a z^1 n aa z^4
+สถาปัตยกรรม	1.0	s a z^1 th aa z^4 p a t^1 t a z^1 j a z^3 k a m^0
+สถิติ	1.0	s a z^1 th i z^1 t i z^1
+สถูป	1.0	s a z^1 th uu p^1
+สนทนา	1.0	s o n^4 th a z^3 n aa z^0
+สนพระราชหฤทัย	1.0	s o n^4 phr a z^3 r aa t^2 ch a z^3 h r v z^3 th a j^0
+สนอง	1.0	s a z^1 n @@ ng^4
+สนองตอบ	1.0	s a z^1 n @@ ng^4 t @@ p^1
+สนับสนุน	1.0	s a z^1 n a p^1 s a z^1 n u n^4
+สนั่น	1.0	s a z^1 n a n^2
+สนาม	1.0	s a z^1 n aa m^4
+สนามรบ	1.0	s a z^1 n aa m^4 r o p^3
+สนามไฟฟ้า	1.0	s a z^1 n aa m^4 f a j^0 f aa z^3
+สนิท	1.0	s a z^1 n i t^1
+สนิทสนม	1.0	s a z^1 n i t^1 s a z^1 n o m^4
+สนุก	1.0	s a z^1 n u k^1
+สนุกสนาน	1.0	s a z^1 n u k^1 s a z^1 n aa n^0
+สนเทศ	1.0	s a z^1 n a z^3 th ee t^2
+สนใจ	1.0	s o n^4 c a j^0
+สบถ	1.0	s a z^1 b o t^1
+สบาย	1.0	s a z^1 b aa j^0
+สบายใจ	1.0	s a z^1 b aa j^0 c a j^0
+สปริง	1.0	s a z^1 pr i ng^0
+สภา	1.0	s a z^1 ph aa z^0
+สภาพ	1.0	s a z^1 ph aa p^2
+สภาพการณ์	1.0	s a z^1 ph aa p^2 k aa n^0
+สภาพแวดล้อม	1.0	s a z^1 ph aa p^2 w xx t^2 l @@ m^3
+สภาวการณ์	1.0	s a z^1 ph aa z^0 w a z^3 k aa n^0
+สภาวะ	1.0	s a z^1 ph aa z^0 w a z^3
+สม	1.0	s o m^4
+สมการ	1.0	s a z^1 m a z^3 k aa n^0
+สมควร	1.0	s o m^4 kh uua n^0
+สมจริง	1.0	s o m^4 c i ng^0
+สมชัย	1.0	s o m^4 ch a j^0
+สมณศักดิ์	1.0	s a z^1 m a z^3 n a z^3 s a k^1
+สมดุล	1.0	s o m^4 d u n^0
+สมดุลยภาพ	1.0	s o m^4 d u n^0 j a z^3 ph aa p^2
+สมดุลย์	1.0	s o m^4 d u n^0
+สมถะ	1.0	s a z^1 m a z^3 th a z^1
+สมทบ	1.0	s o m^4 th o p^3
+สมบัติ	1.0	s o m^4 b a t^1
+สมบูรณาญาสิทธิราชย์	1.0	s o m^4 b uu z^0 r a z^3 n aa z^0 j aa z^0 s i t^1 th i z^3 r aa t^2
+สมบูรณ์	1.0	s o m^4 b uu n^0
+สมประกอบ	1.0	s o m^4 pr a z^1 k @@ p^1
+สมภพ	1.0	s o m^4 ph o p^3
+สมภาร	1.0	s o m^4 ph aa n^0
+สมมติ	1.0	s o m^4 m a z^3 t i z^1
+สมมุติ	1.0	s o m^4 m u t^3
+สมรรถนะ	1.0	s a z^1 m a t^1 th a z^1 n a z^3
+สมรรถภาพ	1.0	s a z^1 m a t^1 th a z^1 ph aa p^2
+สมรส	1.0	s o m^4 r o t^3
+สมศรี	1.0	s o m^4 s ii z^4
+สมอง	1.0	s a z^1 m @@ ng^4
+สมอเรียง	1.0	s a z^1 m @@ z^4 r iia ng^0
+สมัคร	1.0	s a z^1 m a k^1
+สมัครใจ	1.0	s a z^1 m a k^1 c a j^0
+สมัย	1.0	s a z^1 m a j^4
+สมัยก่อน	1.0	s a z^1 m a j^4 k @@ n^1
+สมาคม	1.0	s a z^1 m aa z^0 kh o m^0
+สมาชิก	1.0	s a z^1 m aa z^0 ch i k^3
+สมาชิกภาพ	1.0	s a z^1 m aa z^0 ch i k^3 k a z^1 ph aa p^2
+สมาธิ	1.0	s a z^1 m aa z^0 th i z^3
+สมาน	1.0	s a z^1 m aa n^4
+สมุด	1.0	s a z^1 m u t^1
+สมุน	1.0	s a z^1 m u n^4
+สมุนไพร	1.0	s a z^1 m u n^0 ph @@ n^0
+สมุย	1.0	s a z^1 m u j^4
+สมเกียรติ	1.0	s a z^1 m a z^3 k iia t^1
+สมเด็จ	1.0	s o m^4 d e t^1
+สมเหตุสมผล	1.0	s o m^4 h ee t^1 s o m^4 ph o n^4
+สม่ำเสมอ	1.0	s a z^1 m a m^1 s a z^1 m qq z^4
+สยาม	1.0	s a z^1 j aa m^4
+สรง	1.0	s o ng^4
+สรงน้ำ	1.0	s o ng^4 n aa m^3
+สรณะ	1.0	s a z^1 r a z^3 n a z^3
+สรรค์	1.0	s a n^4
+สรรพคุณ	1.0	s a p^1 ph a z^3 kh u n^0
+สรรพศรี	1.0	s a p^1 ph a z^3 s ii z^4
+สรรพสิ่ง	1.0	s a p^1 ph a z^3 s i ng^1
+สรรหา	1.0	s a n^4 h aa z^4
+สระ	1.0	s a z^1 r a z^1
+สรีระ	1.0	s a z^1 r ii z^0 r a z^3
+สรุป	1.0	s a z^1 r u p^1
+สร้าง	1.0	s aa ng^2
+สร้างสม	1.0	s aa ng^2 s o m^4
+สร้างสรรค์	1.0	s aa ng^2 s a n^4
+สฤษดิ์	1.0	s a z^1 r i t^1
+สละ	1.0	s a z^1 l a z^1
+สลักสำคัญ	1.0	s a z^1 l a k^1 s a m^4 kh a n^0
+สลับ	1.0	s a z^1 l a p^3
+สลับซับซ้อน	1.0	s a z^1 l a p^3 s a p^3 s @@ n^3
+สลัม	1.0	s a z^1 l a m^0
+สลาย	1.0	s a z^1 l aa j^4
+สลึง	1.0	s a z^1 l v ng^0
+สวน	1.0	s uua n^4
+สวนทาง	1.0	s uua n^4 th aa ng^0
+สวม	1.0	s uua m^2
+สวย	1.0	s uua j^4
+สวยงาม	1.0	s uua j^4 ng aa m^0
+สวรรค์	1.0	s a z^1 w a n^4
+สวัสดิการ	1.0	s a z^1 w a t^1 d i z^1 k aa n^0
+สวัสดิภาพ	1.0	s a z^1 w a t^1 d i z^1 ph aa p^2
+สวัสดิ์	1.0	s a z^1 w a t^1
+สวีเดน	1.0	s a z^1 w ii z^0 d e n^0
+สว่าง	1.0	s a z^1 w aa ng^1
+สหกรณ์	1.0	s a z^1 h a z^1 k @@ n^0
+สหประชาชาติ	1.0	s a z^1 h a z^1 pr a z^1 ch aa z^0 ch aa t^2
+สหพันธ์	1.0	s a z^1 h a z^1 ph a n^0
+สหภาพ	1.0	s a z^1 h a z^1 ph aa p^2
+สหภาพโซเวียต	1.0	s a z^1 h a z^1 ph aa p^2 s oo z^0 w iia t^2
+สหรัฐ	1.0	s a z^1 h a z^1 r a t^3
+สหรัฐอเมริกา	1.0	s a z^1 h a z^1 r a t^3 z a z^1 m ee z^0 r i z^3 k aa z^0
+สหวิทยาลัย	1.0	s a z^1 h a z^1 w i t^3 th a z^3 j aa z^0 l a j^0
+สหอาชีวะ	1.0	s a z^1 h a z^1 z aa z^0 ch ii z^0 w a z^3
+สอง	1.0	s @@ ng^4
+สอดคล้อง	1.0	s @@ t^1 khl @@ ng^3
+สอดส่อง	1.0	s @@ t^1 s @@ ng^1
+สอดแทรก	1.0	s @@ t^1 s xx k^2
+สอน	1.0	s @@ n^4
+สอบ	1.0	s @@ p^1
+สอบถาม	1.0	s @@ p^1 th aa m^4
+สอบสวน	1.0	s @@ p^1 s uua n^4
+สอบไล่	1.0	s @@ p^1 l a j^2
+สะกด	1.0	s a z^1 k o t^1
+สะกดจิต	1.0	s a z^1 k o t^1 c i t^1
+สะดวก	1.0	s a z^1 d uua k^1
+สะดุด	1.0	s a z^1 d u t^1
+สะท้อน	1.0	s a z^1 th @@ n^3
+สะบั้น	1.0	s a z^1 b a n^2
+สะสม	1.0	s a z^1 s o m^4
+สะสาง	1.0	s a z^1 s aa ng^4
+สะอาด	1.0	s a z^1 z aa t^1
+สะเทือน	1.0	s a z^1 th vva n^0
+สัก	1.0	s a k^1
+สักการะ	1.0	s a k^1 k aa z^0 r a z^3
+สังกัด	1.0	s a ng^4 k a t^1
+สังคม	1.0	s a ng^4 kh o m^0
+สังคมนิยม	1.0	s a ng^4 kh o m^0 n i z^3 j o m^0
+สังคมวิทยา	1.0	s a ng^4 kh o m^0 w i t^3 th a z^3 j aa z^0
+สังคมศาสตร์	1.0	s a ng^4 kh o m^0 s aa t^1
+สังคมสารสนเทศ	1.0	s a ng^4 kh o m^0 s aa n^4 s a z^1 n a z^3 th ee t^2
+สังฆาธิการ	1.0	s a ng^4 kh aa z^0 th i z^3 k aa n^0
+สังสรรค์	1.0	s a ng^4 s a n^4
+สังหาร	1.0	s a ng^4 h aa n^4
+สังเกต	1.0	s a ng^4 k ee t^1
+สังเกตการณ์	1.0	s a ng^4 k ee t^1 k aa n^0
+สังเขป	1.0	s a ng^4 kh ee p^1
+สังเคราะห์	1.0	s a ng^4 khr @ z^3
+สัจจะ	1.0	s a t^1 c a z^1
+สัจธรรม	1.0	s a t^1 th a m^0
+สัญจร	1.0	s a n^4 c @@ n^0
+สัญชาตญาณ	1.0	s a n^4 ch aa t^2 t a z^1 j aa n^0
+สัญญา	1.0	s a n^4 j aa z^0
+สัญญาณ	1.0	s a n^4 j aa n^0
+สัญญาณเตือน	1.0	s a n^4 j aa n^0 t vva n^0
+สัญญาณเบสแบนด์	1.0	s a n^4 j aa n^0 b ee z^0 s b xx n^0
+สัญลักษณ์	1.0	s a n^4 j a z^3 l a k^3
+สัณฐาน	1.0	s a n^4 th aa n^4
+สัดส่วน	1.0	s a t^1 s uua n^1
+สัตย์	1.0	s a t^1
+สัตวแพทยศาสตร์	1.0	s a t^1 ph xx t^2 s aa t^1
+สัตว์	1.0	s a t^1
+สัตว์น้ำ	1.0	s a t^1 n aa m^3
+สัตว์ปีก	1.0	s a t^1 p ii k^1
+สัตว์ป่า	1.0	s a t^1 p aa z^1
+สัตว์เลี้ยง	1.0	s a t^1 l iia ng^3
+สันดาน	1.0	s a n^4 d aa n^0
+สันติ	1.0	s a n^4 t i z^1
+สันติภาพ	1.0	s a n^4 t i z^1 ph aa p^2
+สันนิษฐาน	1.0	s a n^4 n i t^3 th aa n^4
+สันสกฤต	1.0	s a n^4 s a z^1 kr i t^1
+สันโดษ	1.0	s a n^4 d oo t^1
+สับ	1.0	s a p^1
+สับสน	1.0	s a p^1 s o n^4
+สัปดาห์	1.0	s a p^1 d aa z^0
+สัมปทาน	1.0	s a m^4 p a z^1 th aa n^0
+สัมประสิทธิ์	1.0	s a m^4 pr a z^1 s i t^1
+สัมผัส	1.0	s a m^4 ph a t^1
+สัมพันธภาพ	1.0	s a m^4 ph a n^0 th a z^3 ph aa p^2
+สัมพันธมิตร	1.0	s a m^4 ph a n^0 th a z^3 m i t^3
+สัมพันธ์	1.0	s a m^4 ph a n^0
+สัมภาษณ์	1.0	s a m^4 ph aa t^2
+สัมมนา	1.0	s a m^4 m a z^3 n aa z^0
+สัมมา	1.0	s a m^4 m aa z^0
+สัมฤทธิผล	1.0	s a m^4 r i t^3 ph o n^4
+สัมฤทธิ์	1.0	s a m^4 r i t^3
+สัมโพธิญาณ	1.0	s a m^4 ph oo z^0 th i z^3 j aa n^0
+สั่ง	1.0	s a ng^1
+สั่งซื้อ	1.0	s a ng^1 s vv z^3
+สั่งสม	1.0	s a ng^1 s o m^4
+สั่งสอน	1.0	s a ng^1 s @@ n^4
+สั่น	1.0	s a n^1
+สั้น	1.0	s a n^2
+สาก	1.0	s aa k^1
+สากล	1.0	s aa z^4 k o n^0
+สาขา	1.0	s aa z^4 kh aa z^4
+สาด	1.0	s aa t^1
+สาธารณชน	1.0	s aa z^4 th aa z^0 r a z^3 n a z^3 ch o n^0
+สาธารณประโยชน์	1.0	s aa z^4 th aa z^0 r a z^3 n a z^3 pr a z^1 j oo t^1
+สาธารณรัฐ	1.0	s aa z^4 th aa z^0 r a z^3 n a z^3 r a t^3
+สาธารณสุข	1.0	s aa z^4 th aa z^0 r a z^3 n a z^3 s u k^1
+สาธารณสุขมูลฐาน	1.0	s aa z^4 th aa z^0 r a z^3 n a z^3 s u k^1 m uu n^0 th aa n^4
+สาธารณะ	1.0	s aa z^4 th aa z^0 r a z^3 n a z^3
+สาธารณูปโภค	1.0	s aa z^4 th aa z^0 r a z^3 n uu z^0 p a z^1 ph oo k^2
+สาน	1.0	s aa n^4
+สาบสาง	1.0	s aa p^1 s aa ng^4
+สาม	1.0	s aa m^4
+สามนต์	1.0	s aa z^4 m o n^0
+สามัคคี	1.0	s aa z^4 m a k^3 kh ii z^0
+สามัญ	1.0	s aa z^4 m a n^0
+สามัญชน	1.0	s aa z^4 m a n^0 ch o n^0
+สามารถ	1.0	s aa z^4 m aa t^2
+สามี	1.0	s aa z^4 m ii z^0
+สามเณร	1.0	s aa m^4 m a z^3 n ee n^0
+สาย	1.0	s aa j^4
+สายตา	1.0	s aa j^4 t aa z^0
+สายลม	1.0	s aa j^4 l o m^0
+สายสร้อย	1.0	s aa j^4 s @@ j^2
+สายอากาศ	1.0	s aa j^4 z aa z^0 k aa t^1
+สาร	1.0	s aa n^4
+สารคดี	1.0	s aa z^4 r a z^3 kh a z^3 d ii z^0
+สารตัวนำยิ่งยวด	1.0	s aa n^4 t uua z^0 n a m^0 j i ng^2 j uua t^2
+สารนิเทศ	1.0	s aa z^4 r a z^3 n i z^3 th ee t^2
+สารพิษ	1.0	s aa n^4 ph i t^3
+สารวัตร	1.0	s aa z^4 r a z^3 w a t^3
+สารสนเทศ	1.0	s aa n^4 s a z^1 n a z^3 th ee t^2
+สาระ	1.0	s aa z^4 r a z^3
+สารเคมี	1.0	s aa n^4 kh ee z^0 m ii z^0
+สารเจือโบรอน	1.0	s aa n^4 c vva b oo z^0 r @@ n^0
+สาว	1.0	s aa w^4
+สาวก	1.0	s aa z^4 w o k^3
+สาหัส	1.0	s aa z^4 h a t^1
+สาเหตุ	1.0	s aa z^4 h ee t^1
+สำคัญ	1.0	s a m^4 kh a n^0
+สำนวน	1.0	s a m^4 n uua n^0
+สำนัก	1.0	s a m^4 n a k^3
+สำนักงาน	1.0	s a m^4 n a k^3 ng aa n^0
+สำนักงานปลัดกระทรวงวิทยาศาสตร์เทคโนโลยีและการพลังงาน	1.0	s a m^4 n a k^3 ng aa n^0 pl a t^1 kr a z^1 s uua ng^0 w i t^3 th a z^3 j aa z^0 s aa t^1 th e k^3 n oo z^0 l oo z^0 j ii z^0 l x z^3 k aa n^0 ph a z^3 l a ng^0 ng aa n^0
+สำนักงานปลัดกระทรวงฯ	1.0	s a m^4 n a k^3 ng aa n^0 pl a t^1 kr a z^1 s uua ng^0 n^2
+สำนักพิมพ์	1.0	s a m^4 n a k^3 ph i m^0
+สำนึก	1.0	s a m^4 n v k^3
+สำมะโนประชากร	1.0	s a m^4 m a z^1 n oo z^0 pr a z^1 ch aa z^0 k @@ n^0
+สำรวจ	1.0	s a m^4 r uua t^1
+สำราญ	1.0	s a m^4 r aa n^0
+สำริด	1.0	s a m^4 r i t^3
+สำหรับ	1.0	s a m^4 r a p^1
+สำเริง	1.0	s a m^4 r qq ng^0
+สำเร็จ	1.0	s a m^4 r e t^1
+สำเร็จรูป	1.0	s a m^4 r e t^1 r uu p^2
+สำแดง	1.0	s a m^4 d xx ng^0
+สิ	1.0	s i z^1
+สิงหาคม	1.0	s i ng^4 h aa z^4 kh o m^0
+สิงห์	1.0	s i ng^4
+สิทธิ	1.0	s i t^1
+สิทธิเลิศพิศาล	1.0	s i t^1 th i z^3 l qq t^2 ph i z^3 s aa n^4
+สิทธิ์	1.0	s i t^1
+สิทธิ์ขาด	1.0	s i t^1 kh aa t^1
+สินค้า	1.0	s i n^4 kh aa z^3
+สินทรัพย์	1.0	s i n^4 s a p^3
+สินเชื่อ	1.0	s i n^4 ch vva z^2
+สิบ	1.0	s i p^1
+สิริกิติ์	1.0	s i z^1 r i z^1 k i t^1
+สิริสัมพันธ์	1.0	s i z^1 r i z^1 s a m^4 ph a n^0
+สิ่ง	1.0	s i ng^1
+สิ่งของ	1.0	s i ng^1 kh @@ ng^4
+สิ่งทอ	1.0	s i ng^1 th @@ z^0
+สิ่งมีชีวิต	1.0	s i ng^1 m ii z^0 ch ii z^0 w i t^3
+สิ่งแวดล้อม	1.0	s i ng^1 w xx t^2 l @@ m^3
+สิ่งใด	1.0	s i ng^1 d a j^0
+สิ้น	1.0	s i n^2
+สิ้นสุด	1.0	s i n^2 s u t^1
+สิ้นหวัง	1.0	s i n^2 w a ng^4
+สิ้นเชิง	1.0	s i n^2 ch qq ng^0
+สิ้นเนื้อประดาตัว	1.0	s i n^2 n vva z^3 pr a z^1 d aa z^0 t uua z^0
+สิ้นเปลือง	1.0	s i n^2 pl vva ng^0
+สิ้นใจ	1.0	s i n^2 c a j^0
+สี	1.0	s ii z^4
+สี่	1.0	s ii z^1
+สี่เหลี่ยม	1.0	s ii z^1 l iia m^1
+สึก	1.0	s v k^1
+สืบ	1.0	s vv p^1
+สืบค้น	1.0	s vv p^1 kh o n^3
+สืบต่อ	1.0	s vv p^1 t @@ z^1
+สืบทอด	1.0	s vv p^1 th @@ t^2
+สืบพันธุ์	1.0	s vv p^1 ph a n^0
+สืบสวน	1.0	s vv p^1 s uua n^4
+สืบเนื่อง	1.0	s vv p^1 n vva ng^2
+สื่อ	1.0	s vv z^1
+สื่อกลาง	1.0	s vv z^1 kl aa ng^0
+สื่อมวลชน	1.0	s vv z^1 m uua n^0 ch o n^0
+สื่อสาร	1.0	s vv z^1 s aa n^4
+สุกเอาเผากิน	1.0	s u k^1 z a w^0 ph a w^4 k i n^0
+สุข	1.0	s u k^1
+สุขภาพ	1.0	s u k^1 kh a z^1 ph aa p^2
+สุขภาพจิต	1.0	s u k^1 kh a z^1 ph aa p^2 c i t^1
+สุขศึกษา	1.0	s u k^1 kh a z^1 s v k^1 s aa z^4
+สุขสบาย	1.0	s u k^1 s a z^1 b aa j^0
+สุขุม	1.0	s u k^1 kh u m^0
+สุขเวทนา	1.0	s u k^1 kh a z^1 w ee z^0 th a z^3 n aa z^0
+สุขใจ	1.0	s u k^1 c a j^0
+สุคนธ์	1.0	s u z^1 kh o n^0
+สุจริต	1.0	s u t^1 c a z^1 r i t^1
+สุจินดา	1.0	s u z^1 c i n^0 d aa z^0
+สุชาติ	1.0	s u z^1 ch aa t^2
+สุญญากาศ	1.0	s u n^0 j aa z^0 k aa t^1
+สุด	1.0	s u t^1
+สุดขีด	1.0	s u t^1 kh ii t^1
+สุดท้อง	1.0	s u t^1 th @@ ng^3
+สุดท้าย	1.0	s u t^1 th aa j^3
+สุดยอด	1.0	s u t^1 j @@ t^2
+สุดวิสัย	1.0	s u t^1 w i z^3 s a j^4
+สุธี	1.0	s u z^1 th ii z^0
+สุนทร	1.0	s u n^4 th @@ n^0
+สุนทรภู่	1.0	s u n^4 th @@ z^0 r a z^3 ph uu z^1
+สุนทราภรณ์	1.0	s u n^4 th a z^3 r aa z^0 ph @@ n^0
+สุนทรียภาพ	1.0	s u n^4 th a z^3 r ii z^0 j a z^3 ph aa p^2
+สุนทรเวช	1.0	s u n^4 th @@ z^0 r a z^3 w ee t^2
+สุนัข	1.0	s u z^1 n a k^3
+สุนีย์	1.0	s u z^1 n ii z^0
+สุพรรณ	1.0	s u z^1 ph a n^0
+สุภาพ	1.0	s u z^1 ph aa p^2
+สุรา	1.0	s u z^1 r aa z^0
+สุรีย์	1.0	s u z^1 r ii z^0
+สุเทพ	1.0	s u z^1 th ee p^2
+สุโขทัย	1.0	s u z^1 kh oo z^4 th a j^0
+สุ่ม	1.0	s u m^1
+สูง	1.0	s uu ng^4
+สูงสุด	1.0	s uu ng^4 s u t^1
+สูงส่ง	1.0	s uu ng^4 s o ng^1
+สูงอายุ	1.0	s uu ng^4 z aa z^0 j u z^3
+สูญ	1.0	s uu n^4
+สูญพันธุ์	1.0	s uu n^4 ph a n^0
+สูญหาย	1.0	s uu n^4 h aa j^4
+สูญเปล่า	1.0	s uu n^4 pl aa w^1
+สูญเสีย	1.0	s uu n^4 s iia z^4
+สูบ	1.0	s uu p^1
+สู่	1.0	s uu z^1
+สู้	1.0	s uu z^2
+สเปคตรัม	1.0	s a z^1 p kh tr a m^0
+สเมอร์ดิยาคอฟ	1.0	s a z^1 m qq z^0 d i z^1 j aa z^0 kh @@ p^3
+สโมสร	1.0	s a z^1 m oo z^0 s @@ n^4
+สไลด์	1.0	s w^0
+ส่ง	1.0	s o ng^1
+ส่งออก	1.0	s o ng^1 z @@ k^1
+ส่งเสริม	1.0	s o ng^1 s qq m^4
+ส่งเสีย	1.0	s o ng^1 s iia z^4
+ส่วน	1.0	s uua n^1
+ส่วนกลาง	1.0	s uua n^1 kl aa ng^0
+ส่วนความจำ	1.0	s uua n^1 khw aa m^0 c a m^0
+ส่วนช่วย	1.0	s uua n^1 ch uua j^2
+ส่วนตัว	1.0	s uua n^1 t uua z^0
+ส่วนน้อย	1.0	s uua n^1 n @@ j^3
+ส่วนประกอบ	1.0	s uua n^1 pr a z^1 k @@ p^1
+ส่วนมาก	1.0	s uua n^1 m aa k^2
+ส่วนย่อย	1.0	s uua n^1 j @ j^2
+ส่วนรวม	1.0	s uua n^1 r uua m^0
+ส่วนร่วม	1.0	s uua n^1 r uua m^2
+ส่วนหนึ่ง	1.0	s uua n^1 n v ng^1
+ส่วนเสีย	1.0	s uua n^1 s iia z^4
+ส่วนใหญ่	1.0	s uua n^1 j a j^1
+ส่วนได้	1.0	s uua n^1 d aa j^2
+ส่วย	1.0	s uua j^1
+ส่อ	1.0	s @@ z^1
+ส่อง	1.0	s @ ng^1
+หก	1.0	h o k^1
+หงุดหงิด	1.0	ng u t^1 ng i t^1
+หญิง	1.0	j i ng^4
+หดหาย	1.0	h o t^1 h aa j^4
+หน	1.0	h o n^4
+หนทาง	1.0	h o n^4 th aa ng^0
+หนอง	1.0	n @@ ng^4
+หนอนกอ	1.0	n @@ n^0 k @@ z^0
+หนัก	1.0	n a k^1
+หนักหน่วง	1.0	n a k^1 n uua ng^1
+หนักใจ	1.0	n a k^1 c a j^0
+หนัง	1.0	n a ng^4
+หนังสือ	1.0	n a ng^4 s vv z^4
+หนังสือพิมพ์	1.0	n a ng^4 s vv z^4 ph i m^0
+หนาม	1.0	n aa m^0
+หนาว	1.0	n aa w^4
+หนาแน่น	1.0	n aa z^4 n x n^2
+หนี	1.0	n ii z^4
+หนี้	1.0	n ii z^2
+หนึ่ง	1.0	n v ng^1
+หนุน	1.0	n u n^4
+หนุ่ม	1.0	n u m^1
+หนุ่มหนุ่ม	1.0	n u m^1 n u m^1
+หนู	1.0	n uu z^4
+หนูขยะ	1.0	n uu z^4 kh a z^1 j a z^1
+หนูจิ๊ด	1.0	n uu z^0 c i t^1
+หนูนา	1.0	n uu z^4 n aa z^0
+หนูพุกเล็ก	1.0	n uu ph u k^1 l e k^3
+หนูสวน	1.0	n uu z^4 s uua n^4
+หนูหริ่ง	1.0	n uu z^4 r i ng^1
+หน่วย	1.0	n uua j^1
+หน่วยความจำ	1.0	n uua j^1 khw aa m^0 c a m^0
+หน่วยงาน	1.0	n uua j^1 ng aa n^0
+หน่วยรังสีรักษา	1.0	n uua j^1 r a ng^0 s ii z^4 r a k^3 s aa z^4
+หน่อย	1.0	n @ j^1
+หน้า	1.0	n aa z^2
+หน้าจอ	1.0	n aa z^2 c @@ z^0
+หน้าจั่ว	1.0	n aa z^2 c uua z^2
+หน้าตา	1.0	n aa z^2 t aa z^0
+หน้าที่	1.0	n aa z^2 th ii z^2
+หน้าปัทม์	1.0	n aa z^3 p a t^1 m^0
+หน้ามืด	1.0	n aa z^2 m vv t^2
+หน้าไหว้หลังหลอก	1.0	n aa z^2 w a j^2 l a ng^4 l @@ k^1
+หมด	1.0	m o t^1
+หมวด	1.0	m uua t^1
+หมอ	1.0	m @@ z^4
+หมอนวด	1.0	m @@ z^4 n uua t^1
+หมัก	1.0	m a k^1
+หมัน	1.0	m a n^4
+หมา	1.0	m aa z^4
+หมาด	1.0	m aa t^1
+หมาย	1.0	m aa j^4
+หมายความ	1.0	m aa j^4 khw aa m^0
+หมายจับ	1.0	m aa j^4 c a p^1
+หมายถึง	1.0	m aa j^4 th v ng^4
+หมายเลข	1.0	m aa j^4 l ee k^2
+หมึก	1.0	m v k^1
+หมื่น	1.0	m vv n^1
+หมุน	1.0	m u n^4
+หมุนเวียน	1.0	m u n^4 w iia n^0
+หมู	1.0	m uu z^4
+หมู่	1.0	m uu z^1
+หมู่คณะ	1.0	m uu z^1 kh a z^3 n a z^3
+หมู่บ้าน	1.0	m uu z^1 b aa n^2
+หมู่เกาะ	1.0	m uu z^1 k @ z^1
+หม่อมราชวงศ์	1.0	m @ m^1 r aa t^2 ch a z^3 w o ng^0
+หม้อ	1.0	m @@ z^2
+หยด	1.0	j o t^1
+หยั่งเสียง	1.0	j a ng^1 s iia ng^4
+หยาบคาย	1.0	j aa p^2 kh aa j^0
+หยิบ	1.0	j i p^1
+หยิบยก	1.0	j i p^1 j o k^3
+หยิ่ง	1.0	j i ng^1
+หยุด	1.0	j u t^1
+หยุดนิ่ง	1.0	j u t^1 n i ng^2
+หยุดยั้ง	1.0	j u t^1 j a ng^3
+หย่อน	1.0	j @ n^1
+หย่อนยาน	1.0	j @ n^1 j aa n^0
+หย่อนใจ	1.0	j @ n^1 c a j^0
+หย่า	1.0	j aa z^1
+หย่าร้าง	1.0	j aa z^1 r aa ng^3
+หรอก	1.0	r @@ k^1
+หรือ	1.0	r vv z^4
+หรือยัง	1.0	r vv z^4 j a ng^0
+หรือเปล่า	1.0	r vv z^4 pl aa w^1
+หรูหรา	1.0	r uu z^4 r aa z^4
+หลง	1.0	l o ng^4
+หลงลืม	1.0	l o ng^4 l vv m^0
+หลงเหลือ	1.0	l o ng^4 l vva z^4
+หลบ	1.0	l o p^1
+หลบหนี	1.0	l o p^1 n ii z^4
+หลบหลีก	1.0	l o p^1 l ii k^1
+หลวง	1.0	l uua ng^4
+หลวม	1.0	l uua m^4
+หลอก	1.0	l @@ k^1
+หลอกลวง	1.0	l @@ k^1 l uua ng^0
+หลอด	1.0	l @@ t^1
+หลอดไฟ	1.0	l @@ t^1 f a j^0
+หลอดไฟฟ้า	1.0	l @@ t^1 f a j^0 f aa z^3
+หลอม	1.0	l @@ m^4
+หลัก	1.0	l a k^1
+หลักการ	1.0	l a k^1 k aa n^0
+หลักฐาน	1.0	l a k^1 th aa n^4
+หลักทรัพย์	1.0	l a k^1 s a p^3
+หลักธรรม	1.0	l a k^1 th a m^0
+หลักสูตร	1.0	l a k^1 s uu t^1
+หลักเกณฑ์	1.0	l a k^1 k ee n^0
+หลัง	1.0	l a ng^4
+หลังจาก	1.0	l a ng^4 c aa k^1
+หลังจากนั้น	1.0	l a ng^4 c aa k^1 n a n^3
+หลับ	1.0	l a p^1
+หลับนอน	1.0	l a p^1 n @@ n^0
+หลัวฮู่	1.0	l uua z^0 h uu z^1
+หลั่งไหล	1.0	l a ng^1 l a j^4
+หลากหลาย	1.0	l aa k^1 l aa j^4
+หลาน	1.0	l aa n^4
+หลาย	1.0	l aa j^4
+หลายๆ	1.0	l aa j^0 k^1
+หลีก	1.0	l ii k^1
+หลีกภัย	1.0	l ii k^1 ph a j^0
+หลีกหนี	1.0	l ii k^1 n ii z^4
+หลีกเลี่ยง	1.0	l ii k^1 l iia ng^2
+หลุด	1.0	l u t^1
+หลุดพ้น	1.0	l u t^1 ph o n^3
+หล่อ	1.0	l @@ z^1
+หวง	1.0	h uua ng^4
+หวงแหน	1.0	h uua ng^4 h xx n^4
+หวน	1.0	h uua n^4
+หวัง	1.0	w a ng^4
+หวั่นกลัว	1.0	w a n^1 kl uua z^0
+หวั่นไหว	1.0	w a n^1 w a j^4
+หวาดกลัว	1.0	w aa t^1 kl uua z^0
+หวาดระแวง	1.0	w aa t^1 r a z^3 w xx ng^0
+หวาน	1.0	w aa n^4
+หวี	1.0	w ii z^0
+หอ	1.0	h @@ z^4
+หอการค้า	1.0	h @@ z^4 k aa n^0 kh aa z^3
+หอบ	1.0	h @@ p^2
+หอม	1.0	h @@ m^4
+หอสมุดกลาง	1.0	h @@ z^4 s a z^1 m u t^1 kl aa ng^0
+หะยีวามิง	1.0	h a z^3 j ii z^0 w aa z^0 m i ng^0
+หักพัง	1.0	h a k^1 ph a ng^0
+หักล้าง	1.0	h a k^1 l aa ng^3
+หัตถกรรม	1.0	h a t^1 th a z^1 k a m^0
+หัน	1.0	h a n^4
+หันเห	1.0	h a n^4 h ee z^4
+หัว	1.0	h uua z^4
+หัวข้อ	1.0	h uua z^4 kh @@ z^2
+หัวคะแนน	1.0	h uua z^4 kh a z^3 n xx n^0
+หัวบันทึก	1.0	h uua z^4 b a n^0 th v k^3
+หัวปี	1.0	h uua z^4 p ii z^0
+หัวรบ	1.0	h uua z^4 r o p^3
+หัวรุนแรง	1.0	h uua z^4 r u n^0 r xx ng^0
+หัวหน้า	1.0	h uua z^4 n aa z^2
+หัวอ่าน	1.0	h uua z^4 z aa n^1
+หัวเทียน	1.0	h uua z^4 th iia n^0
+หัวเมือง	1.0	h uua z^4 m vva ng^0
+หัวเราะ	1.0	h uua z^4 r @ z^3
+หัวเลี้ยวหัวต่อ	1.0	h uua z^4 l iia w^3 h uua z^4 t @@ z^1
+หัวใจ	1.0	h uua z^4 c a j^0
+หั่น	1.0	h a n^2
+หา	1.0	h aa z^4
+หาก	1.0	h aa k^1
+หากแต่	1.0	h aa k^1 t xx z^1
+หาง	1.0	h aa ng^0
+หาดใหญ่	1.0	h aa t^1 j a j^1
+หาทาง	1.0	h aa z^4 th aa ng^0
+หาย	1.0	h aa j^4
+หายนะ	1.0	h aa j^4 j a z^3 n a z^3
+หายใจ	1.0	h aa j^4 c a j^0
+หาร	1.0	h aa n^4
+หารือ	1.0	h aa z^4 r vv z^0
+หาว่า	1.0	h aa z^4 w aa z^2
+หาเลี้ยง	1.0	h aa z^4 l iia ng^3
+หาเสียง	1.0	h aa z^4 s iia ng^4
+หาไม่	1.0	h aa z^4 m a j^2
+หิน	1.0	h i n^4
+หินโสโครก	1.0	h i n^4 s a z^1 khr ee k^1
+หิว	1.0	h i w^4
+หิวโหย	1.0	h i w^4 h oo j^4
+หึ	1.0	h v z^1
+หืด	1.0	h vv t^2
+หุง	1.0	h u ng^0
+หุ้น	1.0	h u n^2
+หุ้ม	1.0	h u m^2
+หู	1.0	h uu z^4
+หูตึง	1.0	h uu z^4 t v ng^0
+ห่วงใย	1.0	h uua ng^1 j a j^0
+ห่อหุ้ม	1.0	h @ h u m^2
+ห่าง	1.0	h aa ng^1
+ห่างเหิน	1.0	h aa ng^1 h qq n^4
+ห่างไกล	1.0	h aa ng^1 kl a j^0
+ห้วยขาแข้ง	1.0	h uua j^2 kh aa z^4 kh x ng^2
+ห้อง	1.0	h @ ng^2
+ห้องนอน	1.0	h @ ng^2 n @@ n^0
+ห้องน้ำ	1.0	h @ ng^2 n aa m^3
+ห้องสมุด	1.0	h @ ng^2 s a z^1 m u t^1
+ห้องสมุดเอยูเอ	1.0	h @ ng^2 s a z^1 m u t^1 j uu z^0 z ee z^0
+ห้องเรียน	1.0	h @ ng^2 r iia n^0
+ห้า	1.0	h aa z^2
+ห้าม	1.0	h aa m^2
+อคติ	1.0	z a z^1 kh a z^3 t i z^1
+องคภาวะ	1.0	z o ng^0 kh a z^3 ph aa z^0 w a z^3
+องค์	1.0	z o ng^0
+องค์กร	1.0	z o ng^0 k @@ n^0
+องค์การ	1.0	z o ng^0 k aa n^0
+องค์ประกอบ	1.0	z o ng^0 pr a z^1 k @@ p^1
+องศา	1.0	z o ng^0 s aa z^4
+อด	1.0	z o t^1
+อดกลั้น	1.0	z o t^1 kl a n^2
+อดทน	1.0	z o t^1 th o n^0
+อดอยาก	1.0	z o t^1 j aa k^1
+อดิเรกสาร	1.0	z a z^1 d i z^1 r ee k^1 s aa n^4
+อดีต	1.0	z a z^1 d ii t^1
+อธิการบดี	1.0	z a z^1 th i z^3 k aa n^0 b @@ z^0 d ii z^0
+อธิบดี	1.0	z a z^1 th i z^3 b @@ z^0 d ii z^0
+อธิบาย	1.0	z a z^1 th i z^3 b aa j^0
+อธิปัตย์	1.0	z a z^1 th i z^3 p a t^1
+อธิปไตย	1.0	z a z^1 th i p^3 p a z^1 t a j^0
+อธิษฐาน	1.0	z a z^1 th i t^3 th aa n^4
+อนัตตา	1.0	z a z^1 n a t^3 t aa z^0
+อนาคต	1.0	z a z^1 n aa z^0 kh o t^3
+อนามัย	1.0	z a z^1 n aa z^0 m a j^0
+อนิจจัง	1.0	z a z^1 n i t^3 c a ng^0
+อนึ่ง	1.0	z a z^1 n v ng^1
+อนุกรม	1.0	z a z^1 n u z^3 kr o m^0
+อนุกรมวิธาน	1.0	z a z^1 n u z^3 k @@ z^0 r o m^0 m a z^3 w i z^3 th aa n^0
+อนุกรรมการ	1.0	z a z^1 n u z^3 k a m^0 m a z^3 k aa n^0
+อนุญาต	1.0	z a z^1 n u z^3 j aa t^2
+อนุบาล	1.0	z a z^1 n u z^3 b aa n^0
+อนุพากย์	1.0	z a z^1 n u z^3 ph aa k^2
+อนุมัติ	1.0	z a z^1 n u z^3 m a t^3
+อนุมาน	1.0	z a z^1 n u z^3 m aa n^0
+อนุมานราชธน	1.0	z a z^1 n u z^3 m aa n^0 r aa t^2 ch a z^3 th o n^0
+อนุรักษ์	1.0	z a z^1 n u z^3 r a k^3
+อนุสรณ์	1.0	z a z^1 n u z^3 s @@ n^4
+อนุเคราะห์	1.0	z a z^1 n u z^3 khr @ z^3
+อนุโลม	1.0	z a z^1 n u z^3 l oo m^0
+อบรม	1.0	z o p^1 r o m^0
+อบอุ่น	1.0	z o p^1 z u n^1
+อพยพ	1.0	z o p^1 ph a z^3 j o p^3
+อภัย	1.0	z a z^1 ph a j^0
+อภัยทาน	1.0	z a z^1 ph a j^0 j a z^3 th aa n^0
+อภัยธรรม	1.0	z a z^1 ph a j^0 j a z^3 th a m^0
+อภัยวงศ์	1.0	z a z^1 ph a j^0 w o ng^0
+อภิปราย	1.0	z a z^1 ph i z^3 pr aa j^0
+อม	1.0	z o m^0
+อมรวิวัฒน์	1.0	z a z^1 m @@ n^0 w i z^3 w a t^3
+อมาตยกุล	1.0	z a z^1 m aa t^1 t a z^1 j a z^3 k u n^0
+อมเรศ	1.0	z a z^1 m a z^3 r ee t^2
+อยาก	1.0	j aa k^1
+อยุติธรรม	1.0	z a z^1 j u t^3 t i z^1 th a m^0
+อยู่	1.0	j uu z^1
+อยู่ดี	1.0	j uu z^1 d ii z^0
+อยู่ตัว	1.0	j uu z^1 t uua z^0
+อยู่บำรุง	1.0	j uu z^1 b a m^0 r u ng^0
+อยู่รอด	1.0	j uu z^1 r @@ t^2
+อย่า	1.0	j aa z^1
+อย่าง	1.0	j aa ng^1
+อย่างคุ้มค่า	1.0	j aa ng^1 kh u m^3 kh aa z^2
+อย่างต่ำ	1.0	j aa ng^1 t a m^1
+อย่างยิ่ง	1.0	j aa ng^1 j i ng^2
+อย่างสูง	1.0	j aa ng^1 s uu ng^4
+อย่างหนึ่ง	1.0	j aa ng^1 n v ng^1
+อย่างเช่น	1.0	j aa ng^1 ch e n^2
+อย่างเดียว	1.0	j aa ng^1 d iia w^0
+อย่างแท้จริง	1.0	j aa ng^1 th xx z^3 c i ng^0
+อย่างใด	1.0	j aa ng^1 d a j^0
+อย่างไร	1.0	j aa ng^1 r a j^0
+อย่างไรก็ดี	1.0	j aa ng^1 r a j^0 k @@ z^2 d ii z^0
+อย่างไรก็ตาม	1.0	j aa ng^1 r a j^0 k @@ z^2 t aa m^0
+อรหันต์	1.0	z @@ z^0 r a z^3 h a n^4
+อริยบุคคล	1.0	z a z^1 r i z^3 j a z^3 b u k^1 kh o n^0
+อริยสัจ	1.0	z a z^1 r i z^3 j a z^3 s a t^1
+อร่ามเหลือง	1.0	z a z^1 r aa m^2 l vva ng^4
+อวัยวะ	1.0	z a z^1 w a j^0 j a z^3 w a z^3
+อวัยวะขับถ่าย	1.0	z a z^1 w a j^0 j a z^3 w a z^3 kh a p^1 th aa j^1
+อวัยวะเพศ	1.0	z a z^1 w a j^0 j a z^3 w a z^3 ph ee t^2
+ออก	1.0	z @@ k^1
+ออกกำลัง	1.0	z @@ k^1 k a m^0 l a ng^0
+ออกกำลังกาย	1.0	z @@ k^1 k a m^0 l a ng^0 k aa j^0
+ออกมา	1.0	z @@ k^1 m aa z^0
+ออกรวง	1.0	z @@ k^1 uua ng^0
+ออกอากาศ	1.0	z @@ k^1 z aa z^0 k aa t^1
+ออกแบบ	1.0	z @@ k^1 b xx p^1
+ออกไป	1.0	z @@ k^1 p a j^0
+ออฟโฟร์	1.0	z @@ f^3 f oo z^0
+ออม	1.0	z @@ m^0
+ออมชอม	1.0	z @@ m^0 ch @@ m^0
+ออสเตรเลีย	1.0	z @@ t^3 tr ee l iia z^0
+อะตอม	1.0	z a z^1 t @ m^0
+อะโซคริน	1.0	z a z^1 s oo khr qq n^0
+อะไร	1.0	z a z^1 r a j^0
+อักษร	1.0	z a k^1 s @@ n^4
+อักษรศาสตร์	1.0	z a k^1 s @@ n^4 s aa t^1
+อักษะ	1.0	z a k^1 s a z^1
+อักเสบ	1.0	z a k^1 s ee p^1
+อังกฤษ	1.0	z a ng^0 kr i t^1
+อังคาร	1.0	z a ng^0 kh aa n^0
+อัจฉริยภาพ	1.0	z a t^1 ch a z^1 r i z^3 j a z^3 ph aa p^2
+อัจฉริยะ	1.0	z a t^1 ch a z^1 r i z^3 j a z^3
+อัญชัน	1.0	z a n^0 ch a n^0
+อัญมณี	1.0	z a n^0 j a z^3 m a z^3 n ii z^0
+อัด	1.0	z a t^1
+อัตตาธิปไตย	1.0	z a t^1 t aa z^0 th i p^3 p a z^1 t a j^0
+อัตภาพ	1.0	z a t^1 t a z^1 ph aa p^2
+อัตรา	1.0	z a t^1 tr aa z^0
+อัตราส่วน	1.0	z a t^1 tr aa z^0 s uua n^1
+อัตลักษณ์	1.0	z a t^1 t a z^1 l a k^3
+อัตโนมัติ	1.0	z a t^1 t a z^1 n oo z^0 m a t^3
+อัน	1.0	z a n^0
+อันดับ	1.0	z a n^0 d a p^1
+อันตราย	1.0	z a n^0 tr aa j^0
+อันที่จริง	1.0	z a n^0 th ii z^2 c i ng^0
+อันหนึ่ง	1.0	z a n^0 n v ng^1
+อันหนึ่งอันเดียวกัน	1.0	z a n^0 n v ng^1 z a n^0 d iia w^0 k a n^0
+อันเดียว	1.0	z a n^0 d iia w^0
+อันเดียวกัน	1.0	z a n^0 d iia w^0 k a n^0
+อันเนื่องมาจาก	1.0	z a n^0 n vva ng^2 m aa z^0 c aa k^1
+อับอาย	1.0	z a p^1 z aa j^0
+อัปมงคล	1.0	z a p^1 p a z^1 m o ng^0 kh o n^0
+อัปยศ	1.0	z a p^1 p a z^1 j o t^3
+อัมพาต	1.0	z a m^0 ph aa t^2
+อัลคาโปน	1.0	z a n^0 kh aa z^0 p oo n^0
+อัศจรรย์	1.0	z a t^1 s a z^1 c a n^0
+อา	1.0	z aa z^0
+อากร	1.0	z aa z^0 k @@ n^0
+อาการ	1.0	z aa z^0 k aa n^0
+อาการนาม	1.0	z aa z^0 k aa n^0 r a z^3 n aa m^0
+อากาศ	1.0	z aa z^0 k aa t^1
+อาคาร	1.0	z aa z^0 kh aa n^0
+อาคเนย์	1.0	z aa z^0 kh a z^3 n ee z^0
+อาจ	1.0	z aa t^1
+อาจจะ	1.0	z aa t^1 c a z^1
+อาจารย์	1.0	z aa z^0 c aa n^0
+อาชญากร	1.0	z aa t^1 j aa z^0 k @@ n^0
+อาชญากรรม	1.0	z aa t^1 j aa z^0 k a m^0
+อาชีพ	1.0	z aa z^0 ch ii p^2
+อาณัติ	1.0	z aa z^0 n a t^3
+อาณาจักร	1.0	z aa z^0 n aa z^0 c a k^1
+อาณานิคม	1.0	z aa z^0 n aa z^0 n i z^3 kh o m^0
+อาณาเขต	1.0	z aa z^0 n aa z^0 kh ee t^1
+อาตมา	1.0	z aa t^1 t a z^1 m aa z^0
+อาทร	1.0	z aa z^0 th @@ n^0
+อาทิ	1.0	z aa z^0 th i z^3
+อาทิตย์	1.0	z aa z^0 th i t^3
+อานันท์	1.0	z aa z^0 n a n^0
+อาบ	1.0	z aa p^1
+อาบน้ำ	1.0	z aa p^1 n aa m^3
+อามิสทาน	1.0	z aa z^0 m i t^3 s a z^1 th aa n^0
+อาย	1.0	z aa j^0
+อายตนะ	1.0	z aa z^0 j a z^3 t a z^1 n a z^3
+อายัด	1.0	z aa z^0 j a t^3
+อายุ	1.0	z aa z^0 j u z^3
+อายุขัย	1.0	z aa z^0 j u kh a j^0
+อารมณ์	1.0	z aa z^0 r o m^0
+อารยชน	1.0	z aa z^0 r a z^3 j a z^3 ch o n^0
+อารยธรรม	1.0	z aa z^0 r a z^3 j a z^3 th a m^0
+อาร์ตติสท์	1.0	z aa t^3 t i s^3
+อาละวาด	1.0	z aa z^0 l a z^3 w aa t^1
+อาวุธ	1.0	z aa z^0 w u t^3
+อาวุโส	1.0	z aa z^0 w u z^3 s oo z^4
+อาศัย	1.0	z aa z^0 s a j^4
+อาสา	1.0	z aa z^0 s aa z^4
+อาสาสมัคร	1.0	z aa z^0 s aa z^4 s a z^1 m a k^1
+อาหว่า	1.0	z aa z^0 w aa z^2
+อาหาร	1.0	z aa z^0 h aa n^4
+อาเจียน	1.0	z aa z^0 c iia n^0
+อาเซียน	1.0	z aa z^0 s iia n^2
+อาเบอร์ดีนพรูวิงเกรานดส์	1.0	z aa z^0 b qq z^0 d ii n^0 phr uu z^0 w i ng^0 kr aa n^0 t^1
+อำนวย	1.0	z a m^0 n uua j^0
+อำนวยการ	1.0	z a m^0 n uua j^0 k aa n^0
+อำนาจ	1.0	z a m^0 n aa t^2
+อำเภอ	1.0	z a m^0 ph qq z^0
+อิจฉา	1.0	z i t^1 ch aa z^4
+อิตาเลียน	1.0	z i z^1 t aa z^0 l iia n^0
+อิทธิพล	1.0	z i t^1 th i z^3 ph o n^0
+อินพุต	1.0	z i n^0 ph u t^1
+อินพุท	1.0	z i n^0 ph u t^3
+อินเดีย	1.0	z i n^0 d iia z^0
+อินเตอร์เฟอโรมิเตอร์	1.0	z i n^0 t qq z^0 f r oo z^0 m i z^1 t qq z^2
+อินโดจีน	1.0	z i n^0 d oo z^0 c ii n^0
+อินโดนีเซีย	1.0	z i n^0 d oo z^0 n ii z^0 s iia z^0
+อิมเมจ	1.0	z i m^0 m t^1
+อิรัก	1.0	z i z^1 r a k^3
+อิลิช	1.0	z i z^1 l i ch^3
+อิสระ	1.0	z i t^1 s a z^1 r a z^1
+อิสลาม	1.0	z i z^1 s a z^1 l aa m^0
+อิเล็กตรอน	1.0	z i z^1 l e k^3 @@ n^0
+อิเล็กทรอนิกส์	1.0	z i z^1 l e k^3 thr @@ z^0 n i k^1
+อิเล็คโทรนิคส์	1.0	z i z^1 l e e k^3 th @@ n^0 n i k^1
+อิ่ม	1.0	z i m^1
+อีก	1.0	z ii k^1
+อีกครั้ง	1.0	z ii k^1 khr a ng^3
+อีกด้วย	1.0	z ii k^1 d uua j^2
+อีกทั้ง	1.0	z ii k^1 th a ng^3
+อีนิแอ็ก	1.0	z ii z^0 n i z e k^3
+อีรี่	1.0	z ii z^0 r ii z^2
+อีวาน	1.0	z ii z^0 w aa n^0
+อีสาน	1.0	z ii z^0 s aa n^4
+อึดอัด	1.0	z v t^1 z a t^1
+อื่น	1.0	z vv n^1
+อื่นๆ	1.0	z vv n^1 k^1
+อื้อฉาว	1.0	z vv z^2 ch aa w^4
+อุณหภูมิ	1.0	z u n^0 h a z^1 ph uu m^0
+อุดตัน	1.0	z u t^1 t a n^0
+อุดม	1.0	z u z^1 d o m^0
+อุดมการณ์	1.0	z u z^1 d o m^0 k aa n^0
+อุดมศึกษา	1.0	z u z^1 d o m^0 s v k^1 s aa z^4
+อุดมสมบูรณ์	1.0	z u z^1 d o m^0 s o m^4 b uu n^0
+อุดร	1.0	z u z^1 d @@ n^0
+อุดรธานี	1.0	z u z^1 d @@ n^0 th aa z^0 n ii z^0
+อุดอู้	1.0	z u z^1 d @ uu z^3
+อุตสาหกรรม	1.0	z u t^1 s aa z^4 h a z^1 k a m^0
+อุตสาหะ	1.0	z u t^1 s aa z^4 h a z^1
+อุทยาน	1.0	z u t^1 th a z^3 j aa n^0
+อุทัย	1.0	z u z^1 th a j^0
+อุทาหรณ์	1.0	z u z^1 th aa z^0 h @@ n^4
+อุทิศ	1.0	z u z^1 th i t^3
+อุบัติเหตุ	1.0	z u z^1 b a t^1 t i z^1 h ee t^1
+อุปกรณ์	1.0	z u p^1 p a z^1 k @@ n^0
+อุปนิสัย	1.0	z u p^1 p a z^1 n i z^3 s a j^4
+อุปมาน	1.0	z u p^1 p a z^1 m aa n^4
+อุปสรรค	1.0	z u p^1 p a z^1 s a k^1
+อุปโภค	1.0	z u p^1 p a z^1 ph oo k^2
+อเนกชน	1.0	z a z^1 n ee k^1 ch o n^0
+อเนกประสงค์	1.0	z a z^1 n ee k^1 k a z^1 pr a z^1 s o ng^4
+อเมริกัน	1.0	z a z^1 m ee z^0 r i z^3 k a n^0
+อเมริกา	1.0	z a z^1 m ee z^0 r i z^3 k aa z^0
+อเล็กซานเดรีย	1.0	z a z^1 l e k^3 s aa n^0 d iia z^0
+อโลชา	1.0	z a z^1 l oo z^0 ch aa z^0
+อโศก	1.0	z a z^1 s oo k^1
+อ่อน	1.0	z @@ n^1
+อ่อนหวาน	1.0	z @@ n^1 w aa n^4
+อ่อนแอ	1.0	z @@ n^1 z xx z^0
+อ่อนโยน	1.0	z @@ n^1 j oo n^0
+อ่าง	1.0	z aa ng^1
+อ่าน	1.0	z aa n^1
+อ่านเปรื่อง	1.0	z aa n^1 pr vva ng^2
+อ่าว	1.0	z aa w^1
+อ้วน	1.0	z uua n^2
+อ้อม	1.0	z @@ m^2
+อ้าง	1.0	z aa ng^2
+อ้างอิง	1.0	z aa ng^2 z i ng^0
+อ้าย	1.0	z aa j^2
+ฮอร์โมน	1.0	h @@ z^0 m oo n^0
+ฮาร์ดดิสต์	1.0	h aa t^1 d i t^3
+ฮาร์ดแวร์	1.0	h aa t^1 w xx z^0
+ฮินดู	1.0	h i n^0 d uu z^0
+ฮิสทีเรีย	1.0	h i t^3 s a z^1 th ii z^0 r iia z^0
+ฮึดฮัด	1.0	h v t^3 h a t^1
+ฮุสเซ็น	1.0	h u t^3 s e n^0
+ฯพณฯ	1.0	ph a z^3 n a z^3 th a n^2
+ฯลฯ	1.0	ph l a n^2
+ะต้อง	1.0	x z^1 t @ ng^2
+เกณฑ์	1.0	k ee n^0
+เกม	1.0	k o m^0
+เกย	1.0	k a j^0
+เกรง	1.0	kr ee ng^0
+เกรงกลัว	1.0	kr ee ng^0 kl uua z^0
+เกรงขาม	1.0	kr ee ng^0 kh aa m^4
+เกรงอกเกรงใจ	1.0	kr ee ng^0 z o k^1 kr ee ng^0 c a j^0
+เกรงใจ	1.0	kr ee ng^0 c a j^0
+เกราะ	1.0	kr @ z^3
+เกริกเกียรติ	1.0	kr qq k^1 k iia t^1
+เกรียง	1.0	kr iia ng^0
+เกรียงชัย	1.0	kr iia ng^0 ch a j^0
+เกรียวกราว	1.0	kr iia w^0 kr aa w^0
+เกร็ง	1.0	kr e ng^0
+เกร็งตัว	1.0	kr e ng^0 t uua z^0
+เกลียด	1.0	kl iia t^1
+เกลียดชัง	1.0	kl iia t^1 ch a ng^0
+เกลี่ย	1.0	kl iia z^1
+เกลี้ยกล่อม	1.0	kl iia kl @ m^2
+เกลี้ยง	1.0	kl iia ng^3
+เกลื่อนกลาด	1.0	kl vva n^1 kl aa t^1
+เกล็ด	1.0	kl e t^1
+เกวียน	1.0	k a z^1 w iia n^0
+เกศ	1.0	k ee t^2
+เกษตร	1.0	k a z^1 s ee t^1
+เกษตรกร	1.0	k a z^1 s ee t^1 tr a z^1 k @@ n^0
+เกษตรกรรม	1.0	k a z^1 s ee t^1 tr a z^1 k a m^0
+เกษตรศาสตร์	1.0	k a z^1 s ee t^1 s aa t^1
+เกษียณ	1.0	k a z^1 s iia n^4
+เกะกะ	1.0	k a z^1 k a z^1
+เกา	1.0	k a w^0
+เกาหลีเหนือ	1.0	k a w^0 l ii z^4 n vva z^4
+เกาหลีใต้	1.0	k a w^0 l ii z^4 t a j^2
+เกาะ	1.0	k @ z^1
+เกิด	1.0	k qq t^1
+เกิดขึ้น	1.0	k qq t^1 kh v n^2
+เกิน	1.0	k qq n^0
+เกียจคร้าน	1.0	k iia t^1 khr aa n^2
+เกียรติ	1.0	k iia t^1
+เกียรติภูมิ	1.0	k iia t^1 t i z^1 ph uu m^0
+เกียรติยศ	1.0	k iia t^1 t i z^1 j o t^3
+เกี่ยว	1.0	k iia w^1
+เกี่ยวกับ	1.0	k iia w^1 k a p^1
+เกี่ยวข้อง	1.0	k iia w^1 kh @ ng^2
+เกี่ยวพัน	1.0	k iia w^1 ph a n^0
+เกี่ยวเนื่อง	1.0	k iia w^1 n vva ng^2
+เกี่ยวโยง	1.0	k iia w^1 j oo ng^0
+เกี้ยว	1.0	k iia w^3
+เกี๊ยว	1.0	k iia w^4
+เกือบ	1.0	k vva p^1
+เกือบจะ	1.0	k vva p^1 c a z^1
+เกื้อกูล	1.0	k vva z^2 k uu n^0
+เกื้อหนุน	1.0	k vva z^2 n u n^4
+เกเร	1.0	k a z^3 r ee z^0
+เก็บ	1.0	k e p^1
+เก็บออม	1.0	k e p^1 z @@ m^0
+เก่ง	1.0	k e ng^1
+เก่งกาจ	1.0	k e ng^1 k aa t^1
+เก่า	1.0	k a w^1
+เก่าแก่	1.0	k a w^1 k xx z^1
+เก้ง	1.0	k a ng^3
+เก้า	1.0	k a w^2
+เก้าอี้	1.0	k a w^2 z ii z^2
+เก๋	1.0	k
+เขต	1.0	kh ee t^1
+เขมร	1.0	kh a z^1 m @@ n^0
+เขย	1.0	kh qq j^4
+เขยิบ	1.0	kh a z^1 j q p^1
+เขลา	1.0	khl a w^4
+เขา	1.0	kh a w^4
+เขียง	1.0	kh iia ng^4
+เขียน	1.0	kh iia n^4
+เขียว	1.0	kh iia w^4
+เขื่อน	1.0	kh vva n^1
+เข็ม	1.0	kh e m^4
+เข็มฉีดยา	1.0	kh e m^4 ch ii t^1 j aa z^0
+เข่นฆ่า	1.0	kh e n^1 kh aa z^2
+เข้มข้น	1.0	kh e m^2 kh o n^2
+เข้มงวด	1.0	kh e m^2 ng uua t^2
+เข้มแข็ง	1.0	kh e m^2 kh x ng^4
+เข้า	1.0	kh a w^2
+เข้าด้วยกัน	1.0	kh a w^2 d uua j^2 k a n^0
+เข้ามา	1.0	kh a w^2 m aa z^0
+เข้าร่วม	1.0	kh a w^2 r uua m^2
+เข้าออก	1.0	kh a w^2 z @@ k^1
+เข้าเฝ้า	1.0	kh a w^2 f a w^2
+เข้าใจ	1.0	kh a w^2 c a j^0
+เข้าใจผิด	1.0	kh a w^2 c a j^0 ph i t^1
+เข้าไป	1.0	kh a w^2 p a j^0
+เคมี	1.0	kh ee z^0 m ii z^0
+เคย	1.0	kh qq j^0
+เครดิต	1.0	khr ee z^0 d i t^1
+เครน	1.0	khr ee n^0
+เครมลิน	1.0	khr ee m^0 l i n^0
+เคราะห์กรรม	1.0	khr @ z^3 k a m^0
+เครียด	1.0	khr iia t^2
+เครือ	1.0	khr vva z^0
+เครือข่าย	1.0	khr vva z^0 kh aa j^1
+เครือข่ายคอมพิวเตอร์	1.0	khr vva z^0 kh aa j^1 kh @ m^0 ph i w^3 t qq z^2
+เครื่อง	1.0	khr vva ng^2
+เครื่องกลึง	1.0	khr vva ng^2 kl v ng^0
+เครื่องกัด	1.0	khr vva ng^2 k a t^1
+เครื่องคอมพิวเตอร์	1.0	khr vva ng^2 kh @ m^0 ph i w^3 t qq z^2
+เครื่องจักร	1.0	khr vva ng^2 c a k^1
+เครื่องจักสาน	1.0	khr vva ng^2 c a k^1 s aa n^4
+เครื่องช่วย	1.0	khr vva ng^2 ch uua j^2
+เครื่องซักผ้า	1.0	khr vva ng^2 s a k^3 ph aa z^2
+เครื่องดนตรี	1.0	khr vva ng^2 d o n^0 tr ii z^0
+เครื่องต้นแบบ	1.0	khr vva ng^2 t o n^2 b xx p^1
+เครื่องนุ่งห่ม	1.0	khr vva ng^2 n u ng^2 h o m^1
+เครื่องบิน	1.0	khr vva ng^2 b i n^0
+เครื่องปั้นดินเผา	1.0	khr vva ng^2 p a n^2 d i n^0 ph a w^4
+เครื่องพิมพ์	1.0	khr vva ng^2 ph i m^0
+เครื่องมือ	1.0	khr vva ng^2 m vv z^0
+เครื่องยา	1.0	khr vva ng^2 j aa z^0
+เครื่องรับวิทยุ	1.0	khr vva ng^2 r a p^3 w i t^3 th a z^3 j u z^3
+เครื่องวัด	1.0	khr vva ng^2 w a t^3
+เครื่องสปัตเตอริง	1.0	khr vva ng^2 s p a t^1 t a z^1 t qq i ng^0
+เครื่องส่ง	1.0	khr vva ng^2 s o ng^1
+เครื่องส่งวิทยุ	1.0	khr vva ng^2 s o ng^1 w i t^3 th a z^3 j u z^3
+เครื่องหมาย	1.0	khr vva ng^2 m aa j^4
+เครื่องฮีเลียมนีออนเลเซอร์	1.0	khr vva ng^2 h ii z^0 l iia m^0 n ii z^0 z @@ n^0 l ee z^0 s @@
+เครื่องเทศ	1.0	khr vva ng^2 th ee t^2
+เครื่องเล่นวิดีโอ	1.0	khr vva ng^2 l e n^2 w i z^3 d ii z^3 z oo z^2
+เครื่องเสียง	1.0	khr vva ng^2 s iia ng^4
+เครื่องแบบ	1.0	khr vva ng^2 b xx p^1
+เครื่องใช้	1.0	khr vva ng^2 ch a j^3
+เครื่องไมโครคอมพิวเตอร์	1.0	khr vva ng^2 m a j^0 khr oo z^0 kh @ m^0 ph i w^3 t qq z^2
+เครื่องไม้	1.0	khr vva ng^2 m aa j^3
+เคร่งครัด	1.0	khr e ng^2 khr a t^3
+เคร่งเครียด	1.0	khr e ng^2 khr iia t^2
+เคลลี่	1.0	kh e n^0 l ii z^2
+เคลียร์	1.0	khl iia
+เคลือบ	1.0	khl vva p^1
+เคลื่อน	1.0	khl vva n^2
+เคลื่อนที่	1.0	khl vva n^2 th ii z^2
+เคลื่อนย้าย	1.0	khl vva n^2 j aa j^3
+เคลื่อนไหว	1.0	khl vva n^2 w a j^4
+เคล็ด	1.0	khl e t^1
+เคารพ	1.0	kh a w^0 r o p^3
+เคาะ	1.0	kh @ z^3
+เคียงข้าง	1.0	kh iia ng^0 kh aa ng^2
+เคียดแค้น	1.0	kh iia t^2 kh xx n^3
+เคี่ยว	1.0	kh iia w^1
+เคเบิล	1.0	kh ee z^0 b q n^2
+เค็ม	1.0	kh e m^0
+เค้า	1.0	kh a w^3
+เงา	1.0	ng a w^0
+เงาะ	1.0	ng @ z^3
+เงิน	1.0	ng q n^0
+เงินตรา	1.0	ng q n^0 tr aa z^0
+เงินทอง	1.0	ng qq n^0 th @@ ng^0
+เงินเดือน	1.0	ng qq n^0 d vva n^0
+เงียบ	1.0	ng iia p^2
+เงียบเหงา	1.0	ng iia p^2 ng a w^4
+เงียบๆ	1.0	ng iia p^2 k^1
+เงื่องหงอย	1.0	ng vva ng^2 ng @@ j^0
+เงื่อนปม	1.0	ng vva n^2 p o m^0
+เงื่อนไข	1.0	ng vva n^2 kh a j^4
+เจดีย์	1.0	c ee z^0 d ii z^0
+เจตคติ	1.0	c ee z^0 t a z^1 kh a z^3 t i z^1
+เจตจำนง	1.0	c ee t^1 t a z^1 c a m^0 n o ng^0
+เจตนา	1.0	c ee t^1 t a z^1 n aa z^4
+เจตนารมณ์	1.0	c ee t^1 t a z^1 n aa z^0 r o m^0
+เจตภูต	1.0	c ee t^1 t a z^1 ph uu t^2
+เจนจัด	1.0	c ee n^0 c a t^1
+เจรจา	1.0	c ee z^0 r a z^3 c aa z^0
+เจริญ	1.0	c a z^1 r qq n^0
+เจาะ	1.0	c @ z^1
+เจาะจง	1.0	c @ z^1 c o ng^0
+เจียงไคเช็ก	1.0	c iia ng^0 kh a j^0 ch e k^3
+เจ็ด	1.0	c e t^1
+เจ็บ	1.0	c e p^1
+เจ็บปวด	1.0	c e p^1 p uua t^1
+เจ็บป่วย	1.0	c e p^1 p uua j^1
+เจ็บแค้น	1.0	c e p^1 kh xx n^3
+เจ็บไข้	1.0	c e p^1 kh a j^2
+เจ็บไข้ได้ป่วย	1.0	c e p^1 kh a j^2 d aa j^2 p uua j^1
+เจ้า	1.0	c a w^2
+เจ้ากรม	1.0	c a w^2 kr o m^0
+เจ้าของ	1.0	c a w^2 kh @@ ng^4
+เจ้าคณะ	1.0	c aa w^2 kh a z^3 n a z^3
+เจ้าคุณ	1.0	c a w^2 kh u n^0
+เจ้าชู้	1.0	c a w^2 ch uu z^3
+เจ้าตัว	1.0	c a w^2 t uua z^0
+เจ้านาย	1.0	c a w^2 n aa j^0
+เจ้าพนักงาน	1.0	c a w^2 ph a z^3 n a k^3 ng aa n^0
+เจ้าพระยา	1.0	c aa w^2 phr a z^3 j aa z^0
+เจ้าพ่อ	1.0	c a w^2 ph @@ z^2
+เจ้าฟ้า	1.0	c aa w^2 f aa z^3
+เจ้าภาพ	1.0	c aa w^2 ph aa p^2
+เจ้าระเบียบ	1.0	c aa w^2 r a z^3 b iia p^1
+เจ้าวัด	1.0	c aa w^2 w a t^3
+เจ้าหน้าที่	1.0	c a w^2 n aa z^2 th ii z^2
+เจ้าอยู่หัว	1.0	c aa w^2 j uu z^1 h uua z^4
+เฉ	1.0	ch a z^1
+เฉพาะ	1.0	ch a z^1 ph @ z^3
+เฉพาะกาล	1.0	ch a z^1 ph @ z^3 k aa n^0
+เฉพาะตัว	1.0	ch a z^1 ph @ z^3 t uua z^0
+เฉพาะที่	1.0	ch a z^1 ph @ z^3 th ii z^2
+เฉพาะหน้า	1.0	ch a z^1 ph @ z^3 n aa z^2
+เฉย	1.0	ch qq j^4
+เฉลิม	1.0	ch a z^1 l qq m^4
+เฉลิมฉลอง	1.0	ch a z^1 l qq m^4 ch a z^1 l @@ ng^4
+เฉลิมพระชนมพรรษา	1.0	ch a z^1 l qq m^4 phr a z^3 ch o n^0 m a z^3 ph a n^0 s aa z^4
+เฉลียวฉลาด	1.0	ch a z^1 l iia w^4 ch a z^1 l aa t^1
+เฉลี่ย	1.0	ch a z^1 l iia z^1
+เฉียบพลัน	1.0	ch iia p^1 phl a n^0
+เชคโกสโลวเกีย	1.0	ch e k^3 k oo z^0 s a z^1 l oo z^0 w a z^3 k iia z^0
+เชลย	1.0	ch a z^3 l qq j^0
+เชาวน์ปัญญา	1.0	ch a w^0 p a n^0 j aa z^0
+เชิง	1.0	ch qq ng^0
+เชิญ	1.0	ch qq n^0
+เชิญชวน	1.0	ch qq n^0 ch uua n^0
+เชียงใหม่	1.0	ch iia ng^0 m a j^1
+เชี่ยวชาญ	1.0	ch iia w^2 ch aa n^0
+เชื่อ	1.0	ch vva z^2
+เชื่องช้า	1.0	ch vva ng^2 ch aa z^3
+เชื่อถือ	1.0	ch vva z^2 th vv z^4
+เชื่อฟัง	1.0	ch vva z^2 f a ng^0
+เชื่อม	1.0	ch vva m^2
+เชื่อมต่อ	1.0	ch vva m^2 t @@ z^1
+เชื่อมั่น	1.0	ch vva z^2 m a n^2
+เชื่อมโยง	1.0	ch vva m^2 j oo ng^0
+เชื้อ	1.0	ch vva z^3
+เชื้อชาติ	1.0	ch vva z^3 ch aa t^2
+เชื้อบ้า	1.0	ch vva z^3 b aa z^2
+เชื้อสาย	1.0	ch vva z^3 s aa j^4
+เชื้อเพลิง	1.0	ch vva z^3 phl qq ng^0
+เชื้อเพลิงยูเรเนียม	1.0	ch vva z^3 phl qq ng^0 j uu z^0 r ee z^0 n iia m^0
+เชื้อโรค	1.0	ch vva z^3 r oo k^2
+เช็ค	1.0	ch e k^1
+เช่น	1.0	ch e n^2
+เช่นกัน	1.0	ch e n^2 k a n^0
+เช่นนั้น	1.0	ch e n^2 n a n^3
+เช่นนี้	1.0	ch e n^2 n ii z^3
+เช่นเดียว	1.0	ch e n^2 d iia w^0
+เช่นเดียวกัน	1.0	ch e n^2 d iia w^0 k a n^0
+เช่นเดียวกับ	1.0	ch e n^2 d iia w^0 k a p^1
+เช่นไร	1.0	ch e n^2 r a j^0
+เช่า	1.0	ch a w^2
+เช้า	1.0	ch aa w^3
+เช้ามืด	1.0	ch aa w^3 m vv t^2
+เซนติเมตร	1.0	s xx n^0 t i z^1 m ee t^3
+เซลลูล่าร์	1.0	s ee w^0 uu n^0 aa
+เซลล์	1.0	s ee w^0
+เซียมซี	1.0	s iia m^0 s ii z^0
+เซ็กส์	1.0	s e k^3
+เซ็น	1.0	s e n^0
+เซ็นทรัล	1.0	s e n^0 thr a n^2
+เซ็นเซอร์	1.0	s e n^0 s @@
+เดรน	1.0	d xx n^0
+เดอะ	1.0	d q z^1
+เดอะบอสส์	1.0	d q z^1 b @@ s^3
+เดา	1.0	d a w^0
+เดิน	1.0	d qq n^0
+เดินทาง	1.0	d qq n^0 th aa ng^0
+เดิม	1.0	d qq m^0
+เดิมๆ	1.0	d qq m^0 k^1
+เดียรัจฉาน	1.0	d iia z^0 r a t^3 ch aa n^4
+เดียว	1.0	d iia w^0
+เดียวกัน	1.0	d iia w^0 k a n^0
+เดียวกับ	1.0	d iia w^0 k a p^1
+เดี่ยว	1.0	d iia w^1
+เดี๋ยวนี้	1.0	d iia w^4 n ii z^3
+เดือดร้อน	1.0	d vva t^1 r @@ n^3
+เดือน	1.0	d vva n^0
+เดือย	1.0	d vva j^0
+เด็ก	1.0	d e k^1
+เด็กสาว	1.0	d e k^1 s aa w^4
+เด็กหญิง	1.0	d e k^1 j i ng^4
+เด็กหนุ่ม	1.0	d e k^1 n u m^1
+เด็ดขาด	1.0	d e t^1 kh aa t^1
+เด็ดเดี่ยว	1.0	d e t^1 d iia w^1
+เด่น	1.0	d e n^1
+เตชะดำรงสิน	1.0	t ch a z^1 d a m^0 r o ng^0 s i n^4
+เตตราไซคลีน	1.0	t ee t^1 tr aa z^0 s khl ii n^0
+เตมียเวส	1.0	t ee z^0 m ii z^0 j a z^3 w ee t^2
+เตรียม	1.0	tr iia m^0
+เตรียมตัว	1.0	tr iia m^0 t uua z^0
+เตรียมพร้อม	1.0	tr iia m^0 phr @@ m^3
+เตา	1.0	t a w^0
+เตาเอพิแทกซี	1.0	t a w^0 z ph i th xx k^2 s ii z^0
+เติบโต	1.0	t qq p^1 t oo z^0
+เติม	1.0	t qq m^0
+เตียง	1.0	t iia ng^0
+เตียวตระกูล	1.0	t iia w^0 tr a z^1 k uu n^0
+เตี่ย	1.0	t iia z^1
+เตือน	1.0	t vva n^0
+เต็ม	1.0	t e m^0
+เต็มที่	1.0	t e m^0 th ii z^2
+เต็มเปี่ยม	1.0	t e m^0 p iia m^1
+เต็มใจ	1.0	t e m^0 c a j^0
+เต็มไปด้วย	1.0	t e m^0 p a j^0 d uua j^2
+เต่า	1.0	t a w^1
+เต้น	1.0	t e n^2
+เถาทอง	1.0	th a w^4 th @@ ng^0
+เถิด	1.0	th qq t^1
+เถียง	1.0	th iia ng^4
+เถื่อน	1.0	th vva n^1
+เทคนิค	1.0	th ee k^3 n i k^1
+เทคโนโลยี	1.0	th e k^3 n oo z^0 l oo z^0 j ii z^0
+เทป	1.0	th ee p^3
+เทพกาเบรียล	1.0	th ee p^2 k aa z^0 b iia n^0
+เทวดา	1.0	th ee z^0 w a z^3 d aa z^0
+เทศกาล	1.0	th ee t^2 s a z^1 k aa n^0
+เทศนา	1.0	th ee t^2 s a z^1 n aa z^4
+เทศน์	1.0	th ee t^2
+เทอร์มินัล	1.0	th qq z^0 m i z^3 n a n^2
+เทา	1.0	th a w^0
+เทียน	1.0	th iia n^0
+เทียนชัย	1.0	th iia n^0 ch a j^0
+เทียบ	1.0	th iia p^2
+เทียบเคียง	1.0	th iia p^2 kh iia ng^0
+เทียบเท่า	1.0	th iia p^2 th a w^2
+เทียม	1.0	th iia m^0
+เที่ยง	1.0	th iia ng^2
+เที่ยงธรรม	1.0	th iia ng^1 th a m^0
+เที่ยว	1.0	th iia w^2
+เที่ยวเตร่	1.0	th iia w^2 tr ee z^1
+เทเวศร์วงศ์วิวัฒน์	1.0	th ee z^0 w ee t^2 w o ng^0 w i z^3 w a t^3
+เท็จ	1.0	th e t^3
+เท่า	1.0	th a w^2
+เท่ากับ	1.0	th a w^2 k a p^1
+เท่านั้น	1.0	th a w^2 n a n^3
+เท่าเทียม	1.0	th a w^2 th iia m^0
+เท่าใด	1.0	th a w^2 d a j^0
+เท่าไร	1.0	th a w^2 r a j^0
+เท่าไหร่	1.0	th a w^2 r a j^1
+เท่าๆ	1.0	th a w^2 k^1
+เท้า	1.0	th aa w^3
+เธอ	1.0	th qq z^0
+เนรเทศ	1.0	n ee z^0 r a z^3 th ee t^2
+เนิน	1.0	n qq n^0
+เนือง	1.0	n vva ng^0
+เนืองแน่น	1.0	n vva ng^0 n xx n^2
+เนื่อง	1.0	n vva ng^2
+เนื่องจาก	1.0	n vva ng^2 c aa k^1
+เนื่องด้วย	1.0	n vva ng^2 d uua j^2
+เนื่องมาจาก	1.0	n vva ng^2 m aa z^0 c aa k^1
+เนื้อ	1.0	n vva z^3
+เนื้อความ	1.0	n vva z^3 khw aa m^0
+เนื้อที่	1.0	n vva z^3 th ii z^2
+เนื้อสาร	1.0	n vva z^3 s aa n^4
+เนื้อหา	1.0	n vva z^3 h aa z^4
+เนื้อเยื่อ	1.0	n vva z^3 j vva z^2
+เนื้อเรื่อง	1.0	n vva z^3 r vva ng^2
+เนื้อแท้	1.0	n vva z^3 th xx z^3
+เนเธอร์แลนด์	1.0	n ee z^0 th qq z^2 l xx n^0
+เน้น	1.0	n e n^3
+เน้นหนัก	1.0	n e n^3 n a k^1
+เบงกอล	1.0	b o ng^0 k @@ n^3
+เบญจขันธ์	1.0	b e n^0 c a z^1 kh a n^4
+เบรก	1.0	br ee k^1
+เบรค	1.0	br ee k^1
+เบลอ	1.0	b l @@ z^0
+เบสิก	1.0	b ee z^0 s i k^1
+เบอร์	1.0	b qq z^0
+เบา	1.0	b a w^0
+เบาบาง	1.0	b a w^0 b aa ng^0
+เบิก	1.0	b qq k^1
+เบียดเบียน	1.0	b iia t^1 b iia n^0
+เบี่ยงเบน	1.0	b iia ng^1 b ee n^0
+เบี้ย	1.0	b iia z^2
+เบื่อหน่าย	1.0	b vva z^1 n aa j^1
+เบื้อง	1.0	b vva ng^2
+เบื้องต้น	1.0	b vva ng^2 t o n^2
+เบื้องหลัง	1.0	b vva ng^2 l a ng^4
+เบื้องแรก	1.0	b vva ng^2 r xx k^2
+เบ็ดเสร็จ	1.0	b e t^1 s e t^1
+เบ่งบาน	1.0	b e ng^1 b aa n^0
+เปรม	1.0	pr ee m^0
+เปรมปราณีรัชต์	1.0	pr ee m^0 pr aa z^0 n ii a t^1
+เปรอะเปื้อน	1.0	pr ee q z^3 p vv @@ n^3
+เปราะ	1.0	pr @ z^3
+เปรียญ	1.0	p a z^1 r iia n^0
+เปรียบ	1.0	pr iia p^1
+เปรียบเทียบ	1.0	pr iia p^1 th iia p^2
+เปลี่ยน	1.0	pl iia n^1
+เปลี่ยนเป็น	1.0	pl iia n^1 p e n^0
+เปลี่ยนแปลง	1.0	pl iia n^1 pl xx ng^0
+เปลือก	1.0	pl vva k^1
+เปลือง	1.0	pl vva ng^0
+เปล่ง	1.0	pl e ng^1
+เปล่า	1.0	pl aa w^1
+เปล่าๆ	1.0	pl aa w^1 k^1
+เปอร์เซีย	1.0	p qq z^0 s iia z^0
+เปอร์เซ็นต์	1.0	p qq z^0 s e n^0
+เปะปะ	1.0	p a z^1 p a z^1
+เปิด	1.0	p qq t^1
+เปิดเผย	1.0	p qq t^1 ph qq j^4
+เปิดโปง	1.0	p qq t^1 p oo ng^0
+เปียโชอิเล็คตริก	1.0	p iia z^0 ch oo z^0 z i z^1 l e kh tr i k^3
+เปียโน	1.0	p iia z^0 n oo z^2
+เปื้อนเปรอะ	1.0	p vv @@ n^2 pr ee q z^3
+เป็น	1.0	p e n^0
+เป็นจริง	1.0	p e n^0 c i ng^0
+เป็นตัวเป็นตน	1.0	p e n^0 t uua z^0 p e n^0 t o n^0
+เป็นต้น	1.0	p e n^0 t o n^2
+เป็นต้นมา	1.0	p e n^0 t o n^2 m aa z^0
+เป็นต้นไป	1.0	p e n^0 t o n^2 p a j^0
+เป็นธรรม	1.0	p e n^0 th a m^0
+เป็นพิษ	1.0	p e n^0 ph i t^3
+เป็นมา	1.0	p e n^0 m aa z^0
+เป็นล่ำเป็นสัน	1.0	p e n^0 l a m^2 p e n^0 s a n^4
+เป็นสุข	1.0	p e n^0 s u k^1
+เป็นหลัก	1.0	p e n^0 l a k^1
+เป็นห่วง	1.0	p e n^0 h uua ng^1
+เป็นอยู่	1.0	p e n^0 j uu z^1
+เป็นอันขาด	1.0	p e n^0 z a n^0 kh aa t^1
+เป็นอันมาก	1.0	p e n^0 z a n^0 m aa k^2
+เป็นเลิศ	1.0	p e n^0 l qq t^2
+เป็นแน่	1.0	p e n^0 n xx z^2
+เป็นใหญ่	1.0	p e n^0 j a j^1
+เป็นไป	1.0	p e n^0 p a j^0
+เป้า	1.0	p a w^2
+เป้าประสงค์	1.0	p a w^2 pr a z^1 s o ng^4
+เป้าหมาย	1.0	p a w^2 m aa j^4
+เป๊าะ	1.0	p @ z^3
+เผชิญ	1.0	ph a z^1 ch qq n^0
+เผชิญหน้า	1.0	ph a z^1 ch qq n^0 n aa z^2
+เผด็จการ	1.0	ph a z^1 d e t^1 k aa n^0
+เผย	1.0	ph qq j^4
+เผยแพร่	1.0	ph qq j^4 phr xx z^2
+เผอิญ	1.0	ph a z^1 z qq n^0
+เผื่อ	1.0	ph vva z^1
+เผ็ด	1.0	ph e t^1
+เผ็ดร้อน	1.0	ph e t^1 r @@ n^3
+เผ่า	1.0	ph a w^1
+เผ่าพันธุ์	1.0	ph a w^1 ph a n^0
+เฝ้า	1.0	f a w^2
+เพชร	1.0	ph e t^3
+เพทุบาย	1.0	ph th u z^3 b aa j^0
+เพราะ	1.0	phr @ z^3
+เพราะฉะนั้น	1.0	phr @ z^3 ch a z^1 n a n^3
+เพราะว่า	1.0	phr @ z^3 w aa z^2
+เพลง	1.0	phl ee ng^0
+เพลิง	1.0	phl qq ng^0
+เพลิดเพลิน	1.0	phl qq t^1 phl qq n^0
+เพลี้ยกระโดด	1.0	phl iia kr a z^1 d oo t^1
+เพศ	1.0	ph ee t^2
+เพศสัมพันธ์	1.0	ph ee t^2 s a m^4 ph a n^0
+เพอริคาร์พเลเยอร์	1.0	ph @@ z^0 r i z^3 kh aa ph l ee z^0 j qq z^2
+เพาะ	1.0	ph @ z^3
+เพาะปลูก	1.0	ph @ z^3 pl uu k^1
+เพาะเลี้ยง	1.0	ph @ z^3 l iia ng^3
+เพิกถอน	1.0	ph qq k^2 th @@ n^4
+เพิกเฉย	1.0	ph qq k^2 ch qq j^4
+เพิ่ง	1.0	ph q ng^2
+เพิ่ม	1.0	ph qq m^2
+เพิ่มพูน	1.0	ph qq m^2 ph uu n^0
+เพิ่มเติม	1.0	ph qq m^2 t qq m^0
+เพียง	1.0	ph iia ng^0
+เพียงนี้	1.0	ph iia ng^0 n ii z^3
+เพียงพอ	1.0	ph iia ng^0 ph @@ z^0
+เพียงแค่	1.0	ph iia ng^0 kh xx z^2
+เพียงแต่	1.0	ph iia ng^0 t xx z^1
+เพียงใด	1.0	ph iia ng^0 d a j^0
+เพียงไร	1.0	ph iia ng^0 r a j^0
+เพื่อ	1.0	ph vva z^2
+เพื่อที่จะ	1.0	ph vva z^2 th ii z^2 c a z^1
+เพื่อน	1.0	ph vva n^2
+เพื่อนบ้าน	1.0	ph vva n^2 b aa n^2
+เพื่อนฝูง	1.0	ph vva n^2 f uu ng^4
+เพื่อให้	1.0	ph vva z^2 h a j^2
+เพ่ง	1.0	ph e ng^2
+เพ่งเล็ง	1.0	ph e ng^2 l e ng^0
+เพ่นพ่าน	1.0	ph e n^2 ph aa n^2
+เพ้อ	1.0	ph qq z^0
+เพ้อฝัน	1.0	ph qq z^3 f a n^4
+เฟรม	1.0	f ee z^0 r o m^0
+เฟส	1.0	f ee t^1
+เฟื้อง	1.0	f vva ng^2
+เฟโดรอฟ	1.0	f ee z^0 d oo z^0 r @@ f^3
+เฟ้อ	1.0	f @@ z^2
+เภสัชวัตถุ	1.0	ph s a t^3 ch a z^3 w a t^3 th u z^1
+เภสัชวิทยา	1.0	ph s a t^3 ch a z^3 w i t^3 th a z^3 j aa z^0
+เมฆ	1.0	m ee z^0 kh
+เมดิเตอร์เรเนียน	1.0	m ee z^0 d i z^1 t qq z^0 r ee z^0 n iia n^2
+เมตตา	1.0	m ee t^2 t aa z^0
+เมตตาธรรม	1.0	m ee t^2 t aa z^0 th a m^0
+เมตร	1.0	m ee t^3
+เมนู	1.0	m a z^3 n uu z^4
+เมล็ด	1.0	m ee e t^1
+เมล็ดพืช	1.0	m ee e t^1 ph vv t^2
+เมษ	1.0	m ee t^2
+เมษายน	1.0	m ee z^0 s aa z^4 j o n^0
+เมา	1.0	m a w^0
+เมามาย	1.0	m a w^0 m aa j^0
+เมีย	1.0	m iia z^0
+เมียด	1.0	m iia t^1
+เมียน้อย	1.0	m iia z^0 n @@ j^3
+เมียหลวง	1.0	m iia z^0 l uua ng^4
+เมือง	1.0	m vva ng^0
+เมืองนอก	1.0	m vva ng^0 n @@ k^2
+เมืองหลวง	1.0	m vva ng^0 l uua ng^4
+เมื่อ	1.0	m vva z^2
+เมื่อกี้	1.0	m vva z^2 k ii z^2
+เมื่อก่อน	1.0	m vva z^2 k @@ n^1
+เมื่อครั้ง	1.0	m vva z^2 khr a ng^3
+เมื่อใด	1.0	m vva z^2 d a j^0
+เมื่อไร	1.0	m vva z^2 r a j^0
+เม็กซิกัน	1.0	m e k^3 s i z^3 k a n^0
+เม็กซิโก	1.0	m e k^3 s i z^3 k oo z^0
+เม็ด	1.0	m e t^3
+เยลต์ซิน	1.0	j ee w^0 s i n^2
+เยอรมนี	1.0	j qq z^0 r a z^3 m a z^3 n ii z^0
+เยอรมัน	1.0	j qq z^0 r a z^3 m a n^0
+เยอะ	1.0	j q z^3
+เยอะแยะ	1.0	j q z^3 j x z^3
+เยาวชน	1.0	j a w^0 ch o n^0
+เยาว์	1.0	j a w^0
+เยาว์วัย	1.0	j a w^0 w a j^0
+เยาะเย้ย	1.0	j @ z^3 j qq j^3
+เยียวยา	1.0	j iia w^0 j aa z^0
+เยี่ยม	1.0	j iia m^2
+เยือกเย็น	1.0	j vva k^2 j e n^0
+เยือน	1.0	j vva n^0
+เยื่อ	1.0	j vva z^2
+เย็น	1.0	j e n^0
+เย็นๆ	1.0	j e n^0 k^1
+เรดาร์	1.0	r ee z^0 d aa
+เรา	1.0	r a w^0
+เริ่ม	1.0	r qq m^2
+เริ่มต้น	1.0	r qq m^2 t o n^2
+เรียก	1.0	r iia k^2
+เรียกร้อง	1.0	r iia k^2 r @@ ng^3
+เรียกว่า	1.0	r iia k^2 w aa z^2
+เรียง	1.0	r iia ng^0
+เรียงความ	1.0	r iia ng^0 khw aa m^0
+เรียน	1.0	r iia n^0
+เรียนรู้	1.0	r iia n^0 r uu z^3
+เรียบ	1.0	r iia p^2
+เรียบร้อย	1.0	r iia p^2 r @@ j^3
+เรียบเรียง	1.0	r iia p^2 r iia ng^0
+เรือ	1.0	r vva z^0
+เรือน	1.0	r vva n^0
+เรือนครัว	1.0	r vva n^0 khr uua z^0
+เรือนครัวไฟ	1.0	r vva n^0 khr uua z^0 f a j^0
+เรือนจำ	1.0	r vva n^0 c a m^0
+เรือนนอน	1.0	r vva n^0 n @@ n^0
+เรื่อง	1.0	r vva ng^2
+เรื่องราว	1.0	r vva ng^2 r aa w^0
+เรื่องสั้น	1.0	r vva ng^2 s a n^2
+เรื่อย	1.0	r vva j^2
+เรื่อยๆ	1.0	r vva j^2 k^1
+เรื้อรัง	1.0	r vva z^3 r a ng^0
+เร็คติไฟร์	1.0	r e kh a z^3 t i z^1 f oo z^0
+เร็ว	1.0	r e w^0
+เร่ง	1.0	r e ng^2
+เร่งด่วน	1.0	r e ng^2 d uua n^1
+เร่งรัด	1.0	r e ng^2 r a t^3
+เร่งรีบ	1.0	r e ng^2 r ii p^2
+เร่งเร้า	1.0	r e ng^2 r a w^3
+เร่ร่อน	1.0	r ee z^2 r @ n^2
+เร้น	1.0	r e n^3
+เร้า	1.0	r a w^3
+เลข	1.0	l ee k^2
+เลขที่	1.0	l ee k^2 th ii z^2
+เลขหมาย	1.0	l ee k^2 m aa j^4
+เลขาธิการ	1.0	l ee z^0 kh aa z^4 th i z^3 k aa n^0
+เลขานุการ	1.0	l ee z^0 kh aa z^4 n u z^3 k aa n^0
+เลย	1.0	l qq j^0
+เลว	1.0	l ee w^0
+เลวร้าย	1.0	l ee w^0 r aa j^3
+เลวิน	1.0	l ee z^0 w i n^0
+เลอะเลือน	1.0	l ee z^0 z a z^3 l vva n^0
+เลิก	1.0	l qq k^2
+เลิกรา	1.0	l qq k^2 r aa z^0
+เลิศเลอ	1.0	l qq t^2 l qq z^0
+เลียน	1.0	l iia n^0
+เลียนแบบ	1.0	l iia n^2 b xx p^1
+เลี่ยง	1.0	l iia ng^2
+เลี้ยง	1.0	l iia ng^3
+เลี้ยงดู	1.0	l iia ng^3 d uu z^0
+เลือก	1.0	l vva k^2
+เลือกตั้ง	1.0	l vva k^2 t a ng^2
+เลือกสรร	1.0	l vva k^2 s a n^4
+เลือด	1.0	l vva t^2
+เลือดเนื้อ	1.0	l vva t^2 n vva z^3
+เลือน	1.0	l vva n^0
+เลื่อน	1.0	l vva n^2
+เลื่อนลอย	1.0	l vva n^2 l @@ j^0
+เลื่อมใส	1.0	l vva m^2 s a j^4
+เลเซอร์	1.0	l ee z^0 s @@
+เล็ก	1.0	l e k^3
+เล็กน้อย	1.0	l e k^3 n @@ j^3
+เล็กๆน้อยๆ	1.0	l e k^3 k^1 n @@ j^3 k^1
+เล็ง	1.0	l e ng^0
+เล็งเห็น	1.0	l e ng^0 h e n^4
+เล่น	1.0	l e n^2
+เล่นงาน	1.0	l e n^2 ng aa n^0
+เล่ม	1.0	l e m^2
+เล่า	1.0	l a w^2
+เล่าปี่	1.0	l a w^2 p ii z^1
+เล่าลือ	1.0	l a w^2 l vv z^0
+เล่าเรียน	1.0	l a w^2 r iia n^0
+เล้ง	1.0	l e ng^3
+เวทมนตร์	1.0	w ee t^2 m o n^0
+เวที	1.0	w ee z^0 th ii z^0
+เวลา	1.0	w ee z^0 l aa z^0
+เวสนันท์	1.0	w ee t^2 s a z^1 n a n^0
+เวหา	1.0	w ee h aa z^4
+เวอร์ชั่น3	1.0	w @@ z^0 ch a n^1 m^4
+เวิร์ดโปรเซสเซอร์	1.0	w qq t^1 pr oo z^0 s t^3 s @@
+เวิลด์โฟน	1.0	w qq w^0 f oo n^0
+เวียงจันทน์	1.0	w iia ng^0 c a n^0
+เวียดนาม	1.0	w iia t^2 n aa m^0
+เว้น	1.0	w e n^3
+เว้นไว้แต่	1.0	w e n^3 w a j^3 t xx z^1
+เศรษฐกิจ	1.0	s ee t^1 th a z^1 k i t^1
+เศรษฐศาสตร์	1.0	s ee t^1 th a z^1 s aa t^1
+เศรษฐี	1.0	s ee t^1 th ii z^4
+เศร้า	1.0	s a w^2
+เศร้าหมอง	1.0	s a w^2 m @@ ng^4
+เศร้าโศก	1.0	s a w^2 s oo k^1
+เศษ	1.0	s ee t^1
+เสงี่ยม	1.0	s a z^1 ng iia m^1
+เสด็จ	1.0	s a z^1 d e t^1
+เสถียรภาพ	1.0	s a z^1 th iia n^4 r a z^3 ph aa p^2
+เสนอ	1.0	s a z^1 n qq z^4
+เสนอแนะ	1.0	s a z^1 n qq z^4 n x z^3
+เสนาธิการ	1.0	s ee z^4 n aa z^0 th i z^3 k aa n^0
+เสนาะ	1.0	s a z^1 n @ z^1
+เสน่ห์	1.0	s a z^1 n ee z^1
+เสพ	1.0	s ee p^2
+เสมหะ	1.0	s a z^1 m oo z^0 h a z^1
+เสมอ	1.0	s a z^1 m qq z^4
+เสมอภาค	1.0	s a z^1 m qq z^4 ph aa k^2
+เสมือน	1.0	s a z^1 m vva n^4
+เสริม	1.0	s qq m^4
+เสรี	1.0	s ee z^4 r ii z^0
+เสรีภาพ	1.0	s ee z^4 r ii z^0 ph aa p^2
+เสรีไทย	1.0	s ee z^4 r ii z^0 th a j^0
+เสร็จ	1.0	s e t^1
+เสร็จสิ้น	1.0	s e t^1 s i n^2
+เสร็จเรียบร้อย	1.0	s e t^1 r iia p^2 r @@ j^3
+เสวนา	1.0	s e z^4 w a z^3 n aa z^0
+เสวยราชย์	1.0	s e z^4 w a z^3 j a z^3 r aa t^2
+เสา	1.0	s a w^4
+เสาร์	1.0	s a w^4
+เสีย	1.0	s iia z^4
+เสียก่อน	1.0	s iia z^4 k @@ n^1
+เสียง	1.0	s iia ng^4
+เสียงพูด	1.0	s iia ng^0 ph uu t^2
+เสียชีวิต	1.0	s iia z^4 ch ii z^0 w i t^3
+เสียดาย	1.0	s iia z^4 d aa j^0
+เสียที	1.0	s iia z^4 th ii z^0
+เสียวเหา	1.0	s iia w^4 h a w^4
+เสียสละ	1.0	s iia z^4 s a z^1 l a z^1
+เสียหาย	1.0	s iia z^4 h aa j^4
+เสียเปรียบ	1.0	s iia z^4 pr iia p^1
+เสียเวลา	1.0	s iia z^4 w ee z^0 l aa z^0
+เสียแล้ว	1.0	s iia z^4 l xx w^3
+เสียใจ	1.0	s iia z^4 c a j^0
+เสี่ย	1.0	s iia z^1
+เสี่ยง	1.0	s iia ng^1
+เสือ	1.0	s vva z^4
+เสือทะเล	1.0	s vva th a z^3 l ee z^0
+เสื่อม	1.0	s vva m^1
+เสื่อมถอย	1.0	s vva m^1 th @ j^4
+เสื่อมโทรม	1.0	s vva m^1 s oo m^0
+เสื้อ	1.0	s vva z^2
+เสื้อกระบอก	1.0	s vva z^2 kr a z^1 b @@ k^1
+เสื้อครุย	1.0	s vva z^2 khr u j^4
+เสื้อผ้า	1.0	s vva z^2 ph aa z^2
+เส้น	1.0	s e n^2
+เส้นกราฟ	1.0	s e n^2 kr aa f^3
+เส้นตรง	1.0	s e n^2 tr o ng^0
+เส้นทาง	1.0	s e n^2 th aa ng^0
+เส้นผ่าศูนย์กลาง	1.0	s e n^2 ph aa z^1 s uu n^4 kl aa ng^0
+เส้นลวดตัวนำ	1.0	s e n^2 l uua t^1 t uua z^0 n a m^0
+เส้นสาย	1.0	s e n^2 s aa j^4
+เหงา	1.0	ng a w^4
+เหง้า	1.0	ng a w^2
+เหง้าว่านน้ำ	1.0	ng a w^2 w aa n^1 n aa m^3
+เหตุ	1.0	h ee t^1
+เหตุการณ์	1.0	h ee t^1 k aa n^0
+เหตุจูงใจ	1.0	h ee t^1 c uu ng^0 c a j^0
+เหตุผล	1.0	h ee t^1 ph o n^4
+เหตุใด	1.0	h ee t^1 d a j^0
+เหนียวแน่น	1.0	n iia w^4 n x n^2
+เหนือ	1.0	n vva z^4
+เหนื่อย	1.0	n vva j^1
+เหน็ดเหนื่อย	1.0	n e t^1 n vva j^1
+เหมาะ	1.0	m @ z^1
+เหมาะสม	1.0	m @ z^1 s o m^4
+เหมาเจ๋อตุง	1.0	m a w^4 c qq z^4 t u ng^0
+เหมือน	1.0	m vva n^4
+เหมือนกัน	1.0	m vva n^4 k a n^0
+เหมือนว่า	1.0	m vva n^4 w aa z^2
+เหม็น	1.0	m e n^4
+เหยียดหยาม	1.0	j iia t^1 j aa m^4
+เหยียบย่ำ	1.0	j iia p^1 j a m^2
+เหยื่อ	1.0	j vva z^1
+เหรอ	1.0	r qq z^4
+เหรียญ	1.0	r iia n^4
+เหลว	1.0	l ee w^4
+เหลวแหลก	1.0	l ee w^4 l xx k^1
+เหลียวแล	1.0	l iia w^4 l xx z^0
+เหลี่ยม	1.0	l iia m^1
+เหลือ	1.0	l vva z^4
+เหลือง	1.0	l vva ng^4
+เหลือทิ้ง	1.0	l vva th i ng^3
+เหลือเกิน	1.0	l vva k qq n^0
+เหล็ก	1.0	l e k^3
+เหล่า	1.0	l a w^1
+เหล่าทัพ	1.0	l a w^1 th a p^3
+เหล่านั้น	1.0	l a w^1 n a n^3
+เหล่านี้	1.0	l a w^1 n ii z^3
+เหล้า	1.0	l a w^2
+เหา	1.0	h a w^4
+เหาะ	1.0	h @ z^1
+เหียอี	1.0	h iia z ii z^0
+เหี้ย	1.0	h iia z^2
+เหือดแห้ง	1.0	h vva t^1 h xx ng^2
+เห็น	1.0	h e n^4
+เห็นควร	1.0	h e n^4 kh uua n^0
+เห็นด้วย	1.0	h e n^4 d uua j^2
+เห็นพ้อง	1.0	h e n^4 ph @@ ng^3
+เห็นว่า	1.0	h e n^4 w aa z^2
+เห็นอกเห็นใจ	1.0	h e n^4 z o k^1 h e n^4 c a j^0
+เห็นแก่	1.0	h e n^4 k xx z^1
+เห็นได้	1.0	h e n^4 d aa j^2
+เห็นได้ว่า	1.0	h e n^4 d aa j^2 w aa z^2
+เอ	1.0	z ee z^0
+เอก	1.0	z ee k^1
+เอกฉันท์	1.0	z ee k^1 k a z^1 ch a n^4
+เอกชน	1.0	z ee k^1 ch o n^0
+เอกภาพ	1.0	z ee k^1 k a z^1 ph aa p^2
+เอกราช	1.0	z ee k^1 k a z^1 r aa t^1
+เอกลักษณะ	1.0	z ee k^1 k a z^1 l a k^3 s a z^1 n a z^1
+เอกลักษณ์	1.0	z ee k^1 k a z^1 l a k^3
+เอกสาร	1.0	z ee k^1 k a z^1 s aa n^4
+เอกสารสิทธิ์	1.0	z ee k^1 k a z^1 s aa n^4 s i t^1
+เอกสารอ้างอิง	1.0	z ee k^1 k a z^1 s aa n^4 z aa ng^2 z i ng^0
+เอง	1.0	z ee ng^0
+เองเกลส์	1.0	z ee ng^0 k ee w^0
+เอดส์	1.0	z ee t^1
+เอดิชั่น	1.0	z ee z^0 d i z^1 ch a n^2
+เอนเอียง	1.0	z ee n^0 z iia ng^0
+เออออ	1.0	z @@ z @@ z^0
+เอะอะ	1.0	z a z^1 z a z^1
+เอา	1.0	z a w^0
+เอาจริงเอาจัง	1.0	z a w^0 c i ng^0 z a w^0 c a ng^0
+เอาชนะ	1.0	z a w^0 ch a z^3 n a z^3
+เอารัดเอาเปรียบ	1.0	z a w^0 r a t^3 z a w^0 pr iia p^1
+เอาอย่าง	1.0	z a w^0 j aa ng^1
+เอาเอง	1.0	z a w^0 z ee ng^0
+เอาใจใส่	1.0	z a w^0 c a j^0 s a j^1
+เอียง	1.0	z iia ng^0
+เอื้อ	1.0	z vva z^2
+เอื้อพันธ์วิริยะกุล	1.0	z vva z^2 ph a n^0 w i z^3 r i z^3 j a z^3 k u n^0
+เอื้ออำนวย	1.0	z vva z^2 z a m^0 n uua j^0
+เอเก็น	1.0	z ee z^0 k e n^0
+เอเชีย	1.0	z ee z^0 ch iia z^0
+เอ็ด	1.0	z e t^1
+เอ็ดแว็ก	1.0	z e t^1 w e k^3
+เอ็นดู	1.0	z e n^0 d uu z^0
+เอ่ย	1.0	z qq j^1
+เอ้าท์พุท	1.0	z aa ph u t^3
+เอ๊ะ	1.0	z e z^3
+เฮิรทซ์	1.0	h i n^0 th
+แก	1.0	k xx z^0
+แกง	1.0	k xx ng^0
+แกตต์	1.0	k x t^3
+แกน	1.0	k xx n^0
+แกนกลาง	1.0	k xx n^0 kl aa ng^0
+แกนทรี	1.0	k xx n^0 thr ii z^0
+แกม	1.0	k xx m^4
+แกลเลอรี่	1.0	k xx l^0 l qq z^0 r ii z^2
+แกว่ง	1.0	k uua x ng^1
+แกะสลัก	1.0	k x z^1 s a z^1 l a k^1
+แก่	1.0	k xx z^1
+แก่งแย่ง	1.0	k x ng^1 j xx ng^2
+แก่จัด	1.0	k xx z^1 c a t^1
+แก่น	1.0	k x n^1
+แก้	1.0	k xx z^2
+แก้ตัว	1.0	k xx z^2 t uua z^0
+แก้ม	1.0	k xx m^0
+แก้ว	1.0	k xx w^2
+แก้วตา	1.0	k xx w^2 t aa z^0
+แก้วน้ำ	1.0	k xx w^2 n aa m^3
+แก้วมังกร	1.0	k xx w^3 m a ng^0 k @@ n^0
+แก้วหู	1.0	k xx w^2 h uu z^4
+แก้ไข	1.0	k xx z^2 kh a j^4
+แก๊ง	1.0	k x ng^3
+แก๊งสเตอร์	1.0	k x ng^3 s t qq z^2
+แก๊บ	1.0	k x p^1
+แข	1.0	kh xx z^4
+แขก	1.0	kh xx k^1
+แขน	1.0	kh xx n^4
+แขนง	1.0	kh a z^1 n xx ng^4
+แข็ง	1.0	kh x ng^4
+แข็งกร้าว	1.0	kh x ng^4 kr aa w^2
+แข็งขัน	1.0	kh x ng^4 kh a n^4
+แข็งแกร่ง	1.0	kh x ng^4 kr x ng^1
+แข็งแรง	1.0	kh x ng^4 r xx ng^0
+แข่งขัน	1.0	kh x ng^1 kh a n^4
+แข้ง	1.0	kh xx ng^2
+แคบ	1.0	kh xx p^2
+แคระแกร็น	1.0	kh a z^1 kr e n^0
+แคร่	1.0	kh a j^2
+แคลเซียม	1.0	khl xx z^0 s iia m^0
+แคว้น	1.0	khw xx n^3
+แค่	1.0	kh xx z^2
+แค้น	1.0	kh xx n^3
+แง่	1.0	ng xx z^2
+แง่มุม	1.0	ng xx z^2 m u m^0
+แจก	1.0	c xx k^1
+แจกจ่าย	1.0	c xx k^1 c aa j^1
+แจกแจง	1.0	c xx k^1 c xx ng^0
+แจ่มแจ้ง	1.0	c x m^1 c xx ng^2
+แจ้ง	1.0	c xx ng^2
+แชนแนล	1.0	ch o n^0 n xx l^0
+แช่	1.0	ch a j^2
+แดง	1.0	d xx ng^0
+แดด	1.0	d xx t^1
+แดน	1.0	d xx n^0
+แด่	1.0	d xx z^1
+แตก	1.0	t xx k^1
+แตกต่าง	1.0	t xx k^1 t aa ng^1
+แตกหัก	1.0	t xx k^1 h a k^1
+แตกแยก	1.0	t xx k^1 j xx k^2
+แตะ	1.0	t x z^1
+แตะต้อง	1.0	t x z^1 t @ ng^2
+แต่	1.0	t xx z^1
+แต่ก่อน	1.0	t xx z^1 k @@ n^1
+แต่ง	1.0	t x ng^1
+แต่งงาน	1.0	t x ng^1 ng aa n^0
+แต่งตัว	1.0	t xx ng^1 t uua z^0
+แต่งตั้ง	1.0	t x ng^1 t a ng^2
+แต่ประการใด	1.0	t xx z^1 pr a z^1 k aa n^0 d a j^0
+แต่ละ	1.0	t xx z^1 l a z^3
+แต่ว่า	1.0	t xx z^1 w aa z^2
+แต่อย่างใด	1.0	t xx z^1 j aa ng^1 d a j^0
+แต่เดิม	1.0	t xx z^1 d qq m^0
+แต่เพียง	1.0	t xx z^1 ph iia ng^0
+แถบ	1.0	th xx p^1
+แถบแม่เหล็ก	1.0	th xx p^1 m xx z^1 l e k^3
+แถลง	1.0	th a z^1 l xx ng^4
+แทง	1.0	th xx ng^0
+แทน	1.0	th xx n^0
+แทบ	1.0	th xx p^2
+แทรก	1.0	s xx k^2
+แทรกซึม	1.0	s xx k^2 s v m^0
+แทรกเตอร์	1.0	s xx k^2 t qq z^2
+แทรกแซง	1.0	s xx k^2 s xx ng^0
+แท็กซี่	1.0	th x k^3 s ii z^2
+แท่ง	1.0	th xx x ng^1
+แท้	1.0	th xx z^3
+แท้ง	1.0	th xx ng^3
+แท้จริง	1.0	th xx z^3 c i ng^0
+แท้ที่จริง	1.0	th xx z^3 th ii z^2 c i ng^0
+แนบแน่น	1.0	n xx p^1 n x n^2
+แนว	1.0	n xx w^0
+แนวดิ่ง	1.0	n xx w^0 d i ng^1
+แนวตั้ง	1.0	n xx w^0 t a ng^2
+แนวทาง	1.0	n xx w^0 th aa ng^0
+แนวนอน	1.0	n xx w^0 n @@ n^0
+แนวราบ	1.0	n xx w^0 r aa p^2
+แนวร่วม	1.0	n xx w^0 r uua m^2
+แนวแกน	1.0	n xx w^0 k xx n^0
+แนวโน้ม	1.0	n xx w^0 n oo m^3
+แนวโพลาไรช์	1.0	n xx w^0 phl aa r a
+แนะ	1.0	n x z^3
+แนะนำ	1.0	n x z^3 n a m^0
+แนะแนว	1.0	n x z^3 n xx w^0
+แน่	1.0	n xx z^2
+แน่ชัด	1.0	n xx z^2 ch a t^3
+แน่น	1.0	n x n^2
+แน่นอน	1.0	n xx z^2 n @@ n^0
+แน่นแฟ้น	1.0	n x n^2 f xx n^3
+แน่วแน่	1.0	n xx w^2 n xx z^2
+แน่ใจ	1.0	n xx z^2 c a j^0
+แบทเตน	1.0	b x t^1 t e n^0
+แบน	1.0	b xx n^0
+แบบ	1.0	b xx p^1
+แบบจำลอง	1.0	b xx p^1 c a m^0 l @@ ng^0
+แบบฉบับ	1.0	b xx p^1 ch a z^1 b a p^1
+แบบอย่าง	1.0	b xx p^1 j aa ng^1
+แบบแผน	1.0	b xx p^1 ph xx n^4
+แบ่ง	1.0	b x ng^1
+แบ่งปัน	1.0	b x ng^1 p a n^0
+แบ่งแยก	1.0	b x ng^1 j xx k^2
+แป	1.0	p xx z^0
+แปง	1.0	p xx ng^0
+แปซิฟิก	1.0	p xx z^0 s i z^3 f i k^1
+แปด	1.0	p xx t^1
+แปร	1.0	pr xx z^0
+แปรญัตติ	1.0	pr xx z^0 j a t^3 t i z^1
+แปรปรวน	1.0	pr xx z^0 pr uua n^0
+แปรผัน	1.0	pr xx z^0 ph a n^4
+แปรสภาพ	1.0	pr xx z^0 s a z^1 ph aa p^2
+แปรเปลี่ยน	1.0	pr xx z^0 pl iia n^1
+แปล	1.0	pl xx z^0
+แปลก	1.0	pl xx k^1
+แปลกๆ	1.0	pl xx k^1 k^1
+แปลง	1.0	pl xx ng^0
+แปลว่า	1.0	pl xx w aa z^2
+แปะ	1.0	p a z^1
+แป้น	1.0	p n^2
+แผน	1.0	ph xx n^4
+แผนการ	1.0	ph xx n^4 k aa n^0
+แผนงาน	1.0	ph xx n^4 ng aa n^0
+แผนภาพ	1.0	ph xx n^4 ph aa p^2
+แผล	1.0	phl xx z^4
+แผ่	1.0	ph xx z^1
+แผ่น	1.0	ph xx n^2
+แผ่นดิน	1.0	ph xx n^1 d i n^0
+แผ่นวงจร	1.0	ph xx n^1 w o ng^0 c @@ n^0
+แผ่นวงจรพิมพ์	1.0	ph xx n^1 w o ng^0 c @@ n^0 ph i m^0
+แฝง	1.0	f xx ng^4
+แพ	1.0	ph xx z^0
+แพง	1.0	ph xx ng^0
+แพทย์	1.0	ph xx t^2
+แพร่	1.0	phr xx z^2
+แพร่กระจาย	1.0	phr xx z^2 kr a z^1 c aa j^0
+แพร่หลาย	1.0	phr xx z^2 l aa j^4
+แพะ	1.0	ph x z^3
+แพ้	1.0	ph xx z^3
+แฟน	1.0	f xx n^0
+แฟ้ม	1.0	f x m^3
+แมกนีเซียม	1.0	m xx k^1 n ii z^0 s iia m^0
+แมงป่อง	1.0	m xx ng^0 p @@ ng^2
+แมนฮัตตัน	1.0	m xx n^0 h a t^3 t a n^2
+แมลง	1.0	m a z^3 l xx ng^0
+แมว	1.0	m xx w^0
+แม่	1.0	m xx z^2
+แม่ทัพ	1.0	m xx z^2 th a p^3
+แม่นยำ	1.0	m xx n^2 j a m^0
+แม่น้ำ	1.0	m xx z^2 n aa m^3
+แม่บ้าน	1.0	m xx z^2 b aa n^2
+แม่เหล็ก	1.0	m xx z^2 l e k^3
+แม้	1.0	m xx z^3
+แม้ว่า	1.0	m xx z^3 w aa z^2
+แม้แต่	1.0	m xx z^3 t xx z^1
+แยก	1.0	j xx k^2
+แยกตัว	1.0	j xx k^2 t uua z^0
+แยกสลาย	1.0	j xx k^2 s a z^1 l aa j^4
+แยกแยะ	1.0	j xx k^2 j x z^3
+แย็ค	1.0	j e k^1
+แย่	1.0	j xx z^2
+แย่ง	1.0	j xx ng^2
+แย้ง	1.0	j xx ng^3
+แรก	1.0	r xx k^2
+แรกเกิด	1.0	r xx k^2 k qq t^1
+แรกเริ่ม	1.0	r xx k^2 r qq m^2
+แรง	1.0	r xx ng^0
+แรงกระตุ้น	1.0	r xx ng^0 kr a z^1 t u n^2
+แรงกล้า	1.0	r xx ng^0 kl aa z^2
+แรงงาน	1.0	r xx ng^0 ng aa n^0
+แรงจูงใจ	1.0	r xx ng^0 c uu ng^0 c a j^0
+แรงดัน	1.0	r xx ng^0 d a n^0
+แรงดันไฟฟ้า	1.0	r xx ng^0 d a n^0 f a j^0 f aa z^3
+แรด	1.0	r xx t^2
+แร่ธาตุ	1.0	r xx z^2 th aa t^2
+แล	1.0	l xx z^0
+แลก	1.0	l xx k^2
+แลกเปลี่ยน	1.0	l xx k^2 pl iia n^1
+และ	1.0	l x z^3
+แล้ง	1.0	l xx ng^3
+แล้ว	1.0	l xx w^3
+แล้วมา	1.0	l xx w^3 m aa z^0
+แล้วแต่	1.0	l xx w^3 t xx z^1
+แวดล้อม	1.0	w xx t^2 l @@ m^3
+แวดวง	1.0	w xx t^2 w o ng^0
+แว่น	1.0	w xx n^2
+แสง	1.0	s xx ng^4
+แสดง	1.0	s a z^1 d xx ng^0
+แสดงผล	1.0	s a z^1 d xx ng^0 ph o n^4
+แสดงออก	1.0	s a z^1 d xx ng^0 z @@ k^1
+แสน	1.0	s xx n^4
+แสบๆ	1.0	s a z^1 b o ng^0
+แสลง	1.0	s a z^1 l xx ng^4
+แสวง	1.0	s a z^1 w xx ng^4
+แสวงหา	1.0	s a z^1 w xx ng^4 h aa z^4
+แหบ	1.0	h xx p^1
+แหลก	1.0	l xx k^1
+แหลม	1.0	l xx m^4
+แหละ	1.0	l x z^1
+แหล่ง	1.0	l x ng^1
+แหล่งข่าว	1.0	l xx ng^1 kh aa w^1
+แหล่งน้ำ	1.0	l x ng^1 n aa m^3
+แหวกว่าย	1.0	h xx w^0 kw aa j^1
+แห่	1.0	h xx z^1
+แห่ง	1.0	h xx ng^1
+แห่งชาติ	1.0	h xx ng^1 ch aa t^2
+แห้ง	1.0	h xx ng^2
+แห้งแล้ง	1.0	h xx ng^2 l xx ng^3
+แอดเดรส	1.0	z xx t^1 d r o t^3
+แอบ	1.0	z xx p^1
+แอบแฝง	1.0	z xx p^1 f xx ng^4
+แอฟริกัน	1.0	z x p^3 fr i z^3 k a n^0
+แอฟริกา	1.0	z x p^3 fr i z^3 k aa z^0
+แอมป์	1.0	z xx m^0
+แอร์	1.0	z xx z^0
+แอสเซมบลี	1.0	z xx t^3 s e m^0 bl ii z^2
+แออัด	1.0	z xx z^0 z a t^1
+แฮ	1.0	h xx z^0
+โกง	1.0	k oo ng^0
+โกย	1.0	k oo j^0
+โกยสุโข	1.0	k oo j^0 s u z^1 kh oo z^4
+โกรธ	1.0	kr oo t^1
+โกลน	1.0	kl oo n^0
+โกวิท	1.0	k oo z^0 w i t^3
+โก่ง	1.0	k oo ng^1
+โก้งโค้ง	1.0	k xx ng^2 kh xx ng^3
+โก๊ะ	1.0	k o z^3
+โก๋	1.0	k
+โขง	1.0	kh oo ng^4
+โขลก	1.0	kh a z^1 l o k^1
+โค	1.0	kh oo z^0
+โคนม	1.0	kh oo z^0 n o m^0
+โคบอล	1.0	kh oo z^0 b @ n^3
+โครง	1.0	khr oo ng^0
+โครงการ	1.0	khr oo ng^0 k aa n^0
+โครงการวิจัย	1.0	khr oo ng^0 k aa n^0 w i z^3 c a j^0
+โครงสร้าง	1.0	khr oo ng^0 s aa ng^2
+โครงเรื่อง	1.0	khr oo ng^0 r vva ng^2
+โคลน	1.0	khl xx n^0
+โควตา	1.0	kh oo z^0 t aa z^2
+โค่น	1.0	kh oo n^2
+โค้ง	1.0	kh xx ng^3
+โฆษณา	1.0	kh s a z^1 n aa z^0
+โง่	1.0	ng oo z^2
+โจ	1.0	c oo z^0
+โจมตี	1.0	c oo m^0 t ii z^0
+โจร	1.0	c oo n^0
+โจวเอินไหล	1.0	c oo w^0 z qq n^0 l a j^4
+โจฬะ	1.0	c oo z^0 l a z^3
+โฉม	1.0	ch oo m^4
+โฉมหน้า	1.0	ch oo m^4 n aa z^2
+โชกโชน	1.0	ch oo k^2 ch oo n^0
+โชค	1.0	ch oo k^2
+โชคดี	1.0	ch oo k^2 d ii z^0
+โชคลาง	1.0	ch oo khl aa ng^0
+โซเดียม	1.0	s oo z^0 d iia m^0
+โซเวียต	1.0	s oo z^0 w iia t^2
+โซ่ตรวน	1.0	s oo z^2 tr uua n^0
+โดดเดี่ยว	1.0	d oo t^1 d iia w^1
+โดดเด่น	1.0	d oo t^1 d e n^1
+โดน	1.0	d oo n^0
+โดย	1.0	d oo j^0
+โดยมาก	1.0	d oo j^0 m aa k^2
+โดยย่อ	1.0	d oo j^0 j @@ z^2
+โดยรวม	1.0	d oo j^0 r uua m^0
+โดยสังเขป	1.0	d oo j^0 s a ng^4 kh ee p^1
+โดยส่วนรวม	1.0	d oo j^0 s uua n^1 r uua m^0
+โดยเฉพาะ	1.0	d oo j^0 ch a z^1 ph @ z^3
+โดยเฉพาะอย่างยิ่ง	1.0	d oo j^0 ch a z^1 ph @ z^3 j aa ng^1 j i ng^2
+โดยเร็ว	1.0	d oo j^0 r e w^0
+โต	1.0	t oo z^0
+โตเกียว	1.0	t oo z^0 k iia w^0
+โต้	1.0	t oo z^2
+โต้ตอบ	1.0	t oo z^2 t @@ p^1
+โต้แย้ง	1.0	t oo z^2 j xx ng^3
+โต๊ะ	1.0	t o z^3
+โต๊ะกินข้าว	1.0	t o z^3 k i n^0 kh aa w^2
+โต๊ะงาน	1.0	t o z^3 ng aa n^0
+โท	1.0	th oo z^0
+โทรคมนาคม	1.0	th oo z^0 r a z^3 kh a z^2 m a z^2 n aa z^0 kh o m^0
+โทรทัศน์	1.0	th oo z^0 r a z^3 th a t^3
+โทรพิมพ์	1.0	th oo z^0 r a z^3 ph i m^0
+โทรศัพท์	1.0	th oo z^0 r a z^3 s a p^1
+โทษ	1.0	th oo t^2
+โนเบล	1.0	n oo z^0 b e w^0
+โน้น	1.0	n oo n^3
+โน้มน้าว	1.0	n oo m^3 n aa w^3
+โน้มเอียง	1.0	n oo m^3 z iia ng^0
+โบราณ	1.0	b oo z^0 r aa n^0
+โบราณกาล	1.0	b oo z^0 r aa n^0 n a z^3 k aa n^0
+โบราณสถาน	1.0	b oo z^0 r aa n^0 n a z^3 s a z^1 th aa n^4
+โปรดเกล้า	1.0	pr oo t^1 kl aa w^2
+โปรเจคชัน	1.0	pr oo c ee k^3 ch a n^0
+โปรเซส	1.0	pr oo z^0 s t^3
+โปรแกรม	1.0	pr oo z^0 kr x m^0
+โปรแกรมเมอร์	1.0	pr oo z^0 kr x m^0 m qq z^2
+โป๊ะ	1.0	pr o z^3
+โผงผาง	1.0	ph oo ng^4 ph aa ng^4
+โผล่	1.0	ph o n^4 z^1
+โพรง	1.0	ph oo z^0 r o ng^0
+โพลง	1.0	phl oo ng^0
+โพลีเนเชียน	1.0	ph oo z^0 l ii z^0 n ee z^0 ch iia n^2
+โพล้เพล้	1.0	phl a j^2 phl a j^2
+โพแทสเซียม	1.0	ph oo z^0 thr t^3 s iia m^0
+โฟตอน	1.0	f t @@ n^0
+โฟลว์ชาร์ต	1.0	f l oo z^0 ch aa t^3
+โฟโตทรานซิสเตอร์	1.0	f oo z^0 t oo z^0 s aa n^0 s i t^3 t qq z^2
+โฟโตสเฟียร์	1.0	f oo z^0 t oo z^0 s @@ z^0 f iia
+โภคภัณฑ์	1.0	ph oo k^2 k a z^3 ph a n^0
+โภชนาการ	1.0	ph oo t^2 ch a z^3 n aa z^0 k aa n^0
+โมฆะ	1.0	m oo z^0 kh a z^3
+โมริ	1.0	m oo z^0 r i z^3
+โมหะ	1.0	m oo z^0 h a z^1
+โมโห	1.0	m oo z^0 h oo z^0
+โยกย้าย	1.0	j oo k^2 j aa j^3
+โยง	1.0	j oo ng^0
+โยงใย	1.0	j oo ng^0 j a j^0
+โยธา	1.0	j oo z^0 th aa z^0
+โยธิน	1.0	j oo z^0 th i n^0
+โรการ์ด	1.0	r oo z^0 k aa t^1
+โรค	1.0	r oo k^2
+โรคภัยไข้เจ็บ	1.0	r oo k^2 ph a j^0 kh a j^2 c e p^1
+โรคเอดส์	1.0	r oo k^2 z ee t^1
+โรง	1.0	r oo ng^0
+โรงงาน	1.0	r oo ng^0 ng aa n^0
+โรงพยาบาล	1.0	r oo ng^0 ph a z^3 j aa z^0 b aa n^0
+โรงเรียน	1.0	r oo ng^0 r iia n^0
+โรงเรือน	1.0	r oo ng^0 r vva n^0
+โรงไฟฟ้า	1.0	r oo ng^0 f a j^0 f aa z^3
+โรจนนิล	1.0	r oo t^2 c a z^1 n a z^3 n i n^0
+โรจนเสถียร	1.0	r oo t^2 c a z^1 n a z^3 s a z^1 th iia n^4
+โรจน์	1.0	r oo t^2
+โรมัน	1.0	r oo z^0 m a n^0
+โรแมนติก	1.0	r oo z^0 m xx n^0 t i k^1
+โลก	1.0	l oo k^2
+โลกทัศน์	1.0	l oo k^2 k a z^1 th a t^3
+โลกุตรภูมิ	1.0	l oo z^0 k u t^1 t a z^1 r a z^3 ph uu m^0
+โลหะ	1.0	l oo z^0 h a z^1
+โลหิต	1.0	l oo z^0 h i t^1
+โศก	1.0	s oo k^1
+โศกนาฏกรรม	1.0	s oo k^1 k a z^1 n aa t^2 t a z^1 k a m^0
+โสด	1.0	s oo t^1
+โสต	1.0	s oo t^1
+โสตสัมผัส	1.0	s oo t^1 s a m^4 ph a t^1
+โสภา	1.0	s oo z^4 ph aa z^0
+โสร่ง	1.0	s a z^1 r oo ng^1
+โสเภณี	1.0	s oo z^4 ph ee z^0 n ii z^0
+โหงวเฮ้ง	1.0	ng oo w^4 h e ng^3
+โหม	1.0	h oo m^4
+โหมด	1.0	m o t^1
+โหราศาสตร์	1.0	h oo z^4 r aa z^0 s aa t^1
+โหว่	1.0	w oo z^1
+โอกาส	1.0	z oo z^0 k aa t^1
+โอน	1.0	z oo n^0
+โอบอุ้ม	1.0	z oo p^1 z u m^2
+โอวาท	1.0	z oo z^0 w aa t^1
+โอโซน	1.0	z oo z^0 s oo n^0
+โอ้อวด	1.0	z oo z^2 z uua t^1
+โอ๊ค	1.0	z oo k^3
+โฮปเวลล์	1.0	h oo p^3 w e w^0
+โฮล	1.0	h n^0
+โฮลสไตน์ฟรีเชียน	1.0	h ee l^0 tr fr ii z^0 ch iia n^2
+ใกล้	1.0	kl a j^2
+ใกล้ชิด	1.0	kl a j^2 ch i t^3
+ใกล้เคียง	1.0	kl a j^2 kh iia ng^0
+ใคร	1.0	khr a j^0
+ใคร่	1.0	khr a j^2
+ใคร่รู้	1.0	khr a j^2 r uu z^3
+ใจ	1.0	c a j^0
+ใจกว้าง	1.0	c a j^0 kw aa ng^2
+ใจความ	1.0	c a j^0 khw aa m^0
+ใจหาย	1.0	c a j^0 h aa j^4
+ใจเดียว	1.0	c a j^0 d iia w^0
+ใช่	1.0	ch a j^2
+ใช่ไหม	1.0	ch a j^2 m a j^4
+ใช้	1.0	ch a j^3
+ใช้การ	1.0	ch a j^3 k aa n^0
+ใช้งาน	1.0	ch a j^3 ng aa n^0
+ใช้สอย	1.0	ch a j^3 s @@ j^4
+ใช้ได้	1.0	ch a j^3 d aa j^2
+ใด	1.0	d a j^0
+ใดๆ	1.0	d a j^0 k^1
+ใต้	1.0	t aa j^2
+ใต้ถุน	1.0	t a j^2 th u n^4
+ใน	1.0	n a j^0
+ในกรณีที่	1.0	n a j^0 k @@ z^0 r a z^3 n ii z^0 th ii z^2
+ในเมื่อ	1.0	n a j^0 m vva z^2
+ใบ	1.0	b a j^0
+ใบตอง	1.0	b a j^0 t @@ ng^0
+ใบหน้า	1.0	b a j^0 n aa z^2
+ใบอนุญาต	1.0	b a j^0 z a z^1 n u z^3 j aa t^2
+ใบไม้	1.0	b a j^0 m a j^3
+ใบไม้แห้ง	1.0	b a j^0 m a j^3 h xx ng^2
+ใฝ่	1.0	f a j^1
+ใฝ่ฝัน	1.0	f a j^1 f a n^4
+ใย	1.0	j a j^0
+ใส	1.0	s a j^4
+ใส่	1.0	s a j^1
+ใส่ใจ	1.0	s a j^1 c a j^0
+ใหญ่	1.0	j a j^1
+ใหญ่หลวง	1.0	j a j^1 l uua ng^4
+ใหญ่โต	1.0	j a j^1 t oo z^0
+ใหม่	1.0	m a j^1
+ใหม่ๆ	1.0	m a j^1 k^1
+ให้	1.0	h a j^2
+ให้การ	1.0	h a j^2 k aa n^0
+ให้คุณ	1.0	h a j^2 kh u n^0
+ให้บริการ	1.0	h a j^2 b @@ z^0 r i z^3 k aa n^0
+ให้เปล่า	1.0	h a j^2 pl aa w^1
+ให้แก่	1.0	h a j^2 k xx z^1
+ให้โทษ	1.0	h a j^2 th oo t^2
+ไกล	1.0	kl a j^0
+ไก่	1.0	k a j^1
+ไก๋	1.0	k
+ไขราหน้าจั่ว	1.0	kh a z^1 r aa z^0 n aa z^2 c uua z^2
+ไขว่คว้า	1.0	khw a j^1 khw aa z^3
+ไขว้เขว	1.0	khw a j^2 khw ee z^4
+ไข้	1.0	kh a j^2
+ไซ	1.0	s a j^0
+ไซนัส	1.0	s a j^0 n a t^3
+ได	1.0	d a j^0
+ไดร์ฟเวอร์	1.0	f w @@
+ไดอะแกรม	1.0	d q z^3 kr x m^0
+ไดเพล็กเซอร์	1.0	d aa phl ee e k^3 s @@
+ได้	1.0	d aa j^2
+ได้ฉาก	1.0	d aa j^2 ch aa k^1
+ได้ผล	1.0	d aa j^2 ph o n^4
+ได้มา	1.0	d aa j^2 m aa z^0
+ได้ยิน	1.0	d aa j^2 j i n^0
+ได้รับ	1.0	d aa j^2 r a p^3
+ได้แก่	1.0	d aa j^2 k xx z^1
+ไต	1.0	t a j^0
+ไตรมาส	1.0	tr a j^0 m aa t^2
+ไต่เต้า	1.0	t a j^1 t a w^2
+ไถ	1.0	t^2
+ไทย	1.0	th a j^0
+ไทยสาร	1.0	th a j^0 s aa n^4
+ไนโตรเจน	1.0	n^0 t oo z^0 r a z^3 c ee n^0
+ไป	1.0	p a j^0
+ไพฑูรย์	1.0	ph a j^0 th uu n^0
+ไพศาล	1.0	ph a j^0 s aa n^4
+ไพเราะ	1.0	ph a j^0 r @ z^3
+ไพ่	1.0	ph a j^2
+ไฟ	1.0	f a j^0
+ไฟฟ้า	1.0	f a j^0 f aa z^3
+ไมครอน	1.0	m a z^3 khr @@ n^0
+ไมตรี	1.0	m a j^0 tr ii z^0
+ไมโคร	1.0	m a j^0 khr oo z^0
+ไมโครคอนโทรเลอร	1.0	m a j^0 khr oo z^0 kh @@ n^0 th oo z^0 r a z^3 l qq
+ไมโครคอนโทรเลอร์	1.0	m a j^0 khr oo z^0 kh @@ n^0 th oo z^0 r a z^3 l qq z^2
+ไมโครคอมพิวเตอร์	1.0	m a j^0 khr oo z^0 kh @ m^0 ph i w^3 t qq z^2
+ไมโครซอฟท์	1.0	m a j^0 khr oo z^0 s @@ p^3
+ไมโครโพรเซสเซอร์	1.0	m a j^0 khr oo z^0 ph oo z^0 r a z^3 s t^3 s @@
+ไม่	1.0	m a j^2
+ไม่ค่อย	1.0	m a j^2 kh @ j^2
+ไม่ชอบมาพากล	1.0	m a j^2 ch @@ p^2 m aa z^0 ph aa z^0 k o n^0
+ไม่ว่า	1.0	m a j^2 w aa z^2
+ไม่ได้	1.0	m a j^2 d aa j^2
+ไม้	1.0	m aa j^3
+ไม้กางเขน	1.0	m aa j^3 k aa ng^0 kh ee n^0
+ไม้ดอก	1.0	m aa j^3 d @@ k^1
+ไม้ประดับ	1.0	m aa j^3 pr a z^1 d a p^1
+ไม้ไผ่	1.0	m aa j^3 d ph xx z^1
+ไยดี	1.0	j a j^0 d ii z^0
+ไร่	1.0	r a j^2
+ไร้	1.0	r a j^3
+ไล่	1.0	l a j^2
+ไวรัส	1.0	w a j^0 r a t^3
+ไว้	1.0	w a j^3
+ไว้วางใจ	1.0	w a j^3 w aa ng^0 c a j^0
+ไว้ใจ	1.0	w a j^3 c a j^0
+ไสยศาสตร์	1.0	s a j^4 j a z^3 s aa t^1
+ไส้เดือนฝอย	1.0	s a j^2 d vva n^2 f @@ j^0
+ไหน	1.0	n a j^4
+ไหม	1.0	m a j^4
+ไหล	1.0	l a j^4
+ไหลบ่า	1.0	l a j^4 b aa z^1
+ไหว	1.0	w a j^4
+ไหว้	1.0	w a j^2
+ไอ	1.0	z
+ไอซี	1.0	z s ii z^0
+ไอเอฟ	1.0	z @@ p^3
+ไอโอดีน	1.0	z a z^3 z oo z^2 d ii n^0
+ไอ้	1.0	z a j^2
+ไฮโดรเจน	1.0	h d oo z^0 r a z^3 c ee n^0
+้ว่า	1.0	s aa j^2 w aa z^2
+์เบอร์	1.0	b qq z^0
+๑	1.0	n v ng^1
+๑๙	1.0	s i p^1 k aa w^2
+๒	1.0	s @@ ng^4
+๓	1.0	s aa m^4
+๔	1.0	s ii z^1
+๕๖	1.0	h aa z^2 s i p^1 h o k^1
+๕๗	1.0	h aa z^2 s i p^1 c e t^1
+๖	1.0	h o k^1
+๖.๑	1.0	h o k^1 c u t^1 n v ng^1
+๗	1.0	c e t^1

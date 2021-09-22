@@ -1,0 +1,3 @@
+CCM046 /opt/kaldi/egs/king/v15/mfcc/cmvn_test.ark:7
+COF004 /opt/kaldi/egs/king/v15/mfcc/cmvn_test.ark:301
+COF024 /opt/kaldi/egs/king/v15/mfcc/cmvn_test.ark:595
